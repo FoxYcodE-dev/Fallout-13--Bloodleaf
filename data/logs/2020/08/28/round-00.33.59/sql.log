@@ -1,0 +1,33 @@
+[2020-08-28 04:33:59.587] SQL: Failed to connect to database while loading admins. Loading from backup.
+[2020-08-28 04:33:59.588] SQL: not connected | Query used: INSERT INTO admin_ranks
+ - (rank, flags, exclude_flags, can_edit_flags)
+ - VALUES
+ - 	('', , , ),
+ - 	('', , , ),
+ - 	('', , , ),
+ - 	('', , , ),
+ - 	('', , , ),
+ - 	('', , , ),
+ - 	('', , , ),
+ - 	('', , , ),
+ - 	('', , , ),
+ - 	('', , , ),
+ - 	('', , , ),
+ - 	('', , , ),
+ - 	('', , , ),
+ - 	('', , , ),
+ - 	('', , , ),
+ - 	('', , , ),
+ - 	('', , , ),
+ - 	('', , , ),
+ - 	('', , , ),
+ - 	('', , , ),
+ - 	('', , , ),
+ - 	('', , , )
+ - ON DUPLICATE KEY UPDATE rank = VALUES(rank), flags = VALUES(flags), exclude_flags = VALUES(exclude_flags), can_edit_flags = VALUES(can_edit_flags)
+ - 
+[2020-08-28 04:33:59.592] SQL: not connected | Query used: SELECT ckey, rank FROM admin ORDER BY rank
+[2020-08-28 04:33:59.592] SQL: Error loading admins from database. Loading from backup.
+[2020-08-28 07:21:08.020] SQL: Failed to connect to database while loading admins. Loading from backup.
+[2020-08-28 07:21:08.034] SQL: not connected | Query used: SELECT ckey, rank FROM admin ORDER BY rank
+[2020-08-28 07:21:08.034] SQL: Error loading admins from database. Loading from backup.

@@ -1,0 +1,15 @@
+[2020-08-27 22:48:22.357] Starting up round ID .
+ - -------------------------
+[2020-08-27 22:48:43.030] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=chat&proc=doneLoading
+[2020-08-27 22:48:43.536] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"ghostly98","ip":"127.0.0.1","compid":"1271285026"},{"ckey":"ghostly98","ip":"75.163.21.179","compid":"1271285026"},{"ckey":"ghostly98","ip":"24.62.253.225","compid":"1271285026"},{"ckey":"guest1271285026","ip":"127.0.0.1","compid":"1271285026"}]}
+[2020-08-27 22:48:50.824] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : Ghostly98 src=[mob_6];show_preferences=1
+[2020-08-27 22:48:57.230] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : /datum/preferences close=1
+[2020-08-27 22:49:44.776] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : Ghostly98 src=[mob_6];ready=1
+[2020-08-27 22:52:37.242] HREF: Ghostly98 (usr:Floyd Tin[(72,190,4)]) : Nuclear Fission Reactor Control Unit src=[0x2007e2a];refreshstability=1
+[2020-08-27 22:52:39.337] HREF: Ghostly98 (usr:Floyd Tin[(72,190,4)]) : Nuclear Fission Reactor Control Unit src=[0x2007e2a];refresh=1
+[2020-08-27 22:52:42.455] HREF: Ghostly98 (usr:Floyd Tin[(72,190,4)]) : Nuclear Fission Reactor Control Unit src=[0x2007e2a];togglestatus=1
+[2020-08-27 23:00:21.017] HREF: Ghostly98 (usr:Floyd Tin[(47,139,4)]) : _src_=holder;admin_token=25321867557067218109109609310052176;editrights=rank;ckey=ghostly98
+[2020-08-27 23:00:24.615] HREF: Ghostly98 (usr:Floyd Tin[(47,139,4)]) : _src_=holder;admin_token=25321867557067218109109609310052176;revive=[mob_807]
+[2020-08-27 23:01:36.970] HREF: Ghostly98 (usr:Floyd Tin[(76,141,4)]) : _src_=holder;admin_token=25321867557067218109109609310052176;revive=[mob_807]
+[2020-08-27 23:05:20.841] HREF: Ghostly98 (usr:Floyd Tin[(90,142,4)]) : _src_=holder;admin_token=25321867557067218109109609310052176;revive=[mob_807]
+[2020-08-27 23:06:19.224] HREF: Ghostly98 (usr:Floyd Tin[(89,155,4)]) : _src_=holder;admin_token=25321867557067218109109609310052176;revive=[mob_807]

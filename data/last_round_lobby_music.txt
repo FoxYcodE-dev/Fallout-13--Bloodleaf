@@ -1,0 +1,5 @@
+sound/f13/lobby1.ogg
+sound/f13/lobby1.ogg
+sound/f13/lobby3.ogg
+sound/f13/lobby3.ogg
+sound/f13/lobby4.ogg

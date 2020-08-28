@@ -1,0 +1,11 @@
+Path : /mob/dview 
+- Didn't call atom/Initialize()
+Path : /obj/item/organ/heart/gland/chem 
+- Didn't return an Initialize hint
+Path : /obj/item/bodypart/l_arm 
+- Qdel'd in New()
+Path : /obj/item/bodypart/r_arm 
+- Qdel'd in New()
+Path : /obj/item/lock_construct 
+- Didn't return an Initialize hint
+

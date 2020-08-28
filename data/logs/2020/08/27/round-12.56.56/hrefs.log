@@ -1,0 +1,6 @@
+[2020-08-27 16:56:56.843] Starting up round ID .
+ - -------------------------
+[2020-08-27 16:57:02.389] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"ghostly98","ip":"127.0.0.1","compid":"1271285026"},{"ckey":"ghostly98","ip":"75.163.21.179","compid":"1271285026"},{"ckey":"ghostly98","ip":"24.62.253.225","compid":"1271285026"},{"ckey":"guest1271285026","ip":"127.0.0.1","compid":"1271285026"}]}
+[2020-08-27 16:57:54.929] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : Ghostly98 src=[mob_6];show_preferences=1
+[2020-08-27 16:57:56.743] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : /datum/preferences close=1
+[2020-08-27 16:58:27.995] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : Ghostly98 src=[mob_6];ready=1

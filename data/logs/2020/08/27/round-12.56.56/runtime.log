@@ -1,0 +1,259 @@
+[2020-08-27 16:56:56.845] Starting up round ID .
+ - -------------------------
+[2020-08-27 16:56:56.849] Running /tg/ revision: 
+ - No commit information
+[2020-08-27 16:56:57.138] Ban database connection failure. Key ghostly98 not checked
+[2020-08-27 16:56:57.835] Initialized Database subsystem within 0 seconds!
+[2020-08-27 16:56:57.839] Initialized Blackbox subsystem within 0 seconds!
+[2020-08-27 16:56:57.842] Initialized Server Tasks subsystem within 0 seconds!
+[2020-08-27 16:56:57.844] Initialized Input subsystem within 0 seconds!
+[2020-08-27 16:56:57.861] runtime error: WARNING: Design ID clash with ID emitter detected!
+ - proc name: stack trace (/proc/stack_trace)
+ -   source file: unsorted.dm,1241
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - stack trace("WARNING: Design ID clash with ...")
+ - initialize all techweb designs(0)
+ - Research (/datum/controller/subsystem/research): Initialize(610178)
+ - Master (/datum/controller/master): Initialize(10, 0)
+ - 
+[2020-08-27 16:56:57.867] ## WARNING: Invalid research design with ID siege cannon detected in node Industrial Engineering[engineering] removed. in code/modules/research/techweb/__techweb_helpers.dm at line 94 src:  usr: .
+[2020-08-27 16:56:57.869] ## WARNING: Invalid research design with ID health_hud_night detected in node Night Vision Technology[NVGtech] removed. in code/modules/research/techweb/__techweb_helpers.dm at line 94 src:  usr: .
+[2020-08-27 16:56:57.870] ## WARNING: Invalid research design with ID security_hud_night detected in node Night Vision Technology[NVGtech] removed. in code/modules/research/techweb/__techweb_helpers.dm at line 94 src:  usr: .
+[2020-08-27 16:56:57.871] ## WARNING: Invalid research design with ID diagnostic_hud_night detected in node Night Vision Technology[NVGtech] removed. in code/modules/research/techweb/__techweb_helpers.dm at line 94 src:  usr: .
+[2020-08-27 16:56:57.872] ## WARNING: Invalid research design with ID night_visision_goggles detected in node Night Vision Technology[NVGtech] removed. in code/modules/research/techweb/__techweb_helpers.dm at line 94 src:  usr: .
+[2020-08-27 16:56:57.875] ## WARNING: Invalid research design with ID nvgmesons detected in node Night Vision Technology[NVGtech] removed. in code/modules/research/techweb/__techweb_helpers.dm at line 94 src:  usr: .
+[2020-08-27 16:56:57.877] ## WARNING: Invalid research design with ID ci-toolset detected in node Advanced Cybernetic Implants[adv_cyber_implants] removed. in code/modules/research/techweb/__techweb_helpers.dm at line 94 src:  usr: .
+[2020-08-27 16:56:57.879] ## WARNING: Invalid research design with ID ci-surgery detected in node Advanced Cybernetic Implants[adv_cyber_implants] removed. in code/modules/research/techweb/__techweb_helpers.dm at line 94 src:  usr: .
+[2020-08-27 16:56:57.880] ## WARNING: Invalid research design with ID ci-thermals detected in node Combat Cybernetic Implants[combat_cyber_implants] removed. in code/modules/research/techweb/__techweb_helpers.dm at line 94 src:  usr: .
+[2020-08-27 16:56:57.895] Initialized Research subsystem within 0 seconds!
+[2020-08-27 16:56:57.900] Initialized Events subsystem within 0 seconds!
+[2020-08-27 16:56:57.908] Initialized Jobs subsystem within 0 seconds!
+[2020-08-27 16:56:57.910] Initialized Quirks subsystem within 0 seconds!
+[2020-08-27 16:56:57.925] Initialized Ticker subsystem within 0 seconds!
+[2020-08-27 16:56:57.927] Loading Pahrump...
+[2020-08-27 16:57:02.390] Ban database connection failure. Key guest1271285026 not checked
+[2020-08-27 16:57:02.392] Ban database connection failure. Key ghostly98 not checked
+[2020-08-27 16:57:02.394] Ban database connection failure. Key ghostly98 not checked
+[2020-08-27 16:57:02.400] Ban database connection failure. Key ghostly98 not checked
+[2020-08-27 16:57:17.591] Loaded Wasteland in 19.6s!
+[2020-08-27 16:57:22.028] Loaded Dungeons in 4.4s!
+[2020-08-27 16:57:22.472] Ruin loader finished with 0 left to spend.
+[2020-08-27 16:57:27.998] Initialized Mapping subsystem within 30 seconds!
+[2020-08-27 16:57:28.001] Initialized Networks subsystem within 0 seconds!
+[2020-08-27 16:57:56.629] Initialized Atoms subsystem within 28.6 seconds!
+[2020-08-27 16:57:56.642] Initialized Language subsystem within 0 seconds!
+[2020-08-27 16:57:56.671] Initialized Machines subsystem within 0 seconds!
+[2020-08-27 16:57:56.721] Initialized Circuit subsystem within 0.1 seconds!
+[2020-08-27 16:57:56.727] Initialized Disease subsystem within 0 seconds!
+[2020-08-27 16:57:56.729] Initialized Item Spawners subsystem within 0 seconds!
+[2020-08-27 16:57:56.730] Initialized Medals subsystem within 0 seconds!
+[2020-08-27 16:57:56.731] Initialized Mob Spawners subsystem within 0 seconds!
+[2020-08-27 16:57:56.733] Initialized Radiation subsystem within 0 seconds!
+[2020-08-27 16:57:56.734] Initialized Day/Night Cycle subsystem within 0 seconds!
+[2020-08-27 16:57:56.735] Initialized Night Shift subsystem within 0 seconds!
+[2020-08-27 16:57:56.737] Initialized Parallax subsystem within 0 seconds!
+[2020-08-27 16:57:58.749] Initialized Bot Comms subsystem within 2 seconds!
+[2020-08-27 16:57:58.863] Initialized Traumas subsystem within 0.1 seconds!
+[2020-08-27 16:57:58.865] Initialized Weather subsystem within 0 seconds!
+[2020-08-27 16:58:03.724] ## WARNING: There are 6 active turfs at roundstart, this is a mapping error caused by a difference of the air between the adjacent turfs. You can see its coordinates using "Mapping -> Show roundstart AT list" verb (debug verbs required)
+[2020-08-27 16:58:03.733] ## WARNING: HEY! LISTEN! 0 seconds were wasted processing 6 turf(s) (connected to 14 other turfs) with atmos differences at round start.
+[2020-08-27 16:58:03.742] ## WARNING: build_pipeline(): /obj/machinery/atmospherics/pipe/simple/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (128, 85, 1)
+[2020-08-27 16:58:03.743] ## WARNING: build_pipeline(): /obj/machinery/atmospherics/pipe/manifold/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (129, 85, 1)
+[2020-08-27 16:58:03.744] ## WARNING: build_pipeline(): /obj/machinery/atmospherics/pipe/simple/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (127, 85, 1)
+[2020-08-27 16:58:03.745] ## WARNING: build_pipeline(): /obj/machinery/atmospherics/pipe/simple/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (129, 86, 1)
+[2020-08-27 16:58:03.746] ## WARNING: build_pipeline(): /obj/machinery/atmospherics/pipe/simple/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (130, 85, 1)
+[2020-08-27 16:58:03.748] ## WARNING: build_pipeline(): /obj/machinery/atmospherics/pipe/simple/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (126, 85, 1)
+[2020-08-27 16:58:03.749] ## WARNING: build_pipeline(): /obj/machinery/atmospherics/pipe/simple/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (129, 87, 1)
+[2020-08-27 16:58:03.750] ## WARNING: build_pipeline(): /obj/machinery/atmospherics/pipe/simple/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (131, 85, 1)
+[2020-08-27 16:58:03.751] ## WARNING: build_pipeline(): /obj/machinery/atmospherics/pipe/manifold/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (125, 85, 1)
+[2020-08-27 16:58:03.752] ## WARNING: build_pipeline(): /obj/machinery/atmospherics/pipe/simple/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (129, 88, 1)
+[2020-08-27 16:58:03.754] ## WARNING: build_pipeline(): further messages about pipenets will be supressed
+[2020-08-27 16:58:03.758] Initialized Atmospherics subsystem within 4.9 seconds!
+[2020-08-27 16:58:08.518] runtime error: duplicate sprite "emitter" in sheet design (/datum/asset/spritesheet/research_designs)
+ - proc name: Insert (/datum/asset/spritesheet/proc/Insert)
+ -   source file: asset_cache.dm,295
+ -   usr: null
+ -   src: design (/datum/asset/spritesheet/research_designs)
+ -   call stack:
+ - design (/datum/asset/spritesheet/research_designs): Insert("emitter", /icon (/icon), "", 2, 1, 0)
+ - design (/datum/asset/spritesheet/research_designs): register()
+ - design (/datum/asset/spritesheet/research_designs): New()
+ - get asset datum(/datum/asset/spritesheet/resea... (/datum/asset/spritesheet/research_designs))
+ - Assets (/datum/controller/subsystem/assets): Initialize(610837)
+ - Master (/datum/controller/master): Initialize(10, 0)
+ - 
+[2020-08-27 16:58:09.689] Initialized Assets subsystem within 5.9 seconds!
+[2020-08-27 16:58:09.715] runtime error: No valid destination passed into forceMove
+ - proc name: forceMove (/atom/movable/proc/forceMove)
+ -   source file: atoms_movable.dm,354
+ -   usr: null
+ -   src: the match (/obj/item/match)
+ -   src.loc: the matchbox (/obj/item/storage/box/matches)
+ -   call stack:
+ - the match (/obj/item/match): forceMove(null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete):  insert physical item(the match (/obj/item/match), 0)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): handle item insertion(the match (/obj/item/match), 1, null, null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): signal fill type(/obj/item/match (/obj/item/match), 10, 0)
+ - /datum/callback (/datum/callback): InvokeAsync(/obj/item/match (/obj/item/match))
+ - 
+[2020-08-27 16:58:09.732] runtime error: No valid destination passed into forceMove
+ - proc name: forceMove (/atom/movable/proc/forceMove)
+ -   source file: atoms_movable.dm,354
+ -   usr: null
+ -   src: the match (/obj/item/match)
+ -   src.loc: the matchbox (/obj/item/storage/box/matches)
+ -   call stack:
+ - the match (/obj/item/match): forceMove(null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete):  insert physical item(the match (/obj/item/match), 0)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): handle item insertion(the match (/obj/item/match), 1, null, null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): signal fill type(/obj/item/match (/obj/item/match), 10, 0)
+ - /datum/callback (/datum/callback): InvokeAsync(/obj/item/match (/obj/item/match))
+ - 
+[2020-08-27 16:58:09.751] runtime error: No valid destination passed into forceMove
+ - proc name: forceMove (/atom/movable/proc/forceMove)
+ -   source file: atoms_movable.dm,354
+ -   usr: null
+ -   src: the match (/obj/item/match)
+ -   src.loc: the matchbox (/obj/item/storage/box/matches)
+ -   call stack:
+ - the match (/obj/item/match): forceMove(null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete):  insert physical item(the match (/obj/item/match), 0)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): handle item insertion(the match (/obj/item/match), 1, null, null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): signal fill type(/obj/item/match (/obj/item/match), 10, 0)
+ - /datum/callback (/datum/callback): InvokeAsync(/obj/item/match (/obj/item/match))
+ - 
+[2020-08-27 16:58:09.767] runtime error: No valid destination passed into forceMove
+ - proc name: forceMove (/atom/movable/proc/forceMove)
+ -   source file: atoms_movable.dm,354
+ -   usr: null
+ -   src: the match (/obj/item/match)
+ -   src.loc: the matchbox (/obj/item/storage/box/matches)
+ -   call stack:
+ - the match (/obj/item/match): forceMove(null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete):  insert physical item(the match (/obj/item/match), 0)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): handle item insertion(the match (/obj/item/match), 1, null, null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): signal fill type(/obj/item/match (/obj/item/match), 10, 0)
+ - /datum/callback (/datum/callback): InvokeAsync(/obj/item/match (/obj/item/match))
+ - 
+[2020-08-27 16:58:09.782] runtime error: No valid destination passed into forceMove
+ - proc name: forceMove (/atom/movable/proc/forceMove)
+ -   source file: atoms_movable.dm,354
+ -   usr: null
+ -   src: the match (/obj/item/match)
+ -   src.loc: the matchbox (/obj/item/storage/box/matches)
+ -   call stack:
+ - the match (/obj/item/match): forceMove(null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete):  insert physical item(the match (/obj/item/match), 0)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): handle item insertion(the match (/obj/item/match), 1, null, null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): signal fill type(/obj/item/match (/obj/item/match), 10, 0)
+ - /datum/callback (/datum/callback): InvokeAsync(/obj/item/match (/obj/item/match))
+ - 
+[2020-08-27 16:58:09.797] runtime error: No valid destination passed into forceMove
+ - proc name: forceMove (/atom/movable/proc/forceMove)
+ -   source file: atoms_movable.dm,354
+ -   usr: null
+ -   src: the match (/obj/item/match)
+ -   src.loc: the matchbox (/obj/item/storage/box/matches)
+ -   call stack:
+ - the match (/obj/item/match): forceMove(null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete):  insert physical item(the match (/obj/item/match), 0)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): handle item insertion(the match (/obj/item/match), 1, null, null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): signal fill type(/obj/item/match (/obj/item/match), 10, 0)
+ - /datum/callback (/datum/callback): InvokeAsync(/obj/item/match (/obj/item/match))
+ - 
+[2020-08-27 16:58:09.814] runtime error: No valid destination passed into forceMove
+ - proc name: forceMove (/atom/movable/proc/forceMove)
+ -   source file: atoms_movable.dm,354
+ -   usr: null
+ -   src: the match (/obj/item/match)
+ -   src.loc: the matchbox (/obj/item/storage/box/matches)
+ -   call stack:
+ - the match (/obj/item/match): forceMove(null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete):  insert physical item(the match (/obj/item/match), 0)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): handle item insertion(the match (/obj/item/match), 1, null, null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): signal fill type(/obj/item/match (/obj/item/match), 10, 0)
+ - /datum/callback (/datum/callback): InvokeAsync(/obj/item/match (/obj/item/match))
+ - 
+[2020-08-27 16:58:09.833] runtime error: No valid destination passed into forceMove
+ - proc name: forceMove (/atom/movable/proc/forceMove)
+ -   source file: atoms_movable.dm,354
+ -   usr: null
+ -   src: the match (/obj/item/match)
+ -   src.loc: the matchbox (/obj/item/storage/box/matches)
+ -   call stack:
+ - the match (/obj/item/match): forceMove(null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete):  insert physical item(the match (/obj/item/match), 0)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): handle item insertion(the match (/obj/item/match), 1, null, null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): signal fill type(/obj/item/match (/obj/item/match), 10, 0)
+ - /datum/callback (/datum/callback): InvokeAsync(/obj/item/match (/obj/item/match))
+ - 
+[2020-08-27 16:58:09.846] runtime error: No valid destination passed into forceMove
+ - proc name: forceMove (/atom/movable/proc/forceMove)
+ -   source file: atoms_movable.dm,354
+ -   usr: null
+ -   src: the match (/obj/item/match)
+ -   src.loc: the matchbox (/obj/item/storage/box/matches)
+ -   call stack:
+ - the match (/obj/item/match): forceMove(null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete):  insert physical item(the match (/obj/item/match), 0)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): handle item insertion(the match (/obj/item/match), 1, null, null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): signal fill type(/obj/item/match (/obj/item/match), 10, 0)
+ - /datum/callback (/datum/callback): InvokeAsync(/obj/item/match (/obj/item/match))
+ - 
+[2020-08-27 16:58:16.595] Initialized Icon Smoothing subsystem within 6.7 seconds!
+[2020-08-27 16:58:17.858] Initialized Overlay subsystem within 1.3 seconds!
+[2020-08-27 16:58:17.860] Initialized XKeyScore subsystem within 0 seconds!
+[2020-08-27 16:58:17.861] Initialized Sticky Ban subsystem within 0 seconds!
+[2020-08-27 16:58:29.021] Initialized Lighting subsystem within 11.2 seconds!
+[2020-08-27 16:58:30.420] Initialized Shuttle subsystem within 1.4 seconds!
+[2020-08-27 16:58:30.423] Initialized Squeak subsystem within 0 seconds!
+[2020-08-27 16:58:30.426] Initialized Pathfinder subsystem within 0 seconds!
+[2020-08-27 16:58:30.473] Loaded 1 engraved messages on map Pahrump
+[2020-08-27 16:58:30.475] Initialized Persistence subsystem within 0 seconds!
+[2020-08-27 16:58:30.476] Initializations complete within 92.6 seconds!
+[2020-08-27 16:58:40.790] runtime error: bad resource file
+ - proc name: send asset (/proc/send_asset)
+ -   source file: asset_cache.dm,53
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - send asset(Ghostly98 (/client), "objitem.png", 0, null)
+ - getFilesSlow(Ghostly98 (/client), /list (/list), 0)
+ - /datum/callback (/datum/callback): InvokeAsync()
+ - 
+[2020-08-27 17:00:33.858] Game start took 0.7s
+[2020-08-27 17:04:15.671] runtime error: Camera in a cameranet has a non-list camera network
+ - proc name: stack trace (/datum/proc/stack_trace)
+ -   source file: unsorted.dm,1244
+ -   usr: Floyd Tin (/mob/living/carbon/human)
+ -   src: the security camera console (/obj/machinery/computer/security)
+ -   usr.loc: the vault floor (45,154,4) (/turf/open/floor/plasteel/f13/vault_floor/red)
+ -   src.loc: the vault floor (45,155,4) (/turf/open/floor/plasteel/f13/vault_floor/red)
+ -   call stack:
+ - the security camera console (/obj/machinery/computer/security): stack trace("Camera in a cameranet has a no...")
+ - the security camera console (/obj/machinery/computer/security): get available cameras()
+ - the security camera console (/obj/machinery/computer/security): attack hand(Floyd Tin (/mob/living/carbon/human))
+ - Floyd Tin (/mob/living/carbon/human): UnarmedAttack(the security camera console (/obj/machinery/computer/security), 1)
+ - Floyd Tin (/mob/living/carbon/human): ClickOn(the security camera console (/obj/machinery/computer/security), "icon-x=19;icon-y=14;left=1;scr...")
+ - the security camera console (/obj/machinery/computer/security): Click(the vault floor (45,155,4) (/turf/open/floor/plasteel/f13/vault_floor/red), "mapwindow.map", "icon-x=19;icon-y=14;left=1;scr...")
+ - Ghostly98 (/client): Click(the security camera console (/obj/machinery/computer/security), the vault floor (45,155,4) (/turf/open/floor/plasteel/f13/vault_floor/red), "mapwindow.map", "icon-x=19;icon-y=14;left=1;scr...")
+ - 
+[2020-08-27 17:04:15.687] runtime error: Camera in a cameranet has a non-list camera network
+ - proc name: stack trace (/datum/proc/stack_trace)
+ -   source file: unsorted.dm,1244
+ -   usr: Floyd Tin (/mob/living/carbon/human)
+ -   src: the security camera console (/obj/machinery/computer/security)
+ -   usr.loc: the vault floor (45,154,4) (/turf/open/floor/plasteel/f13/vault_floor/red)
+ -   src.loc: the vault floor (45,155,4) (/turf/open/floor/plasteel/f13/vault_floor/red)
+ -   call stack:
+ - the security camera console (/obj/machinery/computer/security): stack trace("Camera in a cameranet has a no...")
+ - the security camera console (/obj/machinery/computer/security): get available cameras()
+ - the security camera console (/obj/machinery/computer/security): use camera console(Floyd Tin (/mob/living/carbon/human))
+ - the security camera console (/obj/machinery/computer/security): attack hand(Floyd Tin (/mob/living/carbon/human))
+ - Floyd Tin (/mob/living/carbon/human): UnarmedAttack(the security camera console (/obj/machinery/computer/security), 1)
+ - Floyd Tin (/mob/living/carbon/human): ClickOn(the security camera console (/obj/machinery/computer/security), "icon-x=19;icon-y=14;left=1;scr...")
+ - the security camera console (/obj/machinery/computer/security): Click(the vault floor (45,155,4) (/turf/open/floor/plasteel/f13/vault_floor/red), "mapwindow.map", "icon-x=19;icon-y=14;left=1;scr...")
+ - Ghostly98 (/client): Click(the security camera console (/obj/machinery/computer/security), the vault floor (45,155,4) (/turf/open/floor/plasteel/f13/vault_floor/red), "mapwindow.map", "icon-x=19;icon-y=14;left=1;scr...")
+ - 

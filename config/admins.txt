@@ -1,0 +1,13 @@
+##############################################################################################################
+# ADMIN RANK DEFINES                                                                                         #
+# The format of this is very simple. Rank name goes first.                                                   #
+# Rank is CASE-SENSITIVE, all punctuation save for '-', '_' and '@' will be stripped so spaces don't matter. #
+# You can then define permissions for each rank by adding a '=' followed by keywords                         #
+# These keywords represent groups of verbs and abilities.                                                    #
+# keywords are preceded by a '+', '-' or '*' + adds permissions, - takes them away.							 #
+# * is used only with SQL-based admin loading to denote what permissions the rank is allowed to edit		 #
+# +@ (or +prev) is a special shorthand which adds all the rights of the rank above it.                       #
+# Ranks with no keywords will just be given the most basic verbs and abilities                ~Carn          #
+##############################################################################################################
+
+Ghostly98 = Host

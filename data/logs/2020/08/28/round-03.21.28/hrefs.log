@@ -1,0 +1,129 @@
+[2020-08-28 07:21:28.876] Starting up round ID .
+ - -------------------------
+[2020-08-28 07:21:32.891] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"ghostly98","ip":"127.0.0.1","compid":"1271285026"},{"ckey":"ghostly98","ip":"75.163.21.179","compid":"1271285026"},{"ckey":"ghostly98","ip":"24.62.253.225","compid":"1271285026"},{"ckey":"guest1271285026","ip":"127.0.0.1","compid":"1271285026"}]}
+[2020-08-28 07:22:54.868] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : Ghostly98 src=[mob_6];show_preferences=1
+[2020-08-28 07:22:57.513] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=job;task=menu
+[2020-08-28 07:23:01.232] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=4;text=Sentinel
+[2020-08-28 07:23:03.231] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=job;task=close
+[2020-08-28 07:23:05.309] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=save
+[2020-08-28 07:23:06.593] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : /datum/preferences close=1
+[2020-08-28 07:24:47.840] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : Ghostly98 src=[mob_6];show_preferences=1
+[2020-08-28 07:24:50.146] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : /datum/preferences close=1
+[2020-08-28 07:25:01.392] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : Ghostly98 src=[mob_6];late_join=1
+[2020-08-28 07:25:11.769] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : Ghostly98 src=[mob_6];SelectedJob=Overseer
+[2020-08-28 07:25:57.758] HREF: Ghostly98 (usr:Floyd Tin[(72,190,4)]) : Nuclear Fission Reactor Control Unit src=[0x2007e2a];refreshstability=1
+[2020-08-28 07:25:59.150] HREF: Ghostly98 (usr:Floyd Tin[(72,190,4)]) : Nuclear Fission Reactor Control Unit src=[0x2007e2a];togglestatus=1
+[2020-08-28 07:26:00.487] HREF: Ghostly98 (usr:Floyd Tin[(72,190,4)]) : Nuclear Fission Reactor Control Unit src=[0x2007e2a];refresh=1
+[2020-08-28 07:27:26.245] HREF: Ghostly98 (usr:Floyd Tin[(47,203,4)]) : /datum/tgui src=%5B0x2106dc2b%5D&action=tgui%3Ainitialize
+[2020-08-28 07:27:26.328] HREF: Ghostly98 (usr:Floyd Tin[(47,203,4)]) : 
+[2020-08-28 07:31:00.623] HREF: Ghostly98 (usr:Floyd Tin[(41,171,4)]) : The �Pure Patriot Treats src=[0x2012dbf];vend=[0x2101b2a2]
+[2020-08-28 07:31:39.696] HREF: Ghostly98 (usr:Floyd Tin[(46,181,4)]) : /datum/tgui src=%5B0x21075ac1%5D&action=tgui%3Ainitialize
+[2020-08-28 07:31:39.813] HREF: Ghostly98 (usr:Floyd Tin[(46,181,4)]) : 
+[2020-08-28 11:08:45.725] HREF: Fetching2Ghost (usr:Fetching2Ghost[(180,247,1)]) : _src_=chat&proc=doneLoading
+[2020-08-28 11:08:45.982] HREF: Fetching2Ghost (usr:Fetching2Ghost[(180,247,1)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"fetching2ghost","ip":"37.248.139.0","compid":"889598256"},{"ckey":"fetching2ghost","ip":"31.0.23.229","compid":"889598256"},{"ckey":"fetching2ghost","ip":"31.0.23.231","compid":"889598256"},{"ckey":"fetching2ghost","ip":"31.0.21.146","compid":"889598256"},{"ckey":"fetching2ghost","ip":"31.0.21.148","compid":"2764345587"}]}
+[2020-08-28 11:09:12.827] HREF: Fetching2Ghost (usr:Fetching2Ghost[(180,247,1)]) : Fetching2Ghost src=[mob_916];late_join=1
+[2020-08-28 11:09:14.963] HREF: Fetching2Ghost (usr:Fetching2Ghost[(180,247,1)]) : Fetching2Ghost src=[mob_916];show_preferences=1
+[2020-08-28 11:09:20.444] HREF: Fetching2Ghost (usr:Fetching2Ghost[(180,247,1)]) : _src_=prefs;preference=undershirt;task=input
+[2020-08-28 11:09:23.276] HREF: Fetching2Ghost (usr:Fetching2Ghost[(180,247,1)]) : _src_=prefs;preference=socks;task=input
+[2020-08-28 11:09:26.275] HREF: Fetching2Ghost (usr:Fetching2Ghost[(180,247,1)]) : _src_=prefs;preference=underwear;task=input
+[2020-08-28 11:09:29.945] HREF: Fetching2Ghost (usr:Fetching2Ghost[(180,247,1)]) : _src_=prefs;preference=hair;task=input
+[2020-08-28 11:09:51.714] HREF: Fetching2Ghost (usr:Fetching2Ghost[(180,247,1)]) : _src_=prefs;preference=age;task=input
+[2020-08-28 11:09:58.344] HREF: Fetching2Ghost (usr:Fetching2Ghost[(180,247,1)]) : _src_=prefs;preference=save
+[2020-08-28 11:09:59.562] HREF: Fetching2Ghost (usr:Fetching2Ghost[(180,247,1)]) : _src_=prefs;preference=name;task=input
+[2020-08-28 11:10:08.415] HREF: Fetching2Ghost (usr:Fetching2Ghost[(180,247,1)]) : _src_=prefs;preference=hair_style;task=input
+[2020-08-28 11:10:15.893] HREF: Fetching2Ghost (usr:Fetching2Ghost[(180,247,1)]) : _src_=prefs;preference=save
+[2020-08-28 11:10:17.375] HREF: Fetching2Ghost (usr:Fetching2Ghost[(180,247,1)]) : _src_=prefs;preference=special;task=menu
+[2020-08-28 11:10:18.773] HREF: Fetching2Ghost (usr:Fetching2Ghost[(180,247,1)]) : _src_=prefs;preference=special_s;task=input
+[2020-08-28 11:10:21.933] HREF: Fetching2Ghost (usr:Fetching2Ghost[(180,247,1)]) : _src_=prefs;preference=special_i;task=input
+[2020-08-28 11:10:24.093] HREF: Fetching2Ghost (usr:Fetching2Ghost[(180,247,1)]) : _src_=prefs;preference=special_p;task=input
+[2020-08-28 11:10:26.751] HREF: Fetching2Ghost (usr:Fetching2Ghost[(180,247,1)]) : _src_=prefs;preference=special_c;task=input
+[2020-08-28 11:10:28.143] HREF: Fetching2Ghost (usr:Fetching2Ghost[(180,247,1)]) : _src_=prefs;preference=special_e;task=input
+[2020-08-28 11:10:29.913] HREF: Fetching2Ghost (usr:Fetching2Ghost[(180,247,1)]) : _src_=prefs;preference=special_l;task=input
+[2020-08-28 11:10:31.197] HREF: Fetching2Ghost (usr:Fetching2Ghost[(180,247,1)]) : _src_=prefs;preference=special_a;task=input
+[2020-08-28 11:10:33.932] HREF: Fetching2Ghost (usr:Fetching2Ghost[(180,247,1)]) : _src_=prefs;preference=special_l;task=input
+[2020-08-28 11:10:38.201] HREF: Fetching2Ghost (usr:Fetching2Ghost[(180,247,1)]) : _src_=prefs;preference=special_e;task=input
+[2020-08-28 11:10:41.633] HREF: Fetching2Ghost (usr:Fetching2Ghost[(180,247,1)]) : _src_=prefs;preference=special_e;task=input
+[2020-08-28 11:10:43.573] HREF: Fetching2Ghost (usr:Fetching2Ghost[(180,247,1)]) : _src_=prefs;preference=special;task=close
+[2020-08-28 11:10:45.473] HREF: Fetching2Ghost (usr:Fetching2Ghost[(180,247,1)]) : _src_=prefs;preference=save
+[2020-08-28 11:10:46.783] HREF: Fetching2Ghost (usr:Fetching2Ghost[(180,247,1)]) : _src_=prefs;preference=special;task=menu
+[2020-08-28 11:10:47.742] HREF: Fetching2Ghost (usr:Fetching2Ghost[(180,247,1)]) : _src_=prefs;preference=special;task=close
+[2020-08-28 11:10:48.723] HREF: Fetching2Ghost (usr:Fetching2Ghost[(180,247,1)]) : _src_=prefs;preference=trait;task=menu
+[2020-08-28 11:10:53.892] HREF: Fetching2Ghost (usr:Fetching2Ghost[(180,247,1)]) : _src_=prefs;preference=trait;task=close
+[2020-08-28 11:10:56.672] HREF: Fetching2Ghost (usr:Fetching2Ghost[(180,247,1)]) : _src_=prefs;preference=save
+[2020-08-28 11:10:57.972] HREF: Fetching2Ghost (usr:Fetching2Ghost[(180,247,1)]) : _src_=prefs;preference=bag;task=input
+[2020-08-28 11:11:00.542] HREF: Fetching2Ghost (usr:Fetching2Ghost[(180,247,1)]) : _src_=prefs;preference=save
+[2020-08-28 11:11:01.962] HREF: Fetching2Ghost (usr:Fetching2Ghost[(180,247,1)]) : /datum/preferences close=1
+[2020-08-28 11:11:03.042] HREF: Fetching2Ghost (usr:Fetching2Ghost[(180,247,1)]) : Fetching2Ghost src=[mob_916];late_join=1
+[2020-08-28 11:14:12.127] HREF: Fetching2Ghost (usr:Fetching2Ghost[(180,247,1)]) : Fetching2Ghost src=[mob_916];ready=2
+[2020-08-28 11:15:19.725] HREF: Fetching2Ghost (usr:Magpie[(56,35,2)]) : _src_=chat&proc=doneLoading
+[2020-08-28 11:15:19.903] HREF: Fetching2Ghost (usr:Magpie[(56,35,2)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"fetching2ghost","ip":"37.248.139.0","compid":"889598256"},{"ckey":"fetching2ghost","ip":"31.0.23.229","compid":"889598256"},{"ckey":"fetching2ghost","ip":"31.0.23.231","compid":"889598256"},{"ckey":"fetching2ghost","ip":"31.0.21.146","compid":"889598256"},{"ckey":"fetching2ghost","ip":"31.0.21.148","compid":"2764345587"}]}
+[2020-08-28 11:20:06.251] HREF: Fetching2Ghost (usr:the new player[(180,247,1)]) : The new player src=[mob_920];late_join=1
+[2020-08-28 11:20:09.036] HREF: Fetching2Ghost (usr:the new player[(180,247,1)]) : The new player src=[mob_920];SelectedJob=Outlaw
+[2020-08-28 11:32:32.735] HREF: Fetching2Ghost (usr:Unknown[(135,129,3)]) : /datum/tgui src=%5B0x21012af6%5D&action=tgui%3Ainitialize
+[2020-08-28 11:32:32.935] HREF: Fetching2Ghost (usr:Unknown[(135,129,3)]) : 
+[2020-08-28 11:32:35.909] HREF: Fetching2Ghost (usr:Unknown[(135,129,3)]) : /datum/tgui src=%5B0x21012af6%5D&action=loadout_select&name=Vault%20Outcast
+[2020-08-28 11:32:39.255] HREF: Fetching2Ghost (usr:Unknown[(135,129,3)]) : /datum/tgui src=%5B0x21012af6%5D&action=loadout_select&name=Brotherhood%20Exile
+[2020-08-28 11:32:57.065] HREF: Fetching2Ghost (usr:Unknown[(135,129,3)]) : /datum/tgui src=%5B0x21012af6%5D&action=loadout_select&name=Painspike
+[2020-08-28 11:33:01.362] HREF: Fetching2Ghost (usr:Unknown[(135,129,3)]) : /datum/tgui src=%5B0x21012af6%5D&action=loadout_select&name=Brotherhood%20Exile
+[2020-08-28 11:37:02.205] HREF: Fetching2Ghost (usr:Unknown[(135,129,3)]) : /datum/tgui src=%5B0x21012af6%5D&action=loadout_select&name=Badlands
+[2020-08-28 11:37:07.997] HREF: Fetching2Ghost (usr:Unknown[(135,129,3)]) : /datum/tgui src=%5B0x21012af6%5D&action=loadout_select&name=Yankee
+[2020-08-28 11:38:25.804] HREF: Fetching2Ghost (usr:Unknown[(135,129,3)]) : /datum/tgui src=%5B0x21012af6%5D&action=loadout_select&name=Supa-fly
+[2020-08-28 11:38:33.142] HREF: Fetching2Ghost (usr:Unknown[(135,129,3)]) : /datum/tgui src=%5B0x21012af6%5D&action=loadout_select&name=Town%20Mafia
+[2020-08-28 11:39:32.053] HREF: Fetching2Ghost (usr:Unknown[(135,129,3)]) : /datum/tgui src=%5B0x21012af6%5D&action=loadout_select&name=Vault%20Outcast
+[2020-08-28 11:39:39.644] HREF: Fetching2Ghost (usr:Unknown[(135,129,3)]) : /datum/tgui src=%5B0x21012af6%5D&action=loadout_select&name=Desperado
+[2020-08-28 11:40:30.420] HREF: Fetching2Ghost (usr:Unknown[(135,129,3)]) : /datum/tgui src=%5B0x21012af6%5D&action=loadout_select&name=Punished%20Legionnaire
+[2020-08-28 11:40:39.518] HREF: Fetching2Ghost (usr:Unknown[(143,131,3)]) : /datum/tgui src=%5B0x21012af6%5D&action=loadout_select&name=Desperado
+[2020-08-28 11:41:49.694] HREF: Fetching2Ghost (usr:Unknown[(143,131,3)]) : /datum/tgui src=%5B0x21012af6%5D&action=loadout_select&name=Badlands
+[2020-08-28 11:41:52.445] HREF: Fetching2Ghost (usr:Unknown[(143,131,3)]) : /datum/tgui src=%5B0x21012af6%5D&action=loadout_select&name=Painspike
+[2020-08-28 11:42:36.682] HREF: Fetching2Ghost (usr:Unknown[(143,131,3)]) : /datum/tgui src=%5B0x21012af6%5D&action=loadout_select&name=Sadist
+[2020-08-28 11:42:44.936] HREF: Fetching2Ghost (usr:Unknown[(143,131,3)]) : /datum/tgui src=%5B0x21012af6%5D&action=loadout_select&name=Painspike
+[2020-08-28 11:42:48.432] HREF: Fetching2Ghost (usr:Unknown[(143,131,3)]) : /datum/tgui src=%5B0x21012af6%5D&action=loadout_confirm
+[2020-08-28 11:45:23.129] HREF: Fetching2Ghost (usr:Magpie[(76,100,2)]) : The cardboard src=[0x2008b7a];sublist=;make=1;multiplier=1
+[2020-08-28 12:01:43.829] HREF: Fetching2Ghost (usr:Magpie[(160,177,2)]) : Workshop src=[0x2002d8f];category=Tools;menu=2
+[2020-08-28 12:01:46.382] HREF: Fetching2Ghost (usr:Magpie[(160,177,2)]) : Workshop src=[0x2002d8f];make=multitool;multiplier=1
+[2020-08-28 12:02:16.590] HREF: Fetching2Ghost (usr:Magpie[(160,177,2)]) : Workshop src=[0x2002d8f];make=screwdriver;multiplier=1
+[2020-08-28 12:02:20.650] HREF: Fetching2Ghost (usr:Magpie[(160,177,2)]) : Workshop src=[0x2002d8f];make=crowbar;multiplier=1
+[2020-08-28 12:03:11.128] HREF: Fetching2Ghost (usr:Magpie[(149,192,2)]) : ClothesMate src=[0x2002ade];vend=[0x2100b9ce]
+[2020-08-28 12:03:17.249] HREF: Fetching2Ghost (usr:Magpie[(149,192,2)]) : ClothesMate src=[0x2002ade];vend=[0x2100b9c7]
+[2020-08-28 12:03:18.854] HREF: Fetching2Ghost (usr:Magpie[(149,192,2)]) : ClothesMate src=[0x2002ade];vend=[0x2100b9c7]
+[2020-08-28 12:10:15.786] HREF: Fetching2Ghost (usr:Magpie[(128,194,2)]) : /datum/tgui src=%5B0x2107a04f%5D&action=tgui%3Ainitialize
+[2020-08-28 12:10:15.916] HREF: Fetching2Ghost (usr:Magpie[(128,194,2)]) : 
+[2020-08-28 12:23:01.847] HREF: Fetching2Ghost (usr:Magpie[(86,27,3)]) : /datum/tgui src=%5B0x21079a8d%5D&action=tgui%3Ainitialize
+[2020-08-28 12:23:01.903] HREF: Fetching2Ghost (usr:Magpie[(86,27,3)]) : 
+[2020-08-28 12:29:47.680] HREF: Fetching2Ghost (usr:Magpie[(89,35,3)]) : The wooden plank src=[0x2007375];sublist=;make=11;multiplier=1
+[2020-08-28 14:07:25.111] HREF: Ghostly98 (usr:Floyd Tin[(49,180,4)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"ghostly98","ip":"127.0.0.1","compid":"1271285026"},{"ckey":"ghostly98","ip":"75.163.21.179","compid":"1271285026"},{"ckey":"ghostly98","ip":"24.62.253.225","compid":"1271285026"},{"ckey":"guest1271285026","ip":"127.0.0.1","compid":"1271285026"}]}
+[2020-08-28 14:13:17.143] HREF: Ghostly98 (usr:Floyd Tin[(72,190,4)]) : Nuclear Fission Reactor Control Unit src=[0x2007e2a];refreshstability=1
+[2020-08-28 14:13:27.416] HREF: Ghostly98 (usr:Floyd Tin[(72,189,4)]) : /datum/tgui src=%5B0x2107a449%5D&action=tgui%3Ainitialize
+[2020-08-28 14:13:27.473] HREF: Ghostly98 (usr:Floyd Tin[(72,189,4)]) : 
+[2020-08-28 14:13:34.163] HREF: Ghostly98 (usr:Floyd Tin[(72,190,4)]) : Nuclear Fission Reactor Control Unit src=[0x2007e2a];togglestatus=1
+[2020-08-28 14:13:39.548] HREF: Ghostly98 (usr:Floyd Tin[(72,189,4)]) : /datum/tgui src=%5B0x2107a3f8%5D&action=tgui%3Ainitialize
+[2020-08-28 14:13:39.627] HREF: Ghostly98 (usr:Floyd Tin[(72,189,4)]) : 
+[2020-08-28 14:13:50.081] HREF: Ghostly98 (usr:Floyd Tin[(70,186,4)]) : /datum/tgui src=%5B0x2107a2c3%5D&action=tgui%3Ainitialize
+[2020-08-28 14:13:50.134] HREF: Ghostly98 (usr:Floyd Tin[(70,186,4)]) : 
+[2020-08-28 14:13:52.010] HREF: Ghostly98 (usr:Floyd Tin[(70,186,4)]) : /datum/tgui src=%5B0x2107a2c3%5D&action=PC_runprogram&name=alarmmonitor
+[2020-08-28 14:13:52.329] HREF: Ghostly98 (usr:Floyd Tin[(70,186,4)]) : /datum/tgui src=%5B0x2107a45d%5D&action=tgui%3Ainitialize
+[2020-08-28 14:13:52.380] HREF: Ghostly98 (usr:Floyd Tin[(70,186,4)]) : 
+[2020-08-28 14:13:55.659] HREF: Ghostly98 (usr:Floyd Tin[(70,186,4)]) : /datum/tgui src=%5B0x2107a45d%5D&action=PC_exit
+[2020-08-28 14:13:55.984] HREF: Ghostly98 (usr:Floyd Tin[(70,186,4)]) : /datum/tgui src=%5B0x2107a45f%5D&action=tgui%3Ainitialize
+[2020-08-28 14:13:56.036] HREF: Ghostly98 (usr:Floyd Tin[(70,186,4)]) : 
+[2020-08-28 14:13:58.479] HREF: Ghostly98 (usr:Floyd Tin[(70,186,4)]) : /datum/tgui src=%5B0x2107a45f%5D&action=PC_runprogram&name=filemanager
+[2020-08-28 14:13:58.937] HREF: Ghostly98 (usr:Floyd Tin[(70,186,4)]) : /datum/tgui src=%5B0x2107a43d%5D&action=tgui%3Ainitialize
+[2020-08-28 14:13:59.003] HREF: Ghostly98 (usr:Floyd Tin[(70,186,4)]) : 
+[2020-08-28 14:14:01.516] HREF: Ghostly98 (usr:Floyd Tin[(70,186,4)]) : /datum/tgui src=%5B0x2107a43d%5D&action=PC_exit
+[2020-08-28 14:14:01.868] HREF: Ghostly98 (usr:Floyd Tin[(70,186,4)]) : /datum/tgui src=%5B0x2107a438%5D&action=tgui%3Ainitialize
+[2020-08-28 14:14:01.914] HREF: Ghostly98 (usr:Floyd Tin[(70,186,4)]) : 
+[2020-08-28 14:14:03.371] HREF: Ghostly98 (usr:Floyd Tin[(70,186,4)]) : /datum/tgui src=%5B0x2107a438%5D&action=PC_runprogram&name=compconfig
+[2020-08-28 14:14:03.748] HREF: Ghostly98 (usr:Floyd Tin[(70,186,4)]) : /datum/tgui src=%5B0x2107a436%5D&action=tgui%3Ainitialize
+[2020-08-28 14:14:03.828] HREF: Ghostly98 (usr:Floyd Tin[(70,186,4)]) : 
+[2020-08-28 14:14:09.762] HREF: Ghostly98 (usr:Floyd Tin[(70,186,4)]) : /datum/tgui src=%5B0x2107a436%5D&action=PC_exit
+[2020-08-28 14:14:10.107] HREF: Ghostly98 (usr:Floyd Tin[(70,186,4)]) : /datum/tgui src=%5B0x2107a453%5D&action=tgui%3Ainitialize
+[2020-08-28 14:14:10.146] HREF: Ghostly98 (usr:Floyd Tin[(70,186,4)]) : 
+[2020-08-28 14:14:11.465] HREF: Ghostly98 (usr:Floyd Tin[(70,186,4)]) : /datum/tgui src=%5B0x2107a453%5D&action=PC_runprogram&name=ntndownloader
+[2020-08-28 14:14:11.887] HREF: Ghostly98 (usr:Floyd Tin[(70,186,4)]) : /datum/tgui src=%5B0x2107a452%5D&action=tgui%3Ainitialize
+[2020-08-28 14:14:11.967] HREF: Ghostly98 (usr:Floyd Tin[(70,186,4)]) : 
+[2020-08-28 14:14:17.457] HREF: Ghostly98 (usr:Floyd Tin[(70,186,4)]) : /datum/tgui src=%5B0x2107a452%5D&action=PRG_downloadfile&filename=ntnrc_client
+[2020-08-28 14:14:50.856] HREF: Ghostly98 (usr:Floyd Tin[(53,180,4)]) : /datum/tgui src=%5B0x21014a5f%5D&action=tgui%3Ainitialize
+[2020-08-28 14:14:50.896] HREF: Ghostly98 (usr:Floyd Tin[(53,180,4)]) : 
+[2020-08-28 14:18:05.698] HREF: Ghostly98 (usr:Floyd Tin[(44,185,4)]) : _src_=chat&proc=doneLoading
+[2020-08-28 14:18:05.782] HREF: Ghostly98 (usr:Floyd Tin[(44,185,4)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"ghostly98","ip":"127.0.0.1","compid":"1271285026"},{"ckey":"ghostly98","ip":"75.163.21.179","compid":"1271285026"},{"ckey":"ghostly98","ip":"24.62.253.225","compid":"1271285026"},{"ckey":"guest1271285026","ip":"127.0.0.1","compid":"1271285026"}]}
+[2020-08-28 14:19:59.207] HREF: Ghostly98 (usr:Floyd Tin[(41,171,4)]) : The �Pure Patriot Treats src=[0x2012dbf];vend=[0x2101b2a2]

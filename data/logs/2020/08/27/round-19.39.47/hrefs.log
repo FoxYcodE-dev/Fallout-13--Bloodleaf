@@ -1,0 +1,599 @@
+[2020-08-27 23:39:47.262] Starting up round ID .
+ - -------------------------
+[2020-08-27 23:39:51.514] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"ghostly98","ip":"127.0.0.1","compid":"1271285026"},{"ckey":"ghostly98","ip":"75.163.21.179","compid":"1271285026"},{"ckey":"ghostly98","ip":"24.62.253.225","compid":"1271285026"},{"ckey":"guest1271285026","ip":"127.0.0.1","compid":"1271285026"}]}
+[2020-08-27 23:39:57.091] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : Ghostly98 src=[mob_6];show_preferences=1
+[2020-08-27 23:39:59.645] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=job;task=menu
+[2020-08-27 23:40:02.471] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=4;text=Cyborg
+[2020-08-27 23:40:37.500] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=3;text=Mayor
+[2020-08-27 23:40:40.729] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=2;text=Mayor
+[2020-08-27 23:40:41.285] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=1;text=Mayor
+[2020-08-27 23:40:46.105] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=4;text=Mayor
+[2020-08-27 23:40:46.152] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=4;text=Mayor
+[2020-08-27 23:40:47.356] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=job;task=reset
+[2020-08-27 23:40:52.992] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=3;text=Followers%20Guard
+[2020-08-27 23:40:57.612] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=2;text=Followers%20Guard
+[2020-08-27 23:40:58.417] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=1;text=Followers%20Guard
+[2020-08-27 23:40:59.989] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=job;task=close
+[2020-08-27 23:41:04.223] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=save
+[2020-08-27 23:41:04.938] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : /datum/preferences close=1
+[2020-08-27 23:41:06.117] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : Ghostly98 src=[mob_6];ready=1
+[2020-08-28 00:33:08.824] HREF: Quakkerz (usr:Quakkerz[(180,247,1)]) : _src_=chat&proc=doneLoading
+[2020-08-28 00:33:09.440] HREF: Quakkerz (usr:Quakkerz[(180,247,1)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"quakkerz","ip":"190.172.177.216","compid":"3742387958"},{"ckey":"quakkerz","ip":"190.172.177.216","compid":"780038453"},{"ckey":"quakkerz","ip":"190.172.203.6","compid":"780038453"},{"ckey":"quakkerz","ip":"190.172.164.112","compid":"780038453"}]}
+[2020-08-28 00:34:01.790] HREF: Quakkerz (usr:Quakkerz[(180,247,1)]) : Quakkerz src=[mob_921];late_join=1
+[2020-08-28 00:43:21.447] HREF: Quakkerz (usr:Quakkerz[(180,247,1)]) : Quakkerz src=[mob_921];SelectedJob=Followers%20Guard
+[2020-08-28 00:43:36.439] HREF: Ghostly98 (usr:Floyd Tin[(155,72,2)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"ghostly98","ip":"127.0.0.1","compid":"1271285026"},{"ckey":"ghostly98","ip":"75.163.21.179","compid":"1271285026"},{"ckey":"ghostly98","ip":"24.62.253.225","compid":"1271285026"},{"ckey":"guest1271285026","ip":"127.0.0.1","compid":"1271285026"}]}
+[2020-08-28 00:47:44.737] HREF: Sqtay (usr:Sqtay[(180,247,1)]) : _src_=chat&proc=doneLoading
+[2020-08-28 00:47:45.051] HREF: Sqtay (usr:Sqtay[(180,247,1)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"sqtay","ip":"181.44.119.80","compid":"3465061488"},{"ckey":"sqtay","ip":"181.44.119.87","compid":"3465061488"}]}
+[2020-08-28 00:47:52.192] HREF: Sqtay (usr:Sqtay[(180,247,1)]) : Sqtay src=[mob_924];show_preferences=1
+[2020-08-28 00:47:53.976] HREF: Ghostly98 (usr:Floyd Tin[(143,81,2)]) : _src_=holder;admin_token=8721610836461062960101739030861591;revive=[mob_810]
+[2020-08-28 00:48:02.887] HREF: Sqtay (usr:Sqtay[(180,247,1)]) : _src_=prefs;preference=save
+[2020-08-28 00:48:03.394] HREF: Sqtay (usr:Sqtay[(180,247,1)]) : _src_=prefs;preference=clown;task=input
+[2020-08-28 00:48:07.958] HREF: Sqtay (usr:Sqtay[(180,247,1)]) : _src_=prefs;preference=save
+[2020-08-28 00:48:11.768] HREF: Sqtay (usr:Sqtay[(180,247,1)]) : Sqtay src=[mob_924];late_join=1
+[2020-08-28 00:48:47.066] HREF: Sqtay (usr:Sqtay[(180,247,1)]) : Sqtay src=[mob_924];SelectedJob=Followers%20Volunteer
+[2020-08-28 00:48:49.698] HREF: Sqtay (usr:Christina Ashbaugh[(128,89,2)]) : src=[mob_924];SelectedJob=Followers%20Volunteer
+[2020-08-28 00:49:34.240] HREF: Ghostly98 (usr:Floyd Tin[(147,72,2)]) : Unknown src=[mob_926];item=13
+[2020-08-28 00:49:46.425] HREF: Ghostly98 (usr:Floyd Tin[(147,72,2)]) : Unknown src=[mob_926];pockets=left
+[2020-08-28 00:49:46.872] HREF: Ghostly98 (usr:Floyd Tin[(147,72,2)]) : Unknown src=[mob_926];pockets=right
+[2020-08-28 01:05:49.567] HREF: Sqtay (usr:Christina Ashbaugh[(179,64,2)]) : pAI src=[0x2100002f];option=save;new=1;candidate=[0x21011ffd]
+[2020-08-28 01:06:54.857] HREF: Ghostly98 (usr:Floyd Tin[(182,57,2)]) : _src_=holder;admin_token=8721610836461062960101739030861591;adminplayeropts=[mob_932]
+[2020-08-28 01:06:57.919] HREF: Ghostly98 (usr:Floyd Tin[(182,57,2)]) : _src_=holder;admin_token=8721610836461062960101739030861591;sendbacktolobby=[mob_932]
+[2020-08-28 01:07:02.953] HREF: Sqtay (usr:the new player[(180,247,1)]) : The new player src=[mob_934];late_join=1
+[2020-08-28 01:07:06.539] HREF: Sqtay (usr:the new player[(180,247,1)]) : The new player src=[mob_934];late_join=1
+[2020-08-28 01:07:08.803] HREF: Sqtay (usr:the new player[(180,247,1)]) : The new player src=[mob_934];show_preferences=1
+[2020-08-28 01:07:11.327] HREF: Sqtay (usr:the new player[(180,247,1)]) : The new player src=[mob_934];show_preferences=1
+[2020-08-28 01:07:19.120] HREF: Sqtay (usr:the new player[(180,247,1)]) : _src_=prefs;preference=s_tone;task=input
+[2020-08-28 01:07:25.944] HREF: Sqtay (usr:the new player[(180,247,1)]) : _src_=prefs;preference=job;task=menu
+[2020-08-28 01:07:34.955] HREF: Sqtay (usr:the new player[(180,247,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=3;text=Followers%20Guard
+[2020-08-28 01:07:36.142] HREF: Sqtay (usr:the new player[(180,247,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=2;text=Followers%20Guard
+[2020-08-28 01:07:37.325] HREF: Sqtay (usr:the new player[(180,247,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=1;text=Followers%20Guard
+[2020-08-28 01:07:40.516] HREF: Sqtay (usr:the new player[(180,247,1)]) : _src_=prefs;preference=job;task=random
+[2020-08-28 01:07:42.629] HREF: Sqtay (usr:the new player[(180,247,1)]) : _src_=prefs;preference=job;task=close
+[2020-08-28 01:07:47.181] HREF: Sqtay (usr:the new player[(180,247,1)]) : /datum/preferences close=1
+[2020-08-28 01:07:48.350] HREF: Sqtay (usr:the new player[(180,247,1)]) : The new player src=[mob_934];late_join=1
+[2020-08-28 01:07:49.862] HREF: Sqtay (usr:the new player[(180,247,1)]) : The new player src=[mob_934];show_preferences=1
+[2020-08-28 01:07:57.756] HREF: Sqtay (usr:the new player[(180,247,1)]) : /datum/preferences close=1
+[2020-08-28 01:07:58.609] HREF: Sqtay (usr:the new player[(180,247,1)]) : The new player src=[mob_934];show_preferences=1
+[2020-08-28 01:08:08.784] HREF: Sqtay (usr:the new player[(180,247,1)]) : _src_=prefs;preference=trait;task=menu
+[2020-08-28 01:08:12.223] HREF: Sqtay (usr:the new player[(180,247,1)]) : _src_=prefs;preference=trait;task=reset
+[2020-08-28 01:08:17.443] HREF: Sqtay (usr:the new player[(180,247,1)]) : _src_=prefs;preference=name;task=random
+[2020-08-28 01:08:19.899] HREF: Sqtay (usr:the new player[(180,247,1)]) : /datum/preferences close=1
+[2020-08-28 01:08:21.355] HREF: Sqtay (usr:the new player[(180,247,1)]) : The new player src=[mob_934];late_join=1
+[2020-08-28 01:09:04.027] HREF: Sqtay (usr:the new player[(180,247,1)]) : The new player src=[mob_934];SelectedJob=Followers%20Volunteer
+[2020-08-28 01:20:37.115] HREF: Quakkerz (usr:Braxton Hirleman[(151,90,2)]) : The �MediDrobe src=[0x2004311];vend=[0x2100f979]
+[2020-08-28 01:27:34.236] HREF: Ghostly98 (usr:Floyd Tin[(137,89,2)]) : The �Big Smokes src=[0x200437d];vend=[0x2100facb]
+[2020-08-28 01:27:37.369] HREF: Ghostly98 (usr:Floyd Tin[(137,89,2)]) : The �Big Smokes src=[0x200437d];vend=[0x2100facc]
+[2020-08-28 01:27:50.133] HREF: Ghostly98 (usr:Floyd Tin[(137,89,2)]) : The �Big Smokes src=[0x200437d];vend=[0x2100fac7]
+[2020-08-28 01:28:05.188] HREF: Sqtay (usr:Lilian Cook[(127,85,2)]) : /datum/interaction/highfive src=[0x210149f0];action=1;action_user=[mob_935];action_target=[mob_922]
+[2020-08-28 01:28:06.459] HREF: Sqtay (usr:Lilian Cook[(127,85,2)]) : /datum/interaction/highfive src=[0x210149f0];action=1;action_user=[mob_935];action_target=[mob_922]
+[2020-08-28 01:28:06.948] HREF: Sqtay (usr:Lilian Cook[(127,85,2)]) : /datum/interaction/highfive src=[0x210149f0];action=1;action_user=[mob_935];action_target=[mob_922]
+[2020-08-28 01:28:08.457] HREF: Sqtay (usr:Lilian Cook[(127,85,2)]) : /datum/interaction/salute src=[0x21014729];action=1;action_user=[mob_935];action_target=[mob_922]
+[2020-08-28 01:28:09.353] HREF: Sqtay (usr:Lilian Cook[(127,85,2)]) : /datum/interaction/handshake src=[0x2101457a];action=1;action_user=[mob_935];action_target=[mob_922]
+[2020-08-28 01:28:35.340] HREF: Sqtay (usr:Lilian Cook[(127,85,2)]) : /datum/interaction/bird src=[0x210149e4];action=1;action_user=[mob_935];action_target=[mob_922]
+[2020-08-28 01:28:37.962] HREF: Sqtay (usr:Lilian Cook[(127,85,2)]) : /datum/interaction/highfive src=[0x210149f0];action=1;action_user=[mob_935];action_target=[mob_922]
+[2020-08-28 01:28:57.540] HREF: Quakkerz (usr:Braxton Hirleman[(132,87,2)]) : /datum/tgui src=%5B0x21013f03%5D&action=tgui%3Ainitialize
+[2020-08-28 01:28:57.700] HREF: Quakkerz (usr:Braxton Hirleman[(132,87,2)]) : 
+[2020-08-28 01:29:05.972] HREF: Quakkerz (usr:Braxton Hirleman[(132,89,2)]) : /datum/tgui src=%5B0x2107941a%5D&action=tgui%3Ainitialize
+[2020-08-28 01:29:06.012] HREF: Quakkerz (usr:Braxton Hirleman[(132,89,2)]) : 
+[2020-08-28 01:29:43.915] HREF: Quakkerz (usr:Braxton Hirleman[(136,88,2)]) : The �Big Smokes src=[0x200437d];vend=[0x2100facb]
+[2020-08-28 01:29:51.511] HREF: Quakkerz (usr:Braxton Hirleman[(136,88,2)]) : The �Big Smokes src=[0x200437d];vend=[0x2100fac7]
+[2020-08-28 01:34:15.449] HREF: Sqtay (usr:Lilian Cook[(117,68,2)]) : Wasteland Vending Machine - Clothing src=[0x2004878];purchase=[0x210010e5]
+[2020-08-28 01:34:20.684] HREF: Sqtay (usr:Lilian Cook[(117,68,2)]) : Wasteland Vending Machine - Clothing src=[0x2004878];purchase=[0x210010e6]
+[2020-08-28 01:34:24.124] HREF: Sqtay (usr:Lilian Cook[(117,68,2)]) : Wasteland Vending Machine - Clothing src=[0x2004878];choice=eject
+[2020-08-28 01:37:10.592] HREF: Ghostly98 (usr:Floyd Tin[(105,83,2)]) : The �Vim Soda Vending Machine src=[0x200e4fc];vend=[0x2100fdcd]
+[2020-08-28 01:47:38.230] HREF: Ghostly98 (usr:Floyd Tin[(136,86,2)]) : _src_=holder;admin_token=8721610836461062960101739030861591;revive=[mob_810]
+[2020-08-28 01:57:29.184] HREF: Ghostly98 (usr:Floyd Tin[(149,90,2)]) : The desktop terminal src=[0x2004310];choice=1
+[2020-08-28 01:57:30.745] HREF: Ghostly98 (usr:Floyd Tin[(149,90,2)]) : The desktop terminal src=[0x2004310];choice=Edit
+[2020-08-28 02:01:30.686] HREF: Ghostly98 (usr:Floyd Tin[(64,38,2)]) : ghostly98's admin datum (Host) src=[0x21000c95];admin_token=8721610836461062960101739030861591;create_object=1
+[2020-08-28 02:02:03.240] HREF: Ghostly98 (usr:Floyd Tin[(64,38,2)]) : ghostly98's admin datum (Host) src=%5B0x21000c95%5D%3Badmin_token%3D8721610836461062960101739030861591&admin_token=8721610836461062960101739030861591&filter=card&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fobj%2Fitem%2Fcard%2Fid%2Fdogtag%2Fsheriff
+[2020-08-28 02:02:22.013] HREF: Ghostly98 (usr:Floyd Tin[(64,38,2)]) : ghostly98's admin datum (Host) src=[0x21000c95];admin_token=8721610836461062960101739030861591;create_object=1
+[2020-08-28 02:02:44.277] HREF: Ghostly98 (usr:Floyd Tin[(64,38,2)]) : ghostly98's admin datum (Host) src=%5B0x21000c95%5D%3Badmin_token%3D8721610836461062960101739030861591&admin_token=8721610836461062960101739030861591&filter=card&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fobj%2Fitem%2Fcard%2Fid%2Fdogtag%2Ftown
+[2020-08-28 02:02:56.401] HREF: Quakkerz (usr:Braxton Hirleman[(135,89,2)]) : /datum/interaction/pat src=[0x210149fd];action=1;action_user=[mob_922];action_target=[mob_935]
+[2020-08-28 02:02:57.021] HREF: Ghostly98 (usr:Floyd Tin[(63,36,2)]) : ghostly98's admin datum (Host) src=%5B0x21000c95%5D%3Badmin_token%3D8721610836461062960101739030861591&admin_token=8721610836461062960101739030861591&filter=card&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fobj%2Fitem%2Fcard%2Fid%2Fdogtag%2Fdeputy
+[2020-08-28 02:04:22.763] HREF: Ghostly98 (usr:Floyd Tin[(36,76,2)]) : Floyd Tin src=[mob_951];follow=[mob_922]
+[2020-08-28 02:05:21.491] HREF: Ghostly98 (usr:Floyd Tin[(44,45,2)]) : ghostly98's admin datum (Host) src=[0x21000c95];admin_token=8721610836461062960101739030861591;create_object=1
+[2020-08-28 02:05:33.478] HREF: Ghostly98 (usr:Floyd Tin[(44,45,2)]) : ghostly98's admin datum (Host) src=%5B0x21000c95%5D%3Badmin_token%3D8721610836461062960101739030861591&admin_token=8721610836461062960101739030861591&filter=card&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fobj%2Fitem%2Fcard%2Fid%2Fsilver%2Fmayor
+[2020-08-28 02:06:56.567] HREF: Ghostly98 (usr:Floyd Tin[(87,64,2)]) : Floyd Tin src=[mob_953];follow=[mob_935]
+[2020-08-28 02:08:46.564] HREF: Sqtay (usr:Lilian Cook[(194,81,2)]) : Untitled src=[0x210010b5];newsong=1
+[2020-08-28 02:08:48.824] HREF: Sqtay (usr:Lilian Cook[(194,81,2)]) :  src=[0x210010b5];newline=1
+[2020-08-28 02:08:52.865] HREF: Quakkerz (usr:Braxton Hirleman[(192,80,2)]) :  src=[0x210010b5];play=1
+[2020-08-28 02:08:54.948] HREF: Sqtay (usr:Lilian Cook[(194,81,2)]) :  src=[0x210010b5];play=1
+[2020-08-28 02:08:56.071] HREF: Ghostly98 (usr:Floyd Tin[(44,45,2)]) : ghostly98's admin datum (Host) src=[0x21000c95];admin_token=8721610836461062960101739030861591;create_object=1
+[2020-08-28 02:08:56.310] HREF: Quakkerz (usr:Braxton Hirleman[(192,80,2)]) :  src=[0x210010b5];newsong=1
+[2020-08-28 02:08:57.640] HREF: Sqtay (usr:Lilian Cook[(194,81,2)]) :  src=[0x210010b5];tempo=-0.5
+[2020-08-28 02:08:57.917] HREF: Sqtay (usr:Lilian Cook[(194,81,2)]) :  src=[0x210010b5];tempo=-0.5
+[2020-08-28 02:09:00.253] HREF: Quakkerz (usr:Braxton Hirleman[(192,80,2)]) :  src=[0x210010b5];newline=1
+[2020-08-28 02:09:03.485] HREF: Quakkerz (usr:Braxton Hirleman[(192,80,2)]) :  src=[0x210010b5];play=1
+[2020-08-28 02:09:11.001] HREF: Quakkerz (usr:Braxton Hirleman[(192,80,2)]) : The �Nuka-Cola Vending Machine src=[0x200456c];vend=[0x2100ff9b]
+[2020-08-28 02:09:31.894] HREF: Ghostly98 (usr:Floyd Tin[(44,45,2)]) : ghostly98's admin datum (Host) src=%5B0x21000c95%5D%3Badmin_token%3D8721610836461062960101739030861591&admin_token=8721610836461062960101739030861591&filter=card&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fobj%2Fitem%2Fcard%2Fid%2Fdogtag%2Ftown
+[2020-08-28 02:09:33.799] HREF: Sqtay (usr:Lilian Cook[(200,80,2)]) : The microwave oven src=[0x2004575];action=cook
+[2020-08-28 02:09:50.396] HREF: Ghostly98 (usr:Floyd Tin[(44,45,2)]) : ghostly98's admin datum (Host) src=[0x21000c95];admin_token=8721610836461062960101739030861591;create_object=1
+[2020-08-28 02:10:09.373] HREF: Ghostly98 (usr:Floyd Tin[(44,45,2)]) : ghostly98's admin datum (Host) src=%5B0x21000c95%5D%3Badmin_token%3D8721610836461062960101739030861591&admin_token=8721610836461062960101739030861591&filter=card&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fobj%2Fitem%2Fcard%2Fid%2Fgold
+[2020-08-28 02:10:18.499] HREF: Quakkerz (usr:Braxton Hirleman[(199,80,2)]) : The microwave oven src=[0x2004575];action=dispose
+[2020-08-28 02:10:21.358] HREF: Ghostly98 (usr:Floyd Tin[(44,46,2)]) : ghostly98's admin datum (Host) src=%5B0x21000c95%5D%3Badmin_token%3D8721610836461062960101739030861591&admin_token=8721610836461062960101739030861591&filter=card&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fobj%2Fitem%2Fcard%2Fid%2Fchief
+[2020-08-28 02:10:31.633] HREF: Ghostly98 (usr:Floyd Tin[(44,47,2)]) : ghostly98's admin datum (Host) src=%5B0x21000c95%5D%3Badmin_token%3D8721610836461062960101739030861591&admin_token=8721610836461062960101739030861591&filter=card&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fobj%2Fitem%2Fcard%2Fid%2Fsyndicate%2Fanyone
+[2020-08-28 02:10:47.550] HREF: Quakkerz (usr:Braxton Hirleman[(199,80,2)]) : The microwave oven src=[0x2004575];action=cook
+[2020-08-28 02:10:53.597] HREF: Quakkerz (usr:Braxton Hirleman[(199,80,2)]) : The �All-In-One Grinder src=[0x2004573];action=detach
+[2020-08-28 02:10:57.841] HREF: Quakkerz (usr:Braxton Hirleman[(198,80,2)]) : /datum/tgui src=%5B0x21079841%5D&action=tgui%3Ainitialize
+[2020-08-28 02:10:57.929] HREF: Quakkerz (usr:Braxton Hirleman[(198,80,2)]) : 
+[2020-08-28 02:11:22.049] HREF: Quakkerz (usr:Braxton Hirleman[(198,80,2)]) : /datum/tgui src=%5B0x210797ba%5D&action=tgui%3Ainitialize
+[2020-08-28 02:11:22.080] HREF: Quakkerz (usr:Braxton Hirleman[(198,80,2)]) : 
+[2020-08-28 02:11:31.657] HREF: Quakkerz (usr:Braxton Hirleman[(198,80,2)]) : /datum/tgui src=%5B0x210798bc%5D&action=tgui%3Ainitialize
+[2020-08-28 02:11:31.701] HREF: Quakkerz (usr:Braxton Hirleman[(198,80,2)]) : 
+[2020-08-28 02:11:36.049] HREF: Quakkerz (usr:Braxton Hirleman[(198,80,2)]) : /datum/tgui src=%5B0x210798bc%5D&action=dispense&reagent=nuka_cola
+[2020-08-28 02:11:39.137] HREF: Quakkerz (usr:Braxton Hirleman[(198,80,2)]) : /datum/tgui src=%5B0x210798bc%5D&action=amount&target=30
+[2020-08-28 02:11:39.553] HREF: Quakkerz (usr:Braxton Hirleman[(198,80,2)]) : /datum/tgui src=%5B0x210798bc%5D&action=amount&target=50
+[2020-08-28 02:11:41.873] HREF: Quakkerz (usr:Braxton Hirleman[(198,80,2)]) : /datum/tgui src=%5B0x210798bc%5D&action=dispense&reagent=nuka_cola
+[2020-08-28 02:11:52.519] HREF: Quakkerz (usr:Braxton Hirleman[(198,80,2)]) : /datum/tgui src=%5B0x210798bc%5D&action=tgui%3Ainitialize
+[2020-08-28 02:11:52.520] HREF: Quakkerz (usr:Braxton Hirleman[(198,80,2)]) : 
+[2020-08-28 02:11:55.605] HREF: Quakkerz (usr:Braxton Hirleman[(198,80,2)]) : /datum/tgui src=%5B0x210798bc%5D&action=eject
+[2020-08-28 02:12:21.637] HREF: Sqtay (usr:Lilian Cook[(199,80,2)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"sqtay","ip":"181.44.119.80","compid":"3465061488"},{"ckey":"sqtay","ip":"181.44.119.87","compid":"3465061488"},{"ckey":"sqtay","ip":"181.46.69.87","compid":"3465061488"}]}
+[2020-08-28 02:12:32.018] HREF: Quakkerz (usr:Braxton Hirleman[(197,80,2)]) : /datum/tgui src=%5B0x210798ea%5D&action=tgui%3Ainitialize
+[2020-08-28 02:12:32.103] HREF: Quakkerz (usr:Braxton Hirleman[(197,80,2)]) : 
+[2020-08-28 02:12:35.060] HREF: Ghostly98 (usr:Floyd Tin[(46,50,2)]) : The jukebox src=[0x2004ac1];action=select
+[2020-08-28 02:12:41.107] HREF: Ghostly98 (usr:Floyd Tin[(46,50,2)]) : The jukebox src=[0x2004ac1];action=toggle
+[2020-08-28 02:12:58.108] HREF: Ghostly98 (usr:Floyd Tin[(130,63,2)]) : Floyd Tin src=[mob_957];follow=[mob_922]
+[2020-08-28 02:13:20.237] HREF: Ghostly98 (usr:Floyd Tin[(46,50,2)]) : The jukebox src=[0x2004ac1];action=toggle
+[2020-08-28 02:14:14.884] HREF: Ghostly98 (usr:Floyd Tin[(64,38,2)]) : /datum/tgui src=%5B0x2107991d%5D&action=tgui%3Ainitialize
+[2020-08-28 02:14:14.990] HREF: Ghostly98 (usr:Floyd Tin[(64,38,2)]) : 
+[2020-08-28 02:14:29.347] HREF: Ghostly98 (usr:Floyd Tin[(64,38,2)]) : ghostly98's admin datum (Host) src=[0x21000c95];admin_token=8721610836461062960101739030861591;create_object=1
+[2020-08-28 02:14:32.144] HREF: Ghostly98 (usr:Floyd Tin[(64,38,2)]) : ghostly98's admin datum (Host) src=%5B0x21000c95%5D%3Badmin_token%3D8721610836461062960101739030861591&admin_token=8721610836461062960101739030861591&filter=card&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor
+[2020-08-28 02:14:42.716] HREF: Ghostly98 (usr:Floyd Tin[(64,38,2)]) : ghostly98's admin datum (Host) src=%5B0x21000c95%5D%3Badmin_token%3D8721610836461062960101739030861591&admin_token=8721610836461062960101739030861591&filter=card&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fobj%2Fitem%2Fcard%2Fid%2Fsilver%2Fmayor
+[2020-08-28 02:14:48.850] HREF: Ghostly98 (usr:Floyd Tin[(64,38,2)]) : ghostly98's admin datum (Host) src=%5B0x21000c95%5D%3Badmin_token%3D8721610836461062960101739030861591&admin_token=8721610836461062960101739030861591&filter=card&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fobj%2Fitem%2Fcard%2Fid%2Fcaptains_spare
+[2020-08-28 02:15:00.653] HREF: Ghostly98 (usr:Floyd Tin[(64,38,2)]) : ghostly98's admin datum (Host) src=%5B0x21000c95%5D%3Badmin_token%3D8721610836461062960101739030861591&admin_token=8721610836461062960101739030861591&filter=card&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fobj%2Fitem%2Fcard%2Fid%2Fdogtag%2Fdeputy
+[2020-08-28 02:15:41.478] HREF: Alaspo (usr:Alaspo[(180,247,1)]) : _src_=chat&proc=doneLoading
+[2020-08-28 02:15:41.900] HREF: Alaspo (usr:Alaspo[(180,247,1)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"alaspo","ip":"200.104.71.217","compid":"4193281141"},{"ckey":"alaspo","ip":"200.104.71.217","compid":"2236915154"}]}
+[2020-08-28 02:16:28.203] HREF: Ghostly98 (usr:Floyd Tin[(70,75,4)]) : Floyd Tin src=[mob_961];follow=[mob_922]
+[2020-08-28 02:17:13.243] HREF: Alaspo (usr:Alaspo[(180,247,1)]) : Alaspo src=[mob_959];ready=2
+[2020-08-28 02:17:33.799] HREF: Alaspo (usr:Syd Alice[(79,44,2)]) : Syd Alice src=[mob_963];follow=[mob_935]
+[2020-08-28 02:18:16.102] HREF: Ghostly98 (usr:Floyd Tin[(165,60,2)]) : Floyd Tin src=[mob_965];follow=[mob_922]
+[2020-08-28 02:30:47.187] HREF: Quakkerz (usr:Braxton Hirleman[(178,84,2)]) : The �Vim Soda Vending Machine src=[0x200e4e2];vend=[0x2100fd47]
+[2020-08-28 02:31:14.193] HREF: Ghostly98 (usr:Floyd Tin[(165,87,2)]) : /datum/tgui src=%5B0x21079d35%5D&action=tgui%3Ainitialize
+[2020-08-28 02:31:14.233] HREF: Ghostly98 (usr:Floyd Tin[(165,87,2)]) : 
+[2020-08-28 02:31:16.806] HREF: Ghostly98 (usr:Floyd Tin[(165,87,2)]) : /datum/tgui src=%5B0x21079d35%5D&action=angle&adjust=15
+[2020-08-28 02:31:17.773] HREF: Ghostly98 (usr:Floyd Tin[(165,87,2)]) : /datum/tgui src=%5B0x21079d35%5D&action=angle&adjust=15
+[2020-08-28 02:31:19.188] HREF: Ghostly98 (usr:Floyd Tin[(165,87,2)]) : /datum/tgui src=%5B0x21079d35%5D&action=tracking&mode=1
+[2020-08-28 02:31:20.468] HREF: Ghostly98 (usr:Floyd Tin[(165,87,2)]) : /datum/tgui src=%5B0x21079d35%5D&action=tracking&mode=0
+[2020-08-28 02:31:21.420] HREF: Ghostly98 (usr:Floyd Tin[(165,87,2)]) : /datum/tgui src=%5B0x21079d35%5D&action=tracking&mode=1
+[2020-08-28 02:31:22.174] HREF: Ghostly98 (usr:Floyd Tin[(165,87,2)]) : /datum/tgui src=%5B0x21079d35%5D&action=angle&adjust=15
+[2020-08-28 02:31:23.138] HREF: Ghostly98 (usr:Floyd Tin[(165,87,2)]) : /datum/tgui src=%5B0x21079d35%5D&action=angle&adjust=15
+[2020-08-28 02:31:24.476] HREF: Ghostly98 (usr:Floyd Tin[(165,87,2)]) : /datum/tgui src=%5B0x21079d35%5D&action=angle&adjust=15
+[2020-08-28 02:31:25.573] HREF: Ghostly98 (usr:Floyd Tin[(165,87,2)]) : /datum/tgui src=%5B0x21079d35%5D&action=angle&adjust=15
+[2020-08-28 02:31:27.055] HREF: Ghostly98 (usr:Floyd Tin[(165,87,2)]) : /datum/tgui src=%5B0x21079d35%5D&action=refresh
+[2020-08-28 02:31:28.268] HREF: Ghostly98 (usr:Floyd Tin[(165,87,2)]) : /datum/tgui src=%5B0x21079d35%5D&action=tracking&mode=2
+[2020-08-28 02:31:39.794] HREF: Ghostly98 (usr:Floyd Tin[(165,89,2)]) : /datum/tgui src=%5B0x21079d3a%5D&action=tgui%3Ainitialize
+[2020-08-28 02:31:39.853] HREF: Ghostly98 (usr:Floyd Tin[(165,89,2)]) : 
+[2020-08-28 02:31:42.693] HREF: Ghostly98 (usr:Floyd Tin[(165,87,2)]) : /datum/tgui src=%5B0x21079d74%5D&action=tgui%3Ainitialize
+[2020-08-28 02:31:42.760] HREF: Ghostly98 (usr:Floyd Tin[(165,87,2)]) : 
+[2020-08-28 02:31:45.284] HREF: Ghostly98 (usr:Floyd Tin[(166,88,2)]) : /datum/tgui src=%5B0x21079d5a%5D&action=tgui%3Ainitialize
+[2020-08-28 02:31:45.332] HREF: Ghostly98 (usr:Floyd Tin[(166,88,2)]) : 
+[2020-08-28 02:32:16.188] HREF: Quakkerz (usr:Braxton Hirleman[(171,97,2)]) : /datum/tgui src=%5B0x21079d76%5D&action=tgui%3Ainitialize
+[2020-08-28 02:32:16.244] HREF: Quakkerz (usr:Braxton Hirleman[(171,97,2)]) : 
+[2020-08-28 02:32:18.165] HREF: Quakkerz (usr:Braxton Hirleman[(171,97,2)]) : /datum/tgui src=%5B0x21079d76%5D&action=broadcast
+[2020-08-28 02:32:22.028] HREF: Quakkerz (usr:Braxton Hirleman[(171,97,2)]) : /datum/tgui src=%5B0x21079d76%5D&action=broadcast
+[2020-08-28 02:32:48.118] HREF: Alaspo (usr:Syd Alice[(176,86,2)]) : Syd Alice src=[mob_963];follow=[mob_922]
+[2020-08-28 02:33:02.743] HREF: Quakkerz (usr:Braxton Hirleman[(168,94,3)]) : Untitled src=[0x21016c79];newsong=1
+[2020-08-28 02:33:04.084] HREF: Quakkerz (usr:Braxton Hirleman[(168,94,3)]) :  src=[0x21016c79];newsong=1
+[2020-08-28 02:33:04.911] HREF: Quakkerz (usr:Braxton Hirleman[(168,94,3)]) :  src=[0x21016c79];newline=1
+[2020-08-28 02:33:08.374] HREF: Quakkerz (usr:Braxton Hirleman[(168,94,3)]) :  src=[0x21016c79];play=1
+[2020-08-28 02:33:10.455] HREF: Quakkerz (usr:Braxton Hirleman[(168,94,3)]) :  src=[0x21016c79];play=1
+[2020-08-28 02:33:12.859] HREF: Ghostly98 (usr:Floyd Tin[(165,87,2)]) : /datum/tgui src=%5B0x21079e29%5D&action=tgui%3Ainitialize
+[2020-08-28 02:33:12.890] HREF: Ghostly98 (usr:Floyd Tin[(165,87,2)]) : 
+[2020-08-28 02:33:13.371] HREF: Quakkerz (usr:Braxton Hirleman[(168,94,3)]) :  src=[0x21016c79];newsong=1
+[2020-08-28 02:33:14.995] HREF: Ghostly98 (usr:Floyd Tin[(165,87,2)]) : /datum/tgui src=%5B0x21079e0f%5D&action=tgui%3Ainitialize
+[2020-08-28 02:33:15.038] HREF: Ghostly98 (usr:Floyd Tin[(165,87,2)]) : 
+[2020-08-28 02:33:15.179] HREF: Quakkerz (usr:Braxton Hirleman[(168,94,3)]) :  src=[0x21016c79];newline=1
+[2020-08-28 02:33:18.086] HREF: Ghostly98 (usr:Floyd Tin[(165,88,2)]) : /datum/tgui src=%5B0x21079e2d%5D&action=tgui%3Ainitialize
+[2020-08-28 02:33:18.127] HREF: Ghostly98 (usr:Floyd Tin[(165,88,2)]) : 
+[2020-08-28 02:33:18.365] HREF: Quakkerz (usr:Braxton Hirleman[(168,94,3)]) :  src=[0x21016c79];play=1
+[2020-08-28 02:33:26.660] HREF: Quakkerz (usr:Braxton Hirleman[(168,94,3)]) :  src=[0x21016c79];import=1
+[2020-08-28 02:33:34.663] HREF: Ghostly98 (usr:Floyd Tin[(165,88,2)]) : /datum/tgui src=%5B0x21079e31%5D&action=tgui%3Ainitialize
+[2020-08-28 02:33:34.697] HREF: Ghostly98 (usr:Floyd Tin[(165,88,2)]) : 
+[2020-08-28 02:33:36.795] HREF: Ghostly98 (usr:Floyd Tin[(165,88,2)]) : /datum/tgui src=%5B0x21079dbf%5D&action=tgui%3Ainitialize
+[2020-08-28 02:33:36.862] HREF: Ghostly98 (usr:Floyd Tin[(165,88,2)]) : 
+[2020-08-28 02:33:39.707] HREF: Ghostly98 (usr:Floyd Tin[(165,89,2)]) : /datum/tgui src=%5B0x21079d82%5D&action=tgui%3Ainitialize
+[2020-08-28 02:33:39.738] HREF: Ghostly98 (usr:Floyd Tin[(165,89,2)]) : 
+[2020-08-28 02:34:20.137] HREF: Quakkerz (usr:Braxton Hirleman[(167,95,3)]) : Untitled src=[0x21016b85];newline=1
+[2020-08-28 02:34:23.024] HREF: Quakkerz (usr:Braxton Hirleman[(167,95,3)]) : Untitled src=[0x21016b85];play=1
+[2020-08-28 02:34:24.757] HREF: Quakkerz (usr:Braxton Hirleman[(167,95,3)]) : Untitled src=[0x21016b85];repeat=1
+[2020-08-28 02:34:25.220] HREF: Quakkerz (usr:Braxton Hirleman[(167,95,3)]) : Untitled src=[0x21016b85];play=1
+[2020-08-28 02:34:28.400] HREF: Quakkerz (usr:Braxton Hirleman[(167,95,3)]) : Untitled src=[0x21016b85];play=1
+[2020-08-28 02:34:29.876] HREF: Quakkerz (usr:Braxton Hirleman[(167,95,3)]) : Untitled src=[0x21016b85];newsong=1
+[2020-08-28 02:34:31.369] HREF: Quakkerz (usr:Braxton Hirleman[(167,95,3)]) :  src=[0x21016b85];newline=1
+[2020-08-28 02:34:35.164] HREF: Quakkerz (usr:Braxton Hirleman[(167,95,3)]) :  src=[0x21016b85];play=1
+[2020-08-28 02:35:23.690] HREF: Ghostly98 (usr:Floyd Tin[(164,93,2)]) :  src=[0x21016c79];import=1
+[2020-08-28 02:35:32.899] HREF: Ghostly98 (usr:Floyd Tin[(174,91,2)]) :  src=[0x21016c79];play=1
+[2020-08-28 02:35:47.020] HREF: Ghostly98 (usr:Floyd Tin[(174,91,2)]) :  src=[0x21016c79];stop=1
+[2020-08-28 02:35:48.282] HREF: Ghostly98 (usr:Floyd Tin[(174,91,2)]) :  src=[0x21016c79];repeat=1
+[2020-08-28 02:35:49.252] HREF: Ghostly98 (usr:Floyd Tin[(174,91,2)]) :  src=[0x21016c79];play=1
+[2020-08-28 02:35:53.962] HREF: Ghostly98 (usr:Floyd Tin[(174,91,2)]) :  src=[0x21016c79];help=2
+[2020-08-28 02:35:56.118] HREF: Quakkerz (usr:Braxton Hirleman[(177,88,2)]) : The microwave oven src=[0x200438d];action=cook
+[2020-08-28 02:35:59.900] HREF: Ghostly98 (usr:Floyd Tin[(174,93,2)]) :  src=[0x21016c79];play=1
+[2020-08-28 02:36:10.710] HREF: Ghostly98 (usr:Floyd Tin[(174,93,2)]) :  src=[0x21016c79];stop=1
+[2020-08-28 02:36:11.761] HREF: Ghostly98 (usr:Floyd Tin[(174,93,2)]) :  src=[0x21016c79];import=1
+[2020-08-28 02:36:14.061] HREF: Quakkerz (usr:Braxton Hirleman[(177,88,2)]) : The microwave oven src=[0x200438d];action=cook
+[2020-08-28 02:36:16.181] HREF: Ghostly98 (usr:Floyd Tin[(174,93,2)]) :  src=[0x21016c79];play=1
+[2020-08-28 02:36:18.494] HREF: Ghostly98 (usr:Floyd Tin[(174,93,2)]) :  src=[0x21016c79];tempo=-0.5
+[2020-08-28 02:36:19.005] HREF: Ghostly98 (usr:Floyd Tin[(174,93,2)]) :  src=[0x21016c79];tempo=-0.5
+[2020-08-28 02:36:19.672] HREF: Ghostly98 (usr:Floyd Tin[(174,93,2)]) :  src=[0x21016c79];tempo=-0.5
+[2020-08-28 02:36:20.564] HREF: Ghostly98 (usr:Floyd Tin[(174,93,2)]) :  src=[0x21016c79];stop=1
+[2020-08-28 02:36:21.041] HREF: Ghostly98 (usr:Floyd Tin[(174,93,2)]) :  src=[0x21016c79];play=1
+[2020-08-28 02:36:30.108] HREF: Quakkerz (usr:Braxton Hirleman[(177,88,2)]) : The microwave oven src=[0x200438d];action=cook
+[2020-08-28 02:36:30.548] HREF: Ghostly98 (usr:Floyd Tin[(169,97,2)]) : Untitled src=[0x210010ac];import=1
+[2020-08-28 02:36:33.951] HREF: Ghostly98 (usr:Floyd Tin[(169,97,2)]) : Untitled src=[0x210010ac];play=1
+[2020-08-28 02:36:51.440] HREF: Quakkerz (usr:Braxton Hirleman[(177,84,2)]) : The �Vim Soda Vending Machine src=[0x200e4e2];vend=[0x2100fd47]
+[2020-08-28 02:37:03.717] HREF: Ghostly98 (usr:Floyd Tin[(175,92,2)]) :  src=[0x21016c79];import=1
+[2020-08-28 02:37:07.043] HREF: Ghostly98 (usr:Floyd Tin[(175,92,2)]) :  src=[0x21016c79];play=1
+[2020-08-28 02:37:11.959] HREF: Ghostly98 (usr:Floyd Tin[(175,92,2)]) :  src=[0x21016c79];stop=1
+[2020-08-28 02:37:13.019] HREF: Ghostly98 (usr:Floyd Tin[(175,92,2)]) :  src=[0x21016c79];play=1
+[2020-08-28 02:37:13.940] HREF: Ghostly98 (usr:Floyd Tin[(175,92,2)]) :  src=[0x21016c79];import=1
+[2020-08-28 02:37:17.592] HREF: Ghostly98 (usr:Floyd Tin[(175,92,2)]) :  src=[0x21016c79];stop=1
+[2020-08-28 02:37:17.882] HREF: Ghostly98 (usr:Floyd Tin[(175,92,2)]) :  src=[0x21016c79];play=1
+[2020-08-28 02:37:32.594] HREF: Ghostly98 (usr:Floyd Tin[(169,97,2)]) : Untitled src=[0x210010ac];stop=1
+[2020-08-28 02:38:05.954] HREF: Ghostly98 (usr:Floyd Tin[(169,97,2)]) : ghostly98's admin datum (Host) src=[0x21000c95];admin_token=8721610836461062960101739030861591;create_object=1
+[2020-08-28 02:38:19.124] HREF: Ghostly98 (usr:Floyd Tin[(169,97,2)]) : ghostly98's admin datum (Host) src=%5B0x21000c95%5D%3Badmin_token%3D8721610836461062960101739030861591&admin_token=8721610836461062960101739030861591&filter=tool&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fobj%2Fitem%2Fstorage%2Ftoolbox%2Fmechanical
+[2020-08-28 02:39:18.187] HREF: Ghostly98 (usr:Floyd Tin[(143,81,2)]) : Untitled src=[0x210010ac];play=1
+[2020-08-28 02:40:17.650] HREF: Ghostly98 (usr:Floyd Tin[(143,81,2)]) : Untitled src=[0x210010ac];stop=1
+[2020-08-28 02:40:19.554] HREF: Ghostly98 (usr:Floyd Tin[(143,81,2)]) : Untitled src=[0x210010ac];import=1
+[2020-08-28 02:40:22.970] HREF: Ghostly98 (usr:Floyd Tin[(143,81,2)]) : Untitled src=[0x210010ac];play=1
+[2020-08-28 02:40:43.243] HREF: Ghostly98 (usr:Floyd Tin[(143,81,2)]) : Untitled src=[0x210010ac];stop=1
+[2020-08-28 02:41:06.025] HREF: Ghostly98 (usr:Floyd Tin[(143,81,2)]) : Untitled src=[0x210010ac];import=1
+[2020-08-28 02:41:10.267] HREF: Ghostly98 (usr:Floyd Tin[(143,81,2)]) : Untitled src=[0x210010ac];play=1
+[2020-08-28 02:42:36.803] HREF: Ghostly98 (usr:Floyd Tin[(143,81,2)]) : Untitled src=[0x210010ac];stop=1
+[2020-08-28 02:42:38.035] HREF: Ghostly98 (usr:Floyd Tin[(143,81,2)]) : Untitled src=[0x210010ac];import=1
+[2020-08-28 02:42:41.602] HREF: Ghostly98 (usr:Floyd Tin[(143,81,2)]) : Untitled src=[0x210010ac];play=1
+[2020-08-28 02:44:25.036] HREF: Ghostly98 (usr:Floyd Tin[(143,81,2)]) : Untitled src=[0x210010ac];import=1
+[2020-08-28 02:44:28.706] HREF: Ghostly98 (usr:Floyd Tin[(143,81,2)]) : Untitled src=[0x210010ac];play=1
+[2020-08-28 02:45:32.624] HREF: Quakkerz (usr:Braxton Hirleman[(177,84,2)]) : The �Vim Soda Vending Machine src=[0x200e4e2];vend=[0x2100fd47]
+[2020-08-28 02:45:41.457] HREF: Ghostly98 (usr:Floyd Tin[(143,81,2)]) : Untitled src=[0x210010ac];stop=1
+[2020-08-28 02:45:42.298] HREF: Ghostly98 (usr:Floyd Tin[(143,81,2)]) : Untitled src=[0x210010ac];import=1
+[2020-08-28 02:45:45.667] HREF: Ghostly98 (usr:Floyd Tin[(143,81,2)]) : Untitled src=[0x210010ac];play=1
+[2020-08-28 02:46:18.771] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];category=Construction;menu=2
+[2020-08-28 02:46:25.068] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];menu=1
+[2020-08-28 02:46:32.656] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];category=Security;menu=2
+[2020-08-28 02:46:39.167] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];menu=1
+[2020-08-28 02:46:41.628] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];category=Machinery;menu=2
+[2020-08-28 02:46:42.731] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];menu=1
+[2020-08-28 02:46:43.623] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];category=Misc;menu=2
+[2020-08-28 02:46:51.630] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];menu=1
+[2020-08-28 02:46:53.170] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];category=Tools;menu=2
+[2020-08-28 02:46:59.927] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];menu=1
+[2020-08-28 02:49:07.874] HREF: Ghostly98 (usr:Floyd Tin[(143,81,2)]) : Untitled src=[0x210010ac];stop=1
+[2020-08-28 02:52:19.891] HREF: Ghostly98 (usr:Floyd Tin[(80,35,2)]) : ghostly98's admin datum (Host) src=[0x21000c95];admin_token=8721610836461062960101739030861591;create_object=1
+[2020-08-28 02:52:33.186] HREF: Ghostly98 (usr:Floyd Tin[(80,35,2)]) : ghostly98's admin datum (Host) src=%5B0x21000c95%5D%3Badmin_token%3D8721610836461062960101739030861591&admin_token=8721610836461062960101739030861591&filter=card&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fobj%2Fitem%2Fcard%2Fid%2Fdogtag%2Ftown
+[2020-08-28 02:54:32.128] HREF: Ghostly98 (usr:Floyd Tin[(45,51,2)]) : The jukebox src=[0x2004ac1];action=select
+[2020-08-28 02:54:35.970] HREF: Ghostly98 (usr:Floyd Tin[(45,51,2)]) : The jukebox src=[0x2004ac1];action=toggle
+[2020-08-28 02:54:56.676] HREF: Quakkerz (usr:Braxton Hirleman[(81,39,3)]) : /datum/tgui src=%5B0x2107a0a5%5D&action=tgui%3Ainitialize
+[2020-08-28 02:54:56.728] HREF: Quakkerz (usr:Braxton Hirleman[(81,39,3)]) : 
+[2020-08-28 02:55:05.721] HREF: Ghostly98 (usr:Floyd Tin[(46,50,2)]) : The jukebox src=[0x2004ac1];action=toggle
+[2020-08-28 02:55:37.358] HREF: Ghostly98 (usr:Floyd Tin[(46,50,2)]) : The jukebox src=[0x2004ac1];action=toggle
+[2020-08-28 02:55:50.768] HREF: Ghostly98 (usr:Floyd Tin[(45,51,2)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"ghostly98","ip":"127.0.0.1","compid":"1271285026"},{"ckey":"ghostly98","ip":"75.163.21.179","compid":"1271285026"},{"ckey":"ghostly98","ip":"24.62.253.225","compid":"1271285026"},{"ckey":"guest1271285026","ip":"127.0.0.1","compid":"1271285026"}]}
+[2020-08-28 02:56:14.906] HREF: Ghostly98 (usr:Floyd Tin[(45,51,2)]) : The jukebox src=[0x2004ac1];action=toggle
+[2020-08-28 02:56:18.757] HREF: Ghostly98 (usr:Floyd Tin[(45,51,2)]) : The jukebox src=[0x2004ac1];action=toggle
+[2020-08-28 02:56:20.666] HREF: Ghostly98 (usr:Floyd Tin[(45,51,2)]) : The jukebox src=[0x2004ac1];action=toggle
+[2020-08-28 02:56:22.067] HREF: Ghostly98 (usr:Floyd Tin[(45,51,2)]) : The jukebox src=[0x2004ac1];action=toggle
+[2020-08-28 02:56:23.755] HREF: Ghostly98 (usr:Floyd Tin[(45,51,2)]) : The jukebox src=[0x2004ac1];action=toggle
+[2020-08-28 02:56:25.746] HREF: Ghostly98 (usr:Floyd Tin[(45,51,2)]) : The jukebox src=[0x2004ac1];action=toggle
+[2020-08-28 02:56:51.402] HREF: Ghostly98 (usr:Floyd Tin[(45,51,2)]) : The jukebox src=[0x2004ac1];action=toggle
+[2020-08-28 02:57:18.810] HREF: Ghostly98 (usr:Floyd Tin[(45,51,2)]) : Untitled src=[0x210010ec];import=1
+[2020-08-28 02:57:22.540] HREF: Ghostly98 (usr:Floyd Tin[(45,51,2)]) : Untitled src=[0x210010ec];play=1
+[2020-08-28 02:57:25.160] HREF: Quakkerz (usr:Braxton Hirleman[(45,46,2)]) : The slot machine src=[0x2004d1e];spin=1
+[2020-08-28 02:57:42.828] HREF: Quakkerz (usr:Braxton Hirleman[(46,50,2)]) : The jukebox src=[0x2004ac1];action=toggle
+[2020-08-28 02:57:45.031] HREF: Quakkerz (usr:Braxton Hirleman[(46,50,2)]) : The jukebox src=[0x2004ac1];action=select
+[2020-08-28 02:57:46.425] HREF: Ghostly98 (usr:Floyd Tin[(45,51,2)]) : Untitled src=[0x210010ec];stop=1
+[2020-08-28 02:57:46.655] HREF: Quakkerz (usr:Braxton Hirleman[(46,50,2)]) : The jukebox src=[0x2004ac1];action=select
+[2020-08-28 02:58:17.881] HREF: Ghostly98 (usr:Floyd Tin[(40,46,2)]) : The �Mr Brewsky src=[0x2004d18];vend=[0x21010fb2]
+[2020-08-28 02:59:16.493] HREF: Quakkerz (usr:Braxton Hirleman[(39,46,2)]) : The �Mr Brewsky src=[0x2004d18];vend=[0x21010fb3]
+[2020-08-28 02:59:48.320] HREF: Quakkerz (usr:Braxton Hirleman[(40,46,2)]) : The �Mr Brewsky src=[0x2004d18];vend=[0x21010fab]
+[2020-08-28 03:05:06.251] HREF: Ghostly98 (usr:Floyd Tin[(69,35,2)]) : The �Pure Patriot Treats src=[0x20050ff];vend=[0x210119b6]
+[2020-08-28 03:18:02.031] HREF: Quakkerz (usr:Braxton Hirleman[(133,90,2)]) : /datum/tgui src=%5B0x2107a25e%5D&action=tgui%3Ainitialize
+[2020-08-28 03:18:02.152] HREF: Quakkerz (usr:Braxton Hirleman[(133,90,2)]) : 
+[2020-08-28 03:19:54.500] HREF: Quakkerz (usr:Braxton Hirleman[(156,84,2)]) : /datum/tgui src=%5B0x210115be%5D&action=tgui%3Ainitialize
+[2020-08-28 03:19:54.530] HREF: Quakkerz (usr:Braxton Hirleman[(156,84,2)]) : 
+[2020-08-28 03:20:13.304] HREF: Quakkerz (usr:Braxton Hirleman[(156,82,2)]) : /datum/tgui src=%5B0x2107a2ed%5D&action=tgui%3Ainitialize
+[2020-08-28 03:20:13.340] HREF: Quakkerz (usr:Braxton Hirleman[(156,82,2)]) : 
+[2020-08-28 03:20:35.047] HREF: Quakkerz (usr:Braxton Hirleman[(156,82,2)]) : /datum/tgui src=%5B0x2107a2f8%5D&action=tgui%3Ainitialize
+[2020-08-28 03:20:35.167] HREF: Quakkerz (usr:Braxton Hirleman[(156,82,2)]) : 
+[2020-08-28 03:21:30.539] HREF: Quakkerz (usr:Braxton Hirleman[(156,82,2)]) : /datum/tgui src=%5B0x21011fd9%5D&action=tgui%3Ainitialize
+[2020-08-28 03:21:30.624] HREF: Quakkerz (usr:Braxton Hirleman[(156,82,2)]) : 
+[2020-08-28 03:22:56.127] HREF: Quakkerz (usr:Braxton Hirleman[(151,90,2)]) : The �MediDrobe src=[0x2004311];vend=[0x2100f97a]
+[2020-08-28 03:25:36.536] HREF: Ghostly98 (usr:Floyd Tin[(148,69,2)]) : ghostly98's admin datum (Host) src=[0x21000c95];admin_token=8721610836461062960101739030861591;create_turf=1
+[2020-08-28 03:25:40.010] HREF: Quakkerz (usr:Braxton Hirleman[(136,88,2)]) : The �Big Smokes src=[0x200437d];vend=[0x2100facb]
+[2020-08-28 03:25:41.602] HREF: Quakkerz (usr:Braxton Hirleman[(136,88,2)]) : The �Big Smokes src=[0x200437d];vend=[0x2100faca]
+[2020-08-28 03:26:28.802] HREF: Ghostly98 (usr:Floyd Tin[(148,69,2)]) : ghostly98's admin datum (Host) src=%5B0x21000c95%5D%3Badmin_token%3D8721610836461062960101739030861591&admin_token=8721610836461062960101739030861591&filter=&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fturf%2Fopen%2Flava
+[2020-08-28 03:26:42.344] HREF: Quakkerz (usr:Braxton Hirleman[(148,82,2)]) : Medicine Vending Machine src=[0x20044ed];removecaps=1
+[2020-08-28 03:28:53.888] HREF: Ghostly98 (usr:Floyd Tin[(165,69,2)]) : ghostly98's admin datum (Host) src=[0x21000c95];admin_token=8721610836461062960101739030861591;create_mob=1
+[2020-08-28 03:29:20.233] HREF: Ghostly98 (usr:Floyd Tin[(165,69,2)]) : ghostly98's admin datum (Host) src=%5B0x21000c95%5D%3Badmin_token%3D8721610836461062960101739030861591&admin_token=8721610836461062960101739030861591&filter=playable&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fmob%2Fliving%2Fsimple_animal%2Fhostile%2Fhandy%2Fsentrybot%2Fplayable
+[2020-08-28 03:29:32.384] HREF: Ghostly98 (usr:Floyd Tin[(164,69,2)]) : _src_=vars;admin_token=8721610836461062960101739030861591;godmode=[mob_979]
+[2020-08-28 03:29:36.240] HREF: Ghostly98 (usr:Floyd Tin[(164,69,2)]) : _src_=vars;admin_token=8721610836461062960101739030861591;direct_control=[mob_979]
+[2020-08-28 03:30:28.999] HREF: Ghostly98 (usr:the sentry bot[(175,71,2)]) : ghostly98's admin datum (Host) src=[0x21000c95];admin_token=8721610836461062960101739030861591;create_object=1
+[2020-08-28 03:30:35.480] HREF: Ghostly98 (usr:the sentry bot[(175,71,2)]) : ghostly98's admin datum (Host) src=[0x21000c95];admin_token=8721610836461062960101739030861591;create_mob=1
+[2020-08-28 03:31:16.512] HREF: Ghostly98 (usr:the sentry bot[(175,71,2)]) : ghostly98's admin datum (Host) src=%5B0x21000c95%5D%3Badmin_token%3D8721610836461062960101739030861591&admin_token=8721610836461062960101739030861591&filter=mob&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fmob%2Fliving%2Fsimple_animal%2Fhostile%2Fhandy%2Fsentrybot%2Fplayable
+[2020-08-28 03:31:30.448] HREF: Ghostly98 (usr:the sentry bot[(173,71,2)]) : _src_=vars;admin_token=8721610836461062960101739030861591;godmode=[mob_982]
+[2020-08-28 03:31:34.828] HREF: Ghostly98 (usr:the sentry bot[(173,71,2)]) : _src_=vars;admin_token=8721610836461062960101739030861591;direct_control=[mob_982]
+[2020-08-28 03:33:23.560] HREF: Ghostly98 (usr:the sentry bot[(191,79,2)]) : _src_=vars;admin_token=8721610836461062960101739030861591;datumrefresh=[mob_982]
+[2020-08-28 03:33:25.945] HREF: Ghostly98 (usr:the sentry bot[(191,79,2)]) : _src_=vars;admin_token=8721610836461062960101739030861591;godmode=[mob_982]
+[2020-08-28 03:33:58.336] HREF: Ghostly98 (usr:the sentry bot[(168,70,2)]) : ghostly98's admin datum (Host) src=[0x21000c95];admin_token=8721610836461062960101739030861591;create_mob=1
+[2020-08-28 03:34:11.672] HREF: Ghostly98 (usr:the sentry bot[(168,70,2)]) : ghostly98's admin datum (Host) src=%5B0x21000c95%5D%3Badmin_token%3D8721610836461062960101739030861591&admin_token=8721610836461062960101739030861591&filter=sen&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fmob%2Fliving%2Fsimple_animal%2Fhostile%2Fhandy%2Fsentrybot
+[2020-08-28 03:34:21.344] HREF: Ghostly98 (usr:the sentry bot[(167,70,2)]) : _src_=vars;admin_token=8721610836461062960101739030861591;godmode=[mob_985]
+[2020-08-28 03:34:30.202] HREF: Ghostly98 (usr:the sentry bot[(169,70,2)]) : _src_=vars;admin_token=8721610836461062960101739030861591;direct_control=[mob_985]
+[2020-08-28 03:42:28.509] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];category=Construction;menu=2
+[2020-08-28 03:42:31.978] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];make=glass;multiplier=1
+[2020-08-28 03:42:33.752] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];make=glass;multiplier=1
+[2020-08-28 03:42:47.024] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];menu=1
+[2020-08-28 03:42:50.121] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];category=Tools;menu=2
+[2020-08-28 03:42:52.133] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];menu=1
+[2020-08-28 03:42:55.184] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];category=Security;menu=2
+[2020-08-28 03:43:00.801] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];menu=1
+[2020-08-28 03:43:03.051] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];category=Misc;menu=2
+[2020-08-28 03:43:05.296] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];menu=1
+[2020-08-28 03:43:06.412] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];category=Tools;menu=2
+[2020-08-28 03:43:11.015] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];menu=1
+[2020-08-28 03:43:12.396] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];category=Construction;menu=2
+[2020-08-28 03:43:14.227] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];make=glass;multiplier=1
+[2020-08-28 03:43:41.359] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];make=glass;multiplier=1
+[2020-08-28 03:44:52.037] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];make=glass;multiplier=4
+[2020-08-28 03:46:47.701] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];menu=1
+[2020-08-28 03:46:50.973] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];category=Construction;menu=2
+[2020-08-28 03:46:52.498] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];menu=1
+[2020-08-28 03:46:53.381] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];category=Security;menu=2
+[2020-08-28 03:46:56.833] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];menu=1
+[2020-08-28 03:47:00.124] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];category=Misc;menu=2
+[2020-08-28 03:47:04.497] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];menu=1
+[2020-08-28 03:47:06.517] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];category=Medical;menu=2
+[2020-08-28 03:47:13.297] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];menu=1
+[2020-08-28 03:47:14.724] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];category=Dinnerware;menu=2
+[2020-08-28 03:47:17.349] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];menu=1
+[2020-08-28 03:47:19.183] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];category=Electronics;menu=2
+[2020-08-28 03:47:20.572] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];menu=1
+[2020-08-28 03:47:22.185] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];category=T-Comm;menu=2
+[2020-08-28 03:47:23.808] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];menu=1
+[2020-08-28 03:47:26.096] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];category=Machinery;menu=2
+[2020-08-28 03:47:27.325] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];menu=1
+[2020-08-28 03:47:28.419] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];category=Tools;menu=2
+[2020-08-28 03:48:07.767] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];menu=1
+[2020-08-28 03:48:11.139] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];category=Construction;menu=2
+[2020-08-28 03:48:16.339] HREF: Quakkerz (usr:Braxton Hirleman[(127,90,2)]) : Workshop src=[0x2004228];make=glass;multiplier=11
+[2020-08-28 03:53:23.660] HREF: Sqtay (usr:Lilian Cook[(149,82,2)]) : _src_=chat&proc=doneLoading
+[2020-08-28 03:53:23.882] HREF: Sqtay (usr:Lilian Cook[(149,82,2)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"sqtay","ip":"181.44.119.80","compid":"3465061488"},{"ckey":"sqtay","ip":"181.44.119.87","compid":"3465061488"}]}
+[2020-08-28 03:54:56.230] HREF: Ghostly98 (usr:the sentry bot[(147,71,2)]) : _src_=holder;admin_token=8721610836461062960101739030861591;revive=[mob_935]
+[2020-08-28 03:59:41.786] HREF: Quakkerz (usr:Braxton Hirleman[(156,82,2)]) : /datum/tgui src=%5B0x21011e52%5D&action=tgui%3Ainitialize
+[2020-08-28 03:59:41.878] HREF: Quakkerz (usr:Braxton Hirleman[(156,82,2)]) : 
+[2020-08-28 04:05:41.421] HREF: Ghostly98 (usr:the sentry bot[(192,77,2)]) : _src_=vars;admin_token=8721610836461062960101739030861591;datumedit=[mob_985];varnameedit=mob_size
+[2020-08-28 04:05:47.936] HREF: Ghostly98 (usr:the sentry bot[(192,77,2)]) : _src_=vars;admin_token=8721610836461062960101739030861591;datumrefresh=[mob_985]
+[2020-08-28 04:06:19.358] HREF: Ghostly98 (usr:the sentry bot[(192,77,2)]) : _src_=vars;admin_token=8721610836461062960101739030861591;datumedit=[mob_985];varnameedit=mob_size
+[2020-08-28 04:06:22.844] HREF: Quakkerz (usr:Braxton Hirleman[(136,88,2)]) : The �Big Smokes src=[0x200437d];vend=[0x2100faca]
+[2020-08-28 04:07:58.291] HREF: Quakkerz (usr:Braxton Hirleman[(117,69,2)]) : Wasteland Vending Machine - Medical src=[0x20047ba];purchase=[0x210010e3]
+[2020-08-28 04:08:04.631] HREF: Quakkerz (usr:Braxton Hirleman[(117,69,2)]) : Wasteland Vending Machine - Medical src=[0x20047ba];purchase=[0x210010e3]
+[2020-08-28 04:08:20.195] HREF: Quakkerz (usr:Braxton Hirleman[(117,69,2)]) : Wasteland Vending Machine - Medical src=[0x20047ba];choice=eject
+[2020-08-28 04:08:48.723] HREF: Sqtay (usr:Lilian Cook[(76,77,2)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"sqtay","ip":"181.44.119.80","compid":"3465061488"},{"ckey":"sqtay","ip":"181.44.119.87","compid":"3465061488"},{"ckey":"sqtay","ip":"181.46.69.87","compid":"3465061488"}]}
+[2020-08-28 04:09:36.084] HREF: Sqtay (usr:Lilian Cook[(75,57,2)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"sqtay","ip":"181.44.119.80","compid":"3465061488"},{"ckey":"sqtay","ip":"181.44.119.87","compid":"3465061488"},{"ckey":"sqtay","ip":"181.46.69.87","compid":"3465061488"}]}
+[2020-08-28 04:11:59.664] HREF: Quakkerz (usr:Braxton Hirleman[(51,59,2)]) : Braxton Hirleman src=[mob_1041];follow=[mob_985];x=65;y=66;z=2
+[2020-08-28 04:12:44.172] HREF: Ghostly98 (usr:the new player[(180,247,1)]) : The new player src=[mob_1047];late_join=1
+[2020-08-28 04:12:46.739] HREF: Ghostly98 (usr:the new player[(180,247,1)]) : The new player src=[mob_1047];show_preferences=1
+[2020-08-28 04:12:48.665] HREF: Ghostly98 (usr:the new player[(180,247,1)]) : _src_=prefs;preference=changeslot;num=2;
+[2020-08-28 04:12:50.164] HREF: Ghostly98 (usr:the new player[(180,247,1)]) : _src_=prefs;preference=job;task=menu
+[2020-08-28 04:12:51.749] HREF: Ghostly98 (usr:the new player[(180,247,1)]) : _src_=prefs;preference=job;task=close
+[2020-08-28 04:12:54.655] HREF: Ghostly98 (usr:the new player[(180,247,1)]) : _src_=prefs;preference=save
+[2020-08-28 04:12:55.370] HREF: Ghostly98 (usr:the new player[(180,247,1)]) : /datum/preferences close=1
+[2020-08-28 04:12:56.567] HREF: Ghostly98 (usr:the new player[(180,247,1)]) : The new player src=[mob_1047];late_join=1
+[2020-08-28 04:13:00.846] HREF: Ghostly98 (usr:the new player[(180,247,1)]) : The new player src=[mob_1047];SelectedJob=Overseer
+[2020-08-28 04:13:09.771] HREF: Quakkerz (usr:Braxton Hirleman[(46,27,2)]) : Braxton Hirleman src=[mob_1041];follow=[mob_1048]
+[2020-08-28 04:13:45.989] HREF: Ghostly98 (usr:Mauricio Palmer[(71,188,4)]) : _src_=holder;admin_token=8721610836461062960101739030861591;adminplayeropts=[mob_1043]
+[2020-08-28 04:13:48.140] HREF: Ghostly98 (usr:Mauricio Palmer[(71,188,4)]) : _src_=holder;admin_token=8721610836461062960101739030861591;sendbacktolobby=[mob_1043]
+[2020-08-28 04:13:52.232] HREF: Ghostly98 (usr:Mauricio Palmer[(71,188,4)]) : _src_=holder;admin_token=8721610836461062960101739030861591;adminplayeropts=[mob_1041]
+[2020-08-28 04:13:52.865] HREF: Sqtay (usr:the new player[(180,247,1)]) : The new player src=[mob_1052];late_join=1
+[2020-08-28 04:13:53.694] HREF: Ghostly98 (usr:Mauricio Palmer[(71,188,4)]) : _src_=holder;admin_token=8721610836461062960101739030861591;sendbacktolobby=[mob_1041]
+[2020-08-28 04:13:55.484] HREF: Sqtay (usr:the new player[(180,247,1)]) : The new player src=[mob_1052];show_preferences=1
+[2020-08-28 04:13:58.978] HREF: Quakkerz (usr:the new player[(180,247,1)]) : The new player src=[mob_1054];late_join=1
+[2020-08-28 04:14:00.861] HREF: Sqtay (usr:the new player[(180,247,1)]) : _src_=prefs;preference=name;task=random
+[2020-08-28 04:14:02.065] HREF: Quakkerz (usr:the new player[(180,247,1)]) : The new player src=[mob_1054];show_preferences=1
+[2020-08-28 04:14:04.640] HREF: Ghostly98 (usr:Mauricio Palmer[(71,188,4)]) : _src_=vars;admin_token=8721610836461062960101739030861591;datumedit=[0x2007ea0];varnameedit=charge
+[2020-08-28 04:14:06.458] HREF: Sqtay (usr:the new player[(180,247,1)]) : /datum/preferences close=1
+[2020-08-28 04:14:07.606] HREF: Sqtay (usr:the new player[(180,247,1)]) : The new player src=[mob_1052];late_join=1
+[2020-08-28 04:14:07.673] HREF: Quakkerz (usr:the new player[(180,247,1)]) : _src_=prefs;preference=name;task=input
+[2020-08-28 04:14:09.289] HREF: Quakkerz (usr:the new player[(180,247,1)]) : _src_=prefs;preference=name;task=random
+[2020-08-28 04:14:13.428] HREF: Quakkerz (usr:the new player[(180,247,1)]) : _src_=prefs;preference=special;task=menu
+[2020-08-28 04:14:14.048] HREF: Ghostly98 (usr:Mauricio Palmer[(72,188,4)]) : /datum/tgui src=%5B0x21010196%5D&action=tgui%3Ainitialize
+[2020-08-28 04:14:14.091] HREF: Ghostly98 (usr:Mauricio Palmer[(72,188,4)]) : 
+[2020-08-28 04:14:17.254] HREF: Quakkerz (usr:the new player[(180,247,1)]) : _src_=prefs;preference=special_s;task=input
+[2020-08-28 04:14:19.541] HREF: Quakkerz (usr:the new player[(180,247,1)]) : _src_=prefs;preference=special;task=close
+[2020-08-28 04:14:22.545] HREF: Quakkerz (usr:the new player[(180,247,1)]) : /datum/preferences close=1
+[2020-08-28 04:14:24.125] HREF: Quakkerz (usr:the new player[(180,247,1)]) : The new player src=[mob_1054];late_join=1
+[2020-08-28 04:14:31.899] HREF: Ghostly98 (usr:Mauricio Palmer[(63,182,4)]) : Pip-Boy 3000-Mauricio Palmer (Overseer) src=[0x200df26];choice=Light
+[2020-08-28 04:14:33.046] HREF: Ghostly98 (usr:Mauricio Palmer[(63,182,4)]) : Pip-Boy 3000-Mauricio Palmer (Overseer) close=1
+[2020-08-28 04:14:33.623] HREF: Sqtay (usr:the new player[(180,247,1)]) : The new player src=[mob_1052];SelectedJob=Vault%20Dweller
+[2020-08-28 04:14:40.964] HREF: Quakkerz (usr:the new player[(180,247,1)]) : The new player src=[mob_1054];SelectedJob=Vault%20Dweller
+[2020-08-28 04:14:43.448] HREF: Ghostly98 (usr:Mauricio Palmer[(72,189,4)]) : /datum/tgui src=%5B0x2107a5f9%5D&action=tgui%3Ainitialize
+[2020-08-28 04:14:43.611] HREF: Ghostly98 (usr:Mauricio Palmer[(72,189,4)]) : 
+[2020-08-28 04:15:14.995] HREF: Quakkerz (usr:Isaac Durstine[(44,171,4)]) : The cardboard src=[0x200df23];sublist=;make=6;multiplier=1
+[2020-08-28 04:15:26.915] HREF: Ghostly98 (usr:Mauricio Palmer[(72,190,4)]) : Nuclear Fission Reactor Control Unit src=[0x2007e32];refreshstability=1
+[2020-08-28 04:15:28.037] HREF: Ghostly98 (usr:Mauricio Palmer[(72,190,4)]) : Nuclear Fission Reactor Control Unit src=[0x2007e32];togglestatus=1
+[2020-08-28 04:15:47.444] HREF: Sqtay (usr:Amelia Pfeifer[(56,197,4)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"sqtay","ip":"181.44.119.80","compid":"3465061488"},{"ckey":"sqtay","ip":"181.44.119.87","compid":"3465061488"},{"ckey":"sqtay","ip":"181.46.69.87","compid":"3465061488"}]}
+[2020-08-28 04:16:22.270] HREF: Quakkerz (usr:Isaac Durstine[(24,185,4)]) : CargoDrobe src=[0x2007efe];vend=[0x2101a513]
+[2020-08-28 04:16:25.853] HREF: Quakkerz (usr:Isaac Durstine[(24,185,4)]) : CargoDrobe src=[0x2007efe];vend=[0x2101a518]
+[2020-08-28 04:19:13.532] HREF: Quakkerz (usr:Isaac Durstine[(48,202,4)]) : The microwave oven src=[0x2007cfb];action=cook
+[2020-08-28 04:20:20.497] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a844%5D&action=tgui%3Ainitialize
+[2020-08-28 04:20:20.605] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : 
+[2020-08-28 04:20:26.061] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a844%5D&action=amount&target=50
+[2020-08-28 04:20:27.793] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a844%5D&action=dispense&reagent=coffee
+[2020-08-28 04:21:05.232] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a844%5D&action=amount&target=10
+[2020-08-28 04:21:05.952] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a844%5D&action=dispense&reagent=cream
+[2020-08-28 04:21:08.629] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a844%5D&action=dispense&reagent=cream
+[2020-08-28 04:21:10.907] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a844%5D&action=remove&amount=5
+[2020-08-28 04:21:11.067] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a844%5D&action=remove&amount=5
+[2020-08-28 04:21:11.240] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a844%5D&action=remove&amount=5
+[2020-08-28 04:21:11.428] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a844%5D&action=remove&amount=5
+[2020-08-28 04:21:11.597] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a844%5D&action=remove&amount=5
+[2020-08-28 04:21:11.961] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a844%5D&action=remove&amount=5
+[2020-08-28 04:21:13.388] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a844%5D&action=remove&amount=5
+[2020-08-28 04:21:13.504] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a844%5D&action=remove&amount=5
+[2020-08-28 04:21:13.820] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a844%5D&action=remove&amount=5
+[2020-08-28 04:21:14.013] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a844%5D&action=remove&amount=5
+[2020-08-28 04:21:15.008] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a844%5D&action=remove&amount=5
+[2020-08-28 04:21:15.390] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a844%5D&action=remove&amount=5
+[2020-08-28 04:21:15.471] HREF: Ghostly98 (usr:Mauricio Palmer[(72,189,4)]) : /datum/tgui src=%5B0x2107a7ec%5D&action=tgui%3Ainitialize
+[2020-08-28 04:21:15.505] HREF: Ghostly98 (usr:Mauricio Palmer[(72,189,4)]) : 
+[2020-08-28 04:21:15.700] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a844%5D&action=remove&amount=5
+[2020-08-28 04:21:16.678] HREF: Ghostly98 (usr:Mauricio Palmer[(72,189,4)]) : /datum/tgui src=%5B0x2107a7ec%5D&action=tryoutput
+[2020-08-28 04:21:17.428] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a844%5D&action=amount&target=25
+[2020-08-28 04:21:19.027] HREF: Ghostly98 (usr:Mauricio Palmer[(72,189,4)]) : /datum/tgui src=%5B0x2107a84f%5D&action=tgui%3Ainitialize
+[2020-08-28 04:21:19.066] HREF: Ghostly98 (usr:Mauricio Palmer[(72,189,4)]) : 
+[2020-08-28 04:21:19.818] HREF: Ghostly98 (usr:Mauricio Palmer[(72,189,4)]) : /datum/tgui src=%5B0x2107a84f%5D&action=tryoutput
+[2020-08-28 04:21:24.300] HREF: Quakkerz (usr:Isaac Durstine[(61,200,4)]) : /datum/tgui src=%5B0x2107a844%5D&action=dispense&reagent=coffee
+[2020-08-28 04:21:24.936] HREF: Sqtay (usr:Amelia Pfeifer[(61,198,4)]) : /datum/tgui src=%5B0x2107a836%5D&action=tgui%3Ainitialize
+[2020-08-28 04:21:24.990] HREF: Sqtay (usr:Amelia Pfeifer[(61,198,4)]) : 
+[2020-08-28 04:21:25.144] HREF: Quakkerz (usr:Isaac Durstine[(61,200,4)]) : /datum/tgui src=%5B0x2107a844%5D&action=amount&target=5
+[2020-08-28 04:21:26.191] HREF: Quakkerz (usr:Isaac Durstine[(61,200,4)]) : /datum/tgui src=%5B0x2107a844%5D&action=dispense&reagent=sugar
+[2020-08-28 04:21:27.464] HREF: Quakkerz (usr:Isaac Durstine[(61,200,4)]) : /datum/tgui src=%5B0x2107a844%5D&action=amount&target=10
+[2020-08-28 04:21:28.591] HREF: Quakkerz (usr:Isaac Durstine[(61,200,4)]) : /datum/tgui src=%5B0x2107a844%5D&action=dispense&reagent=cream
+[2020-08-28 04:21:33.191] HREF: Quakkerz (usr:Isaac Durstine[(61,200,4)]) : /datum/tgui src=%5B0x2107a844%5D&action=eject
+[2020-08-28 04:21:33.902] HREF: Sqtay (usr:Amelia Pfeifer[(61,198,4)]) : /datum/tgui src=%5B0x2107a836%5D&action=dispense&reagent=vodka
+[2020-08-28 04:21:34.949] HREF: Sqtay (usr:Amelia Pfeifer[(61,198,4)]) : /datum/tgui src=%5B0x2107a836%5D&action=dispense&reagent=vodka
+[2020-08-28 04:21:35.441] HREF: Sqtay (usr:Amelia Pfeifer[(61,198,4)]) : /datum/tgui src=%5B0x2107a836%5D&action=dispense&reagent=vodka
+[2020-08-28 04:21:40.450] HREF: Ghostly98 (usr:Mauricio Palmer[(67,187,4)]) : /datum/tgui src=%5B0x2107a77e%5D&action=tgui%3Ainitialize
+[2020-08-28 04:21:40.522] HREF: Ghostly98 (usr:Mauricio Palmer[(67,187,4)]) : 
+[2020-08-28 04:21:45.377] HREF: Sqtay (usr:Amelia Pfeifer[(61,198,4)]) : /datum/tgui src=%5B0x2107a84e%5D&action=tgui%3Ainitialize
+[2020-08-28 04:21:45.388] HREF: Sqtay (usr:Amelia Pfeifer[(61,198,4)]) : 
+[2020-08-28 04:21:47.007] HREF: Sqtay (usr:Amelia Pfeifer[(61,198,4)]) : /datum/tgui src=%5B0x2107a84e%5D&action=remove&amount=5
+[2020-08-28 04:21:47.449] HREF: Sqtay (usr:Amelia Pfeifer[(61,198,4)]) : /datum/tgui src=%5B0x2107a84e%5D&action=remove&amount=10
+[2020-08-28 04:21:47.629] HREF: Sqtay (usr:Amelia Pfeifer[(61,198,4)]) : /datum/tgui src=%5B0x2107a84e%5D&action=remove&amount=10
+[2020-08-28 04:21:47.840] HREF: Sqtay (usr:Amelia Pfeifer[(61,198,4)]) : /datum/tgui src=%5B0x2107a84e%5D&action=remove&amount=10
+[2020-08-28 04:21:47.851] HREF: Quakkerz (usr:Isaac Durstine[(61,195,4)]) : /datum/tgui src=%5B0x2107a868%5D&action=tgui%3Ainitialize
+[2020-08-28 04:21:48.003] HREF: Quakkerz (usr:Isaac Durstine[(61,195,4)]) : 
+[2020-08-28 04:21:48.662] HREF: Sqtay (usr:Amelia Pfeifer[(61,198,4)]) : /datum/tgui src=%5B0x2107a84e%5D&action=amount&target=5
+[2020-08-28 04:21:49.336] HREF: Sqtay (usr:Amelia Pfeifer[(61,198,4)]) : /datum/tgui src=%5B0x2107a84e%5D&action=clear_recipes
+[2020-08-28 04:21:49.855] HREF: Sqtay (usr:Amelia Pfeifer[(61,197,4)]) : /datum/tgui src=%5B0x2107a84e%5D&action=add_recipe
+[2020-08-28 04:21:50.026] HREF: Sqtay (usr:Amelia Pfeifer[(61,197,4)]) : /datum/tgui src=%5B0x2107a84e%5D&action=add_recipe
+[2020-08-28 04:21:51.263] HREF: Sqtay (usr:Amelia Pfeifer[(61,197,4)]) : /datum/tgui src=%5B0x2107a84e%5D&action=dispense&reagent=hcider
+[2020-08-28 04:21:51.482] HREF: Sqtay (usr:Amelia Pfeifer[(61,197,4)]) : /datum/tgui src=%5B0x2107a84e%5D&action=dispense&reagent=hcider
+[2020-08-28 04:21:51.666] HREF: Sqtay (usr:Amelia Pfeifer[(61,197,4)]) : /datum/tgui src=%5B0x2107a84e%5D&action=dispense&reagent=kahlua
+[2020-08-28 04:21:52.667] HREF: Sqtay (usr:Amelia Pfeifer[(61,197,4)]) : /datum/tgui src=%5B0x2107a84e%5D&action=dispense&reagent=kahlua
+[2020-08-28 04:21:52.941] HREF: Sqtay (usr:Amelia Pfeifer[(61,197,4)]) : /datum/tgui src=%5B0x2107a84e%5D&action=dispense&reagent=kahlua
+[2020-08-28 04:21:58.063] HREF: Sqtay (usr:Amelia Pfeifer[(61,198,4)]) : /datum/tgui src=%5B0x2107a7d8%5D&action=tgui%3Ainitialize
+[2020-08-28 04:21:58.086] HREF: Sqtay (usr:Amelia Pfeifer[(61,198,4)]) : 
+[2020-08-28 04:21:59.462] HREF: Sqtay (usr:Amelia Pfeifer[(61,198,4)]) : /datum/tgui src=%5B0x2107a7d8%5D&action=dispense&reagent=fernet
+[2020-08-28 04:21:59.647] HREF: Sqtay (usr:Amelia Pfeifer[(61,198,4)]) : /datum/tgui src=%5B0x2107a7d8%5D&action=dispense&reagent=rum
+[2020-08-28 04:22:00.024] HREF: Sqtay (usr:Amelia Pfeifer[(61,198,4)]) : /datum/tgui src=%5B0x2107a7d8%5D&action=dispense&reagent=hcider
+[2020-08-28 04:22:00.208] HREF: Sqtay (usr:Amelia Pfeifer[(61,198,4)]) : /datum/tgui src=%5B0x2107a7d8%5D&action=dispense&reagent=hcider
+[2020-08-28 04:22:00.424] HREF: Sqtay (usr:Amelia Pfeifer[(61,198,4)]) : /datum/tgui src=%5B0x2107a7d8%5D&action=dispense&reagent=hcider
+[2020-08-28 04:22:10.113] HREF: Sqtay (usr:Amelia Pfeifer[(61,198,4)]) : /datum/tgui src=%5B0x2107a7d8%5D&action=eject
+[2020-08-28 04:22:15.832] HREF: Sqtay (usr:Amelia Pfeifer[(61,199,4)]) : /datum/tgui src=%5B0x2107a86f%5D&action=tgui%3Ainitialize
+[2020-08-28 04:22:15.877] HREF: Sqtay (usr:Amelia Pfeifer[(61,199,4)]) : 
+[2020-08-28 04:22:17.733] HREF: Sqtay (usr:Amelia Pfeifer[(61,199,4)]) : /datum/tgui src=%5B0x2107a86f%5D&action=dispense&reagent=cream
+[2020-08-28 04:22:18.592] HREF: Sqtay (usr:Amelia Pfeifer[(61,199,4)]) : /datum/tgui src=%5B0x2107a86f%5D&action=dispense&reagent=icetea
+[2020-08-28 04:22:19.067] HREF: Sqtay (usr:Amelia Pfeifer[(61,199,4)]) : /datum/tgui src=%5B0x2107a86f%5D&action=dispense&reagent=coffee
+[2020-08-28 04:22:19.284] HREF: Sqtay (usr:Amelia Pfeifer[(61,199,4)]) : /datum/tgui src=%5B0x2107a86f%5D&action=dispense&reagent=coffee
+[2020-08-28 04:22:19.439] HREF: Sqtay (usr:Amelia Pfeifer[(61,199,4)]) : /datum/tgui src=%5B0x2107a86f%5D&action=dispense&reagent=coffee
+[2020-08-28 04:22:19.630] HREF: Sqtay (usr:Amelia Pfeifer[(61,199,4)]) : /datum/tgui src=%5B0x2107a86f%5D&action=dispense&reagent=coffee
+[2020-08-28 04:22:19.872] HREF: Sqtay (usr:Amelia Pfeifer[(61,199,4)]) : /datum/tgui src=%5B0x2107a86f%5D&action=dispense&reagent=coffee
+[2020-08-28 04:22:20.121] HREF: Sqtay (usr:Amelia Pfeifer[(61,199,4)]) : /datum/tgui src=%5B0x2107a86f%5D&action=dispense&reagent=coffee
+[2020-08-28 04:22:21.594] HREF: Sqtay (usr:Amelia Pfeifer[(61,199,4)]) : /datum/tgui src=%5B0x2107a86f%5D&action=dispense&reagent=coffee
+[2020-08-28 04:22:21.816] HREF: Sqtay (usr:Amelia Pfeifer[(61,199,4)]) : /datum/tgui src=%5B0x2107a86f%5D&action=dispense&reagent=coffee
+[2020-08-28 04:22:22.011] HREF: Sqtay (usr:Amelia Pfeifer[(61,199,4)]) : /datum/tgui src=%5B0x2107a86f%5D&action=dispense&reagent=coffee
+[2020-08-28 04:22:22.618] HREF: Sqtay (usr:Amelia Pfeifer[(61,199,4)]) : /datum/tgui src=%5B0x2107a86f%5D&action=add_recipe
+[2020-08-28 04:22:23.275] HREF: Sqtay (usr:Amelia Pfeifer[(61,199,4)]) : /datum/tgui src=%5B0x2107a86f%5D&action=dispense&reagent=coffee
+[2020-08-28 04:22:26.359] HREF: Sqtay (usr:Amelia Pfeifer[(61,199,4)]) : /datum/tgui src=%5B0x2107a830%5D&action=tgui%3Ainitialize
+[2020-08-28 04:22:26.406] HREF: Sqtay (usr:Amelia Pfeifer[(61,199,4)]) : 
+[2020-08-28 04:22:28.126] HREF: Sqtay (usr:Amelia Pfeifer[(61,199,4)]) : /datum/tgui src=%5B0x2107a830%5D&action=eject
+[2020-08-28 04:22:32.747] HREF: Ghostly98 (usr:Mauricio Palmer[(67,187,4)]) : /datum/tgui src=%5B0x2107a6f7%5D&action=tgui%3Ainitialize
+[2020-08-28 04:22:32.920] HREF: Ghostly98 (usr:Mauricio Palmer[(67,187,4)]) : 
+[2020-08-28 04:23:05.460] HREF: Sqtay (usr:Amelia Pfeifer[(61,199,4)]) : /datum/tgui src=%5B0x2107a838%5D&action=tgui%3Ainitialize
+[2020-08-28 04:23:05.501] HREF: Sqtay (usr:Amelia Pfeifer[(61,199,4)]) : 
+[2020-08-28 04:23:08.449] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a859%5D&action=tgui%3Ainitialize
+[2020-08-28 04:23:08.618] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : 
+[2020-08-28 04:23:15.756] HREF: Sqtay (usr:Amelia Pfeifer[(61,200,4)]) : /datum/tgui src=%5B0x2107a838%5D&action=amount&target=20
+[2020-08-28 04:23:16.452] HREF: Sqtay (usr:Amelia Pfeifer[(61,200,4)]) : /datum/tgui src=%5B0x2107a838%5D&action=amount&target=20
+[2020-08-28 04:23:16.810] HREF: Sqtay (usr:Amelia Pfeifer[(61,200,4)]) : /datum/tgui src=%5B0x2107a838%5D&action=amount&target=20
+[2020-08-28 04:23:16.987] HREF: Sqtay (usr:Amelia Pfeifer[(61,200,4)]) : /datum/tgui src=%5B0x2107a838%5D&action=amount&target=20
+[2020-08-28 04:23:17.170] HREF: Sqtay (usr:Amelia Pfeifer[(61,200,4)]) : /datum/tgui src=%5B0x2107a838%5D&action=amount&target=20
+[2020-08-28 04:23:18.095] HREF: Sqtay (usr:Amelia Pfeifer[(61,200,4)]) : /datum/tgui src=%5B0x2107a838%5D&action=amount&target=20
+[2020-08-28 04:23:18.302] HREF: Sqtay (usr:Amelia Pfeifer[(61,200,4)]) : /datum/tgui src=%5B0x2107a838%5D&action=amount&target=20
+[2020-08-28 04:23:18.662] HREF: Sqtay (usr:Amelia Pfeifer[(61,200,4)]) : /datum/tgui src=%5B0x2107a838%5D&action=amount&target=15
+[2020-08-28 04:23:18.752] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a859%5D&action=amount&target=20
+[2020-08-28 04:23:18.836] HREF: Sqtay (usr:Amelia Pfeifer[(61,200,4)]) : /datum/tgui src=%5B0x2107a838%5D&action=amount&target=15
+[2020-08-28 04:23:19.170] HREF: Sqtay (usr:Amelia Pfeifer[(61,200,4)]) : /datum/tgui src=%5B0x2107a838%5D&action=amount&target=25
+[2020-08-28 04:23:19.485] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a859%5D&action=amount&target=20
+[2020-08-28 04:23:19.870] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a859%5D&action=amount&target=15
+[2020-08-28 04:23:20.377] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a859%5D&action=amount&target=5
+[2020-08-28 04:23:20.596] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a859%5D&action=amount&target=5
+[2020-08-28 04:23:21.388] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a859%5D&action=amount&target=15
+[2020-08-28 04:23:21.488] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a859%5D&action=amount&target=15
+[2020-08-28 04:23:22.641] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a859%5D&action=dispense&reagent=coffee
+[2020-08-28 04:23:22.857] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a859%5D&action=dispense&reagent=ice
+[2020-08-28 04:23:23.047] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a859%5D&action=dispense&reagent=ice
+[2020-08-28 04:23:26.493] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a722%5D&action=tgui%3Ainitialize
+[2020-08-28 04:23:26.636] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : 
+[2020-08-28 04:23:28.489] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a722%5D&action=amount&target=15
+[2020-08-28 04:23:28.680] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a722%5D&action=amount&target=15
+[2020-08-28 04:23:28.833] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a722%5D&action=amount&target=15
+[2020-08-28 04:23:29.896] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a722%5D&action=amount&target=5
+[2020-08-28 04:23:30.197] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a722%5D&action=amount&target=5
+[2020-08-28 04:23:31.020] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a722%5D&action=add_recipe
+[2020-08-28 04:23:34.018] HREF: Sqtay (usr:Amelia Pfeifer[(61,200,4)]) : /datum/tgui src=%5B0x2107a5ed%5D&action=tgui%3Ainitialize
+[2020-08-28 04:23:34.072] HREF: Sqtay (usr:Amelia Pfeifer[(61,200,4)]) : 
+[2020-08-28 04:23:34.344] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a722%5D&action=eject
+[2020-08-28 04:23:39.252] HREF: Sqtay (usr:Amelia Pfeifer[(61,200,4)]) : /datum/tgui src=%5B0x2107a801%5D&action=tgui%3Ainitialize
+[2020-08-28 04:23:39.295] HREF: Sqtay (usr:Amelia Pfeifer[(61,200,4)]) : 
+[2020-08-28 04:23:40.667] HREF: Sqtay (usr:Amelia Pfeifer[(61,200,4)]) : /datum/tgui src=%5B0x2107a801%5D&action=eject
+[2020-08-28 04:23:40.711] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a869%5D&action=tgui%3Ainitialize
+[2020-08-28 04:23:40.820] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : 
+[2020-08-28 04:23:44.329] HREF: Sqtay (usr:Amelia Pfeifer[(61,200,4)]) : /datum/tgui src=%5B0x2107a801%5D&action=dispense&reagent=coffee
+[2020-08-28 04:23:46.192] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a5ec%5D&action=tgui%3Ainitialize
+[2020-08-28 04:23:46.392] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : 
+[2020-08-28 04:24:11.000] HREF: Sqtay (usr:Amelia Pfeifer[(61,200,4)]) : /datum/tgui src=%5B0x2107a692%5D&action=tgui%3Ainitialize
+[2020-08-28 04:24:11.062] HREF: Sqtay (usr:Amelia Pfeifer[(61,200,4)]) : 
+[2020-08-28 04:24:12.985] HREF: Sqtay (usr:Amelia Pfeifer[(61,200,4)]) : /datum/tgui src=%5B0x2107a692%5D&action=amount&target=15
+[2020-08-28 04:24:13.513] HREF: Sqtay (usr:Amelia Pfeifer[(61,200,4)]) : /datum/tgui src=%5B0x2107a692%5D&action=amount&target=20
+[2020-08-28 04:24:13.729] HREF: Sqtay (usr:Amelia Pfeifer[(61,200,4)]) : /datum/tgui src=%5B0x2107a692%5D&action=amount&target=20
+[2020-08-28 04:24:37.965] HREF: Ghostly98 (usr:Mauricio Palmer[(67,187,4)]) : /datum/tgui src=%5B0x2107a873%5D&action=tgui%3Ainitialize
+[2020-08-28 04:24:38.008] HREF: Ghostly98 (usr:Mauricio Palmer[(67,187,4)]) : 
+[2020-08-28 04:24:39.983] HREF: Ghostly98 (usr:Mauricio Palmer[(67,187,4)]) : /datum/tgui src=%5B0x2107a873%5D&action=channel&eqp=1
+[2020-08-28 04:24:40.764] HREF: Ghostly98 (usr:Mauricio Palmer[(67,187,4)]) : /datum/tgui src=%5B0x2107a873%5D&action=channel&lgt=1
+[2020-08-28 04:24:41.441] HREF: Ghostly98 (usr:Mauricio Palmer[(67,187,4)]) : /datum/tgui src=%5B0x2107a873%5D&action=channel&env=1
+[2020-08-28 04:25:57.661] HREF: Ghostly98 (usr:Mauricio Palmer[(67,187,4)]) : /datum/tgui src=%5B0x2107a899%5D&action=tgui%3Ainitialize
+[2020-08-28 04:25:57.694] HREF: Ghostly98 (usr:Mauricio Palmer[(67,187,4)]) : 
+[2020-08-28 04:26:03.477] HREF: Ghostly98 (usr:Mauricio Palmer[(67,187,4)]) : /datum/tgui src=%5B0x2107a722%5D&action=tgui%3Ainitialize
+[2020-08-28 04:26:03.535] HREF: Ghostly98 (usr:Mauricio Palmer[(67,187,4)]) : 
+[2020-08-28 04:26:05.471] HREF: Ghostly98 (usr:Mauricio Palmer[(67,187,4)]) : /datum/tgui src=%5B0x2107a722%5D&action=channel&eqp=3
+[2020-08-28 04:26:05.848] HREF: Ghostly98 (usr:Mauricio Palmer[(67,187,4)]) : /datum/tgui src=%5B0x2107a722%5D&action=channel&lgt=3
+[2020-08-28 04:26:06.263] HREF: Ghostly98 (usr:Mauricio Palmer[(67,187,4)]) : /datum/tgui src=%5B0x2107a722%5D&action=channel&env=3
+[2020-08-28 04:26:28.349] HREF: Ghostly98 (usr:Mauricio Palmer[(72,188,4)]) : /datum/tgui src=%5B0x2107a873%5D&action=tgui%3Ainitialize
+[2020-08-28 04:26:28.402] HREF: Ghostly98 (usr:Mauricio Palmer[(72,188,4)]) : 
+[2020-08-28 04:26:37.239] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a873%5D&action=tgui%3Ainitialize
+[2020-08-28 04:26:37.274] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : 
+[2020-08-28 04:26:42.210] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a873%5D&action=amount&target=20
+[2020-08-28 04:26:42.614] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a873%5D&action=amount&target=25
+[2020-08-28 04:26:43.154] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a873%5D&action=amount&target=25
+[2020-08-28 04:26:43.388] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a873%5D&action=amount&target=25
+[2020-08-28 04:26:43.693] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a873%5D&action=amount&target=20
+[2020-08-28 04:26:43.895] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a873%5D&action=amount&target=20
+[2020-08-28 04:26:44.254] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a873%5D&action=amount&target=25
+[2020-08-28 04:26:44.763] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a873%5D&action=amount&target=25
+[2020-08-28 04:26:51.258] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : /datum/tgui src=%5B0x2107a8aa%5D&action=tgui%3Ainitialize
+[2020-08-28 04:26:51.446] HREF: Quakkerz (usr:Isaac Durstine[(61,199,4)]) : 
+[2020-08-28 04:30:16.630] HREF: FoxyCode (usr:FoxyCode[(180,247,1)]) : _src_=chat&proc=doneLoading
+[2020-08-28 04:30:16.928] HREF: FoxyCode (usr:FoxyCode[(180,247,1)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"foxycode","ip":"50.127.184.198","compid":"2692157586"},{"ckey":"foxycode","ip":"74.194.189.57","compid":"2692157586"},{"ckey":"foxycode","ip":"166.182.251.224","compid":"2692157586"},{"ckey":"foxycode","ip":"166.182.250.3","compid":"2692157586"},{"ckey":"foxycode","ip":"166.234.12.147","compid":"2692157586"}]}
+[2020-08-28 04:30:20.139] HREF: Quakkerz (usr:Isaac Durstine[(63,202,4)]) : Vote src=[0x21000044];vote=restart
+[2020-08-28 04:30:23.000] HREF: Quakkerz (usr:Isaac Durstine[(63,202,4)]) : Vote src=[0x21000044];vote=close
+[2020-08-28 04:30:24.359] HREF: FoxyCode (usr:FoxyCode[(180,247,1)]) : FoxyCode src=[mob_1066];show_preferences=1
+[2020-08-28 04:30:36.238] HREF: FoxyCode (usr:FoxyCode[(180,247,1)]) : _src_=prefs;preference=age;task=input
+[2020-08-28 04:30:46.573] HREF: Quakkerz (usr:Isaac Durstine[(63,202,4)]) : Vote src=[0x21000044]
+[2020-08-28 04:30:48.027] HREF: Quakkerz (usr:Isaac Durstine[(63,202,4)]) : Vote src=[0x21000044];vote=1
+[2020-08-28 04:30:50.439] HREF: Quakkerz (usr:Isaac Durstine[(63,202,4)]) : Vote src=[0x21000044];vote=close
+[2020-08-28 04:30:57.252] HREF: Ghostly98 (usr:Mauricio Palmer[(52,180,4)]) : Vote src=[0x21000044]
+[2020-08-28 04:30:58.860] HREF: Ghostly98 (usr:Mauricio Palmer[(52,180,4)]) : Vote src=[0x21000044];vote=1
+[2020-08-28 04:30:59.435] HREF: FoxyCode (usr:FoxyCode[(180,247,1)]) : _src_=prefs;preference=hair_style;task=input
+[2020-08-28 04:31:00.062] HREF: Ghostly98 (usr:Mauricio Palmer[(52,180,4)]) : Vote src=[0x21000044];vote=close
+[2020-08-28 04:31:15.036] HREF: FoxyCode (usr:FoxyCode[(180,247,1)]) : /datum/preferences close=1
+[2020-08-28 04:31:18.707] HREF: FoxyCode (usr:FoxyCode[(180,247,1)]) : FoxyCode src=[mob_1066];show_preferences=1
+[2020-08-28 04:31:41.072] HREF: FoxyCode (usr:FoxyCode[(180,247,1)]) : _src_=prefs;preference=hair_style;task=input
+[2020-08-28 04:32:45.482] HREF: Ghostly98 (usr:Mauricio Palmer[(51,203,4)]) : /datum/tgui src=%5B0x2107a769%5D&action=tgui%3Ainitialize
+[2020-08-28 04:32:45.522] HREF: Ghostly98 (usr:Mauricio Palmer[(51,203,4)]) : 
+[2020-08-28 04:32:48.158] HREF: FoxyCode (usr:FoxyCode[(180,247,1)]) : _src_=prefs;preference=hair;task=input
+[2020-08-28 04:32:55.108] HREF: FoxyCode (usr:FoxyCode[(180,247,1)]) : _src_=prefs;preference=eyes;task=input
+[2020-08-28 04:33:03.249] HREF: FoxyCode (usr:FoxyCode[(180,247,1)]) : _src_=prefs;preference=eyes;task=input
+[2020-08-28 04:33:13.694] HREF: FoxyCode (usr:FoxyCode[(180,247,1)]) : _src_=prefs;preference=undershirt;task=input
+[2020-08-28 04:33:23.425] HREF: FoxyCode (usr:FoxyCode[(180,247,1)]) : _src_=prefs;preference=socks;task=input
+[2020-08-28 04:33:29.516] HREF: Ghostly98 (usr:Mauricio Palmer[(51,203,4)]) : Mauricio Palmer src=[mob_1062];follow=[mob_1055];x=44;y=200;z=4
+[2020-08-28 04:33:33.795] HREF: FoxyCode (usr:FoxyCode[(180,247,1)]) : _src_=prefs;preference=socks_color;task=input

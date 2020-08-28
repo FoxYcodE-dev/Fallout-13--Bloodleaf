@@ -1,0 +1,743 @@
+[2020-08-27 23:39:47.263] Starting up round ID .
+ - -------------------------
+[2020-08-27 23:39:47.266] Running /tg/ revision: 
+ - No commit information
+[2020-08-27 23:39:47.525] Ban database connection failure. Key ghostly98 not checked
+[2020-08-27 23:39:48.224] Initialized Database subsystem within 0 seconds!
+[2020-08-27 23:39:48.225] Initialized Blackbox subsystem within 0 seconds!
+[2020-08-27 23:39:48.227] Initialized Server Tasks subsystem within 0 seconds!
+[2020-08-27 23:39:48.228] Initialized Input subsystem within 0 seconds!
+[2020-08-27 23:39:48.245] runtime error: WARNING: Design ID clash with ID emitter detected!
+ - proc name: stack trace (/proc/stack_trace)
+ -   source file: unsorted.dm,1241
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - stack trace("WARNING: Design ID clash with ...")
+ - initialize all techweb designs(0)
+ - Research (/datum/controller/subsystem/research): Initialize(851882)
+ - Master (/datum/controller/master): Initialize(10, 0)
+ - 
+[2020-08-27 23:39:48.249] ## WARNING: Invalid research design with ID siege cannon detected in node Industrial Engineering[engineering] removed. in code/modules/research/techweb/__techweb_helpers.dm at line 94 src:  usr: .
+[2020-08-27 23:39:48.251] ## WARNING: Invalid research design with ID health_hud_night detected in node Night Vision Technology[NVGtech] removed. in code/modules/research/techweb/__techweb_helpers.dm at line 94 src:  usr: .
+[2020-08-27 23:39:48.255] ## WARNING: Invalid research design with ID security_hud_night detected in node Night Vision Technology[NVGtech] removed. in code/modules/research/techweb/__techweb_helpers.dm at line 94 src:  usr: .
+[2020-08-27 23:39:48.257] ## WARNING: Invalid research design with ID diagnostic_hud_night detected in node Night Vision Technology[NVGtech] removed. in code/modules/research/techweb/__techweb_helpers.dm at line 94 src:  usr: .
+[2020-08-27 23:39:48.258] ## WARNING: Invalid research design with ID night_visision_goggles detected in node Night Vision Technology[NVGtech] removed. in code/modules/research/techweb/__techweb_helpers.dm at line 94 src:  usr: .
+[2020-08-27 23:39:48.259] ## WARNING: Invalid research design with ID nvgmesons detected in node Night Vision Technology[NVGtech] removed. in code/modules/research/techweb/__techweb_helpers.dm at line 94 src:  usr: .
+[2020-08-27 23:39:48.260] ## WARNING: Invalid research design with ID ci-toolset detected in node Advanced Cybernetic Implants[adv_cyber_implants] removed. in code/modules/research/techweb/__techweb_helpers.dm at line 94 src:  usr: .
+[2020-08-27 23:39:48.260] ## WARNING: Invalid research design with ID ci-surgery detected in node Advanced Cybernetic Implants[adv_cyber_implants] removed. in code/modules/research/techweb/__techweb_helpers.dm at line 94 src:  usr: .
+[2020-08-27 23:39:48.261] ## WARNING: Invalid research design with ID ci-thermals detected in node Combat Cybernetic Implants[combat_cyber_implants] removed. in code/modules/research/techweb/__techweb_helpers.dm at line 94 src:  usr: .
+[2020-08-27 23:39:48.273] Initialized Research subsystem within 0 seconds!
+[2020-08-27 23:39:48.276] Initialized Events subsystem within 0 seconds!
+[2020-08-27 23:39:48.279] Initialized Jobs subsystem within 0 seconds!
+[2020-08-27 23:39:48.281] Initialized Quirks subsystem within 0 seconds!
+[2020-08-27 23:39:48.291] Initialized Ticker subsystem within 0 seconds!
+[2020-08-27 23:39:48.293] Loading Pahrump...
+[2020-08-27 23:39:51.514] Ban database connection failure. Key guest1271285026 not checked
+[2020-08-27 23:39:51.516] Ban database connection failure. Key ghostly98 not checked
+[2020-08-27 23:39:51.517] Ban database connection failure. Key ghostly98 not checked
+[2020-08-27 23:39:51.523] Ban database connection failure. Key ghostly98 not checked
+[2020-08-27 23:40:05.310] Loaded Wasteland in 17.1s!
+[2020-08-27 23:40:09.233] Loaded Dungeons in 3.9s!
+[2020-08-27 23:40:09.584] Ruin loader finished with 0 left to spend.
+[2020-08-27 23:40:13.968] Initialized Mapping subsystem within 25.7 seconds!
+[2020-08-27 23:40:13.969] Initialized Networks subsystem within 0 seconds!
+[2020-08-27 23:40:36.090] Initialized Atoms subsystem within 22.1 seconds!
+[2020-08-27 23:40:36.103] Initialized Language subsystem within 0.1 seconds!
+[2020-08-27 23:40:36.125] Initialized Machines subsystem within 0 seconds!
+[2020-08-27 23:40:36.163] Initialized Circuit subsystem within 0 seconds!
+[2020-08-27 23:40:36.166] Initialized Disease subsystem within 0 seconds!
+[2020-08-27 23:40:36.167] Initialized Item Spawners subsystem within 0 seconds!
+[2020-08-27 23:40:36.168] Initialized Medals subsystem within 0 seconds!
+[2020-08-27 23:40:36.168] Initialized Mob Spawners subsystem within 0 seconds!
+[2020-08-27 23:40:36.170] Initialized Radiation subsystem within 0 seconds!
+[2020-08-27 23:40:36.172] Initialized Day/Night Cycle subsystem within 0 seconds!
+[2020-08-27 23:40:36.173] Initialized Night Shift subsystem within 0 seconds!
+[2020-08-27 23:40:36.175] Initialized Parallax subsystem within 0 seconds!
+[2020-08-27 23:40:38.184] Initialized Bot Comms subsystem within 2 seconds!
+[2020-08-27 23:40:38.275] Initialized Traumas subsystem within 0.1 seconds!
+[2020-08-27 23:40:38.277] Initialized Weather subsystem within 0 seconds!
+[2020-08-27 23:40:41.987] ## WARNING: There are 6 active turfs at roundstart, this is a mapping error caused by a difference of the air between the adjacent turfs. You can see its coordinates using "Mapping -> Show roundstart AT list" verb (debug verbs required)
+[2020-08-27 23:40:41.990] ## WARNING: HEY! LISTEN! 0 seconds were wasted processing 6 turf(s) (connected to 14 other turfs) with atmos differences at round start.
+[2020-08-27 23:40:42.002] ## WARNING: build_pipeline(): /obj/machinery/atmospherics/pipe/simple/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (128, 85, 1)
+[2020-08-27 23:40:42.005] ## WARNING: build_pipeline(): /obj/machinery/atmospherics/pipe/manifold/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (129, 85, 1)
+[2020-08-27 23:40:42.007] ## WARNING: build_pipeline(): /obj/machinery/atmospherics/pipe/simple/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (127, 85, 1)
+[2020-08-27 23:40:42.010] ## WARNING: build_pipeline(): /obj/machinery/atmospherics/pipe/simple/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (129, 86, 1)
+[2020-08-27 23:40:42.011] ## WARNING: build_pipeline(): /obj/machinery/atmospherics/pipe/simple/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (130, 85, 1)
+[2020-08-27 23:40:42.012] ## WARNING: build_pipeline(): /obj/machinery/atmospherics/pipe/simple/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (126, 85, 1)
+[2020-08-27 23:40:42.013] ## WARNING: build_pipeline(): /obj/machinery/atmospherics/pipe/simple/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (129, 87, 1)
+[2020-08-27 23:40:42.014] ## WARNING: build_pipeline(): /obj/machinery/atmospherics/pipe/simple/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (131, 85, 1)
+[2020-08-27 23:40:42.015] ## WARNING: build_pipeline(): /obj/machinery/atmospherics/pipe/manifold/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (125, 85, 1)
+[2020-08-27 23:40:42.016] ## WARNING: build_pipeline(): /obj/machinery/atmospherics/pipe/simple/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (129, 88, 1)
+[2020-08-27 23:40:42.017] ## WARNING: build_pipeline(): further messages about pipenets will be supressed
+[2020-08-27 23:40:42.019] Initialized Atmospherics subsystem within 3.8 seconds!
+[2020-08-27 23:40:45.321] runtime error: duplicate sprite "emitter" in sheet design (/datum/asset/spritesheet/research_designs)
+ - proc name: Insert (/datum/asset/spritesheet/proc/Insert)
+ -   source file: asset_cache.dm,295
+ -   usr: null
+ -   src: design (/datum/asset/spritesheet/research_designs)
+ -   call stack:
+ - design (/datum/asset/spritesheet/research_designs): Insert("emitter", /icon (/icon), "", 2, 1, 0)
+ - design (/datum/asset/spritesheet/research_designs): register()
+ - design (/datum/asset/spritesheet/research_designs): New()
+ - get asset datum(/datum/asset/spritesheet/resea... (/datum/asset/spritesheet/research_designs))
+ - Assets (/datum/controller/subsystem/assets): Initialize(852420)
+ - Master (/datum/controller/master): Initialize(10, 0)
+ - 
+[2020-08-27 23:40:46.102] Initialized Assets subsystem within 4.1 seconds!
+[2020-08-27 23:40:46.210] runtime error: No valid destination passed into forceMove
+ - proc name: forceMove (/atom/movable/proc/forceMove)
+ -   source file: atoms_movable.dm,354
+ -   usr: null
+ -   src: the match (/obj/item/match)
+ -   src.loc: the matchbox (/obj/item/storage/box/matches)
+ -   call stack:
+ - the match (/obj/item/match): forceMove(null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete):  insert physical item(the match (/obj/item/match), 0)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): handle item insertion(the match (/obj/item/match), 1, null, null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): signal fill type(/obj/item/match (/obj/item/match), 10, 0)
+ - /datum/callback (/datum/callback): InvokeAsync(/obj/item/match (/obj/item/match))
+ - 
+[2020-08-27 23:40:46.218] runtime error: No valid destination passed into forceMove
+ - proc name: forceMove (/atom/movable/proc/forceMove)
+ -   source file: atoms_movable.dm,354
+ -   usr: null
+ -   src: the match (/obj/item/match)
+ -   src.loc: the matchbox (/obj/item/storage/box/matches)
+ -   call stack:
+ - the match (/obj/item/match): forceMove(null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete):  insert physical item(the match (/obj/item/match), 0)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): handle item insertion(the match (/obj/item/match), 1, null, null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): signal fill type(/obj/item/match (/obj/item/match), 10, 0)
+ - /datum/callback (/datum/callback): InvokeAsync(/obj/item/match (/obj/item/match))
+ - 
+[2020-08-27 23:40:46.228] runtime error: No valid destination passed into forceMove
+ - proc name: forceMove (/atom/movable/proc/forceMove)
+ -   source file: atoms_movable.dm,354
+ -   usr: null
+ -   src: the match (/obj/item/match)
+ -   src.loc: the matchbox (/obj/item/storage/box/matches)
+ -   call stack:
+ - the match (/obj/item/match): forceMove(null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete):  insert physical item(the match (/obj/item/match), 0)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): handle item insertion(the match (/obj/item/match), 1, null, null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): signal fill type(/obj/item/match (/obj/item/match), 10, 0)
+ - /datum/callback (/datum/callback): InvokeAsync(/obj/item/match (/obj/item/match))
+ - 
+[2020-08-27 23:40:46.238] runtime error: No valid destination passed into forceMove
+ - proc name: forceMove (/atom/movable/proc/forceMove)
+ -   source file: atoms_movable.dm,354
+ -   usr: null
+ -   src: the match (/obj/item/match)
+ -   src.loc: the matchbox (/obj/item/storage/box/matches)
+ -   call stack:
+ - the match (/obj/item/match): forceMove(null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete):  insert physical item(the match (/obj/item/match), 0)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): handle item insertion(the match (/obj/item/match), 1, null, null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): signal fill type(/obj/item/match (/obj/item/match), 10, 0)
+ - /datum/callback (/datum/callback): InvokeAsync(/obj/item/match (/obj/item/match))
+ - 
+[2020-08-27 23:40:46.245] runtime error: No valid destination passed into forceMove
+ - proc name: forceMove (/atom/movable/proc/forceMove)
+ -   source file: atoms_movable.dm,354
+ -   usr: null
+ -   src: the match (/obj/item/match)
+ -   src.loc: the matchbox (/obj/item/storage/box/matches)
+ -   call stack:
+ - the match (/obj/item/match): forceMove(null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete):  insert physical item(the match (/obj/item/match), 0)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): handle item insertion(the match (/obj/item/match), 1, null, null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): signal fill type(/obj/item/match (/obj/item/match), 10, 0)
+ - /datum/callback (/datum/callback): InvokeAsync(/obj/item/match (/obj/item/match))
+ - 
+[2020-08-27 23:40:46.254] runtime error: No valid destination passed into forceMove
+ - proc name: forceMove (/atom/movable/proc/forceMove)
+ -   source file: atoms_movable.dm,354
+ -   usr: null
+ -   src: the match (/obj/item/match)
+ -   src.loc: the matchbox (/obj/item/storage/box/matches)
+ -   call stack:
+ - the match (/obj/item/match): forceMove(null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete):  insert physical item(the match (/obj/item/match), 0)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): handle item insertion(the match (/obj/item/match), 1, null, null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): signal fill type(/obj/item/match (/obj/item/match), 10, 0)
+ - /datum/callback (/datum/callback): InvokeAsync(/obj/item/match (/obj/item/match))
+ - 
+[2020-08-27 23:40:46.266] runtime error: No valid destination passed into forceMove
+ - proc name: forceMove (/atom/movable/proc/forceMove)
+ -   source file: atoms_movable.dm,354
+ -   usr: null
+ -   src: the match (/obj/item/match)
+ -   src.loc: the matchbox (/obj/item/storage/box/matches)
+ -   call stack:
+ - the match (/obj/item/match): forceMove(null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete):  insert physical item(the match (/obj/item/match), 0)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): handle item insertion(the match (/obj/item/match), 1, null, null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): signal fill type(/obj/item/match (/obj/item/match), 10, 0)
+ - /datum/callback (/datum/callback): InvokeAsync(/obj/item/match (/obj/item/match))
+ - 
+[2020-08-27 23:40:46.275] runtime error: No valid destination passed into forceMove
+ - proc name: forceMove (/atom/movable/proc/forceMove)
+ -   source file: atoms_movable.dm,354
+ -   usr: null
+ -   src: the match (/obj/item/match)
+ -   src.loc: the matchbox (/obj/item/storage/box/matches)
+ -   call stack:
+ - the match (/obj/item/match): forceMove(null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete):  insert physical item(the match (/obj/item/match), 0)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): handle item insertion(the match (/obj/item/match), 1, null, null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): signal fill type(/obj/item/match (/obj/item/match), 10, 0)
+ - /datum/callback (/datum/callback): InvokeAsync(/obj/item/match (/obj/item/match))
+ - 
+[2020-08-27 23:40:46.283] runtime error: No valid destination passed into forceMove
+ - proc name: forceMove (/atom/movable/proc/forceMove)
+ -   source file: atoms_movable.dm,354
+ -   usr: null
+ -   src: the match (/obj/item/match)
+ -   src.loc: the matchbox (/obj/item/storage/box/matches)
+ -   call stack:
+ - the match (/obj/item/match): forceMove(null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete):  insert physical item(the match (/obj/item/match), 0)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): handle item insertion(the match (/obj/item/match), 1, null, null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): signal fill type(/obj/item/match (/obj/item/match), 10, 0)
+ - /datum/callback (/datum/callback): InvokeAsync(/obj/item/match (/obj/item/match))
+ - 
+[2020-08-27 23:40:51.578] Initialized Icon Smoothing subsystem within 5.3 seconds!
+[2020-08-27 23:40:52.485] Initialized Overlay subsystem within 0.9 seconds!
+[2020-08-27 23:40:52.486] Initialized XKeyScore subsystem within 0 seconds!
+[2020-08-27 23:40:52.487] Initialized Sticky Ban subsystem within 0 seconds!
+[2020-08-27 23:41:00.381] Initialized Lighting subsystem within 7.9 seconds!
+[2020-08-27 23:41:01.474] Initialized Shuttle subsystem within 1.1 seconds!
+[2020-08-27 23:41:01.477] Initialized Squeak subsystem within 0 seconds!
+[2020-08-27 23:41:01.481] Initialized Pathfinder subsystem within 0 seconds!
+[2020-08-27 23:41:01.512] Loaded 1 engraved messages on map Pahrump
+[2020-08-27 23:41:01.513] Initialized Persistence subsystem within 0.1 seconds!
+[2020-08-27 23:41:01.515] Initializations complete within 73.3 seconds!
+[2020-08-27 23:41:11.158] runtime error: bad resource file
+ - proc name: send asset (/proc/send_asset)
+ -   source file: asset_cache.dm,53
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - send asset(Ghostly98 (/client), "objitem.png", 0, null)
+ - getFilesSlow(Ghostly98 (/client), /list (/list), 0)
+ - /datum/callback (/datum/callback): InvokeAsync()
+ - 
+[2020-08-27 23:43:12.445] Game start took 0.7s
+[2020-08-27 23:43:43.237] runtime error: The grille taking damage after deletion
+ - proc name: stack trace (/datum/proc/stack_trace)
+ -   source file: unsorted.dm,1244
+ -   usr: null
+ -   src: the grille (/obj/structure/grille)
+ -   src.loc: null
+ -   call stack:
+ - the grille (/obj/structure/grille): stack trace("The grille taking damage after...")
+ - the grille (/obj/structure/grille): take damage(7, "brute", "melee", 1, null, 0)
+ - the grille (/obj/structure/grille): take damage(7, "brute", "melee", 1, null)
+ - the grille (/obj/structure/grille): attack animal(the giant radscorpion (/mob/living/simple_animal/hostile/radscorpion))
+ - the giant radscorpion (/mob/living/simple_animal/hostile/radscorpion): DestroyObjectsInDirection(1)
+ - the giant radscorpion (/mob/living/simple_animal/hostile/radscorpion): DestroyPathToTarget()
+ - the giant radscorpion (/mob/living/simple_animal/hostile/radscorpion): handle automated action()
+ - NPC Pool (/datum/controller/subsystem/npcpool): fire(0)
+ - NPC Pool (/datum/controller/subsystem/npcpool): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-08-28 00:32:08.967] Ban database connection failure. Key quakkerz not checked
+[2020-08-28 00:33:09.441] Ban database connection failure. Key quakkerz not checked
+[2020-08-28 00:33:09.442] Ban database connection failure. Key quakkerz not checked
+[2020-08-28 00:33:09.443] Ban database connection failure. Key quakkerz not checked
+[2020-08-28 00:33:09.444] Ban database connection failure. Key quakkerz not checked
+[2020-08-28 00:33:27.685] runtime error: bad resource file
+ - proc name: send asset (/proc/send_asset)
+ -   source file: asset_cache.dm,53
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - send asset(Quakkerz (/client), "objitem.png", 0, null)
+ - getFilesSlow(Quakkerz (/client), /list (/list), 0)
+ - Quakkerz (/client): send resources()
+ - 
+[2020-08-28 00:43:33.288] Ban database connection failure. Key ghostly98 not checked
+[2020-08-28 00:43:36.439] Ban database connection failure. Key guest1271285026 not checked
+[2020-08-28 00:43:36.441] Ban database connection failure. Key ghostly98 not checked
+[2020-08-28 00:43:36.443] Ban database connection failure. Key ghostly98 not checked
+[2020-08-28 00:43:36.445] Ban database connection failure. Key ghostly98 not checked
+[2020-08-28 00:43:44.882] runtime error: bad resource file
+ - proc name: send asset (/proc/send_asset)
+ -   source file: asset_cache.dm,53
+ -   usr: Floyd Tin (/mob/dead/observer)
+ -   src: null
+ -   usr.loc: the rusted reinforced wall (133,87,2) (/turf/closed/wall/r_wall/rust)
+ -   call stack:
+ - send asset(Ghostly98 (/client), "objitem.png", 0, null)
+ - getFilesSlow(Ghostly98 (/client), /list (/list), 0)
+ - Ghostly98 (/client): send resources()
+ - 
+[2020-08-28 00:46:45.482] Ban database connection failure. Key sqtay not checked
+[2020-08-28 00:47:45.052] Ban database connection failure. Key sqtay not checked
+[2020-08-28 00:47:45.053] Ban database connection failure. Key sqtay not checked
+[2020-08-28 00:48:07.517] runtime error: bad resource file
+ - proc name: send asset (/proc/send_asset)
+ -   source file: asset_cache.dm,53
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - send asset(Sqtay (/client), "objitem.png", 0, null)
+ - getFilesSlow(Sqtay (/client), /list (/list), 0)
+ - Sqtay (/client): send resources()
+ - 
+[2020-08-28 02:11:46.442] Ban database connection failure. Key alaspo not checked
+[2020-08-28 02:12:14.226] Ban database connection failure. Key sqtay not checked
+[2020-08-28 02:12:21.637] Ban database connection failure. Key sqtay not checked
+[2020-08-28 02:12:21.641] Ban database connection failure. Key sqtay not checked
+[2020-08-28 02:12:21.643] Ban database connection failure. Key sqtay not checked
+[2020-08-28 02:12:52.702] runtime error: bad resource file
+ - proc name: send asset (/proc/send_asset)
+ -   source file: asset_cache.dm,53
+ -   usr: Lilian Cook (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (199,80,2) (/turf/open/floor/f13)
+ -   call stack:
+ - send asset(Sqtay (/client), "objitem.png", 0, null)
+ - getFilesSlow(Sqtay (/client), /list (/list), 0)
+ - Sqtay (/client): send resources()
+ - 
+[2020-08-28 02:14:56.652] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Lilian Cook (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ -   usr: null
+ -   src: /datum/component/radioactive (/datum/component/radioactive)
+ -   call stack:
+ - /datum/component/radioactive (/datum/component/radioactive): process(10)
+ - Radiation (/datum/controller/subsystem/processing/radiation): fire(0)
+ - Radiation (/datum/controller/subsystem/processing/radiation): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-08-28 02:14:57.651] runtime error: type mismatch: Lilian Cook (/mob/living/carbon/human) += Braxton Hirleman (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ -   usr: null
+ -   src: /datum/component/radioactive (/datum/component/radioactive)
+ -   call stack:
+ - /datum/component/radioactive (/datum/component/radioactive): process(10)
+ - Radiation (/datum/controller/subsystem/processing/radiation): fire(0)
+ - Radiation (/datum/controller/subsystem/processing/radiation): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-08-28 02:14:58.649] runtime error: type mismatch: Lilian Cook (/mob/living/carbon/human) += Braxton Hirleman (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:15:02.653] runtime error: type mismatch: Lilian Cook (/mob/living/carbon/human) += Braxton Hirleman (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:15:38.649] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Lilian Cook (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:15:39.649] runtime error: type mismatch: Lilian Cook (/mob/living/carbon/human) += Braxton Hirleman (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:15:40.647] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Lilian Cook (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:15:40.649] runtime error: type mismatch: Lilian Cook (/mob/living/carbon/human) += Braxton Hirleman (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:15:41.648] runtime error: type mismatch: Lilian Cook (/mob/living/carbon/human) += Braxton Hirleman (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:15:41.900] Ban database connection failure. Key alaspo not checked
+[2020-08-28 02:15:41.902] Ban database connection failure. Key alaspo not checked
+[2020-08-28 02:15:42.651] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Lilian Cook (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:15:45.647] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Lilian Cook (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:15:48.647] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Lilian Cook (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:15:49.646] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Lilian Cook (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:15:54.647] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Lilian Cook (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:15:55.647] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Lilian Cook (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:15:56.648] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Lilian Cook (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:15:57.646] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Lilian Cook (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:15:59.647] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Lilian Cook (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:15:59.649] runtime error: type mismatch: Lilian Cook (/mob/living/carbon/human) += Braxton Hirleman (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:16:00.646] runtime error: type mismatch: Lilian Cook (/mob/living/carbon/human) += Braxton Hirleman (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:16:02.648] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Lilian Cook (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:16:03.646] runtime error: type mismatch: Lilian Cook (/mob/living/carbon/human) += Braxton Hirleman (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:16:03.648] runtime error: type mismatch: Lilian Cook (/mob/living/carbon/human) += Braxton Hirleman (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:16:03.692] runtime error: bad resource file
+ - proc name: send asset (/proc/send_asset)
+ -   source file: asset_cache.dm,53
+ - 
+[2020-08-28 02:16:04.647] runtime error: type mismatch: Lilian Cook (/mob/living/carbon/human) += Braxton Hirleman (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:16:04.648] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Lilian Cook (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:16:05.645] runtime error: type mismatch: Lilian Cook (/mob/living/carbon/human) += Braxton Hirleman (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:16:06.647] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Lilian Cook (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:16:07.647] runtime error: type mismatch: Lilian Cook (/mob/living/carbon/human) += Braxton Hirleman (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:16:07.648] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Lilian Cook (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:16:08.646] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Lilian Cook (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:16:09.647] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Lilian Cook (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:16:09.649] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Lilian Cook (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:16:10.645] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Lilian Cook (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:16:11.647] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Lilian Cook (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:16:11.649] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Lilian Cook (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:16:11.651] runtime error: type mismatch: Lilian Cook (/mob/living/carbon/human) += Braxton Hirleman (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:16:12.647] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Lilian Cook (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:16:13.646] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Lilian Cook (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:16:13.648] runtime error: type mismatch: Lilian Cook (/mob/living/carbon/human) += Braxton Hirleman (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:16:14.647] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Lilian Cook (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:16:14.649] runtime error: type mismatch: Lilian Cook (/mob/living/carbon/human) += Braxton Hirleman (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:16:16.647] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Lilian Cook (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:16:17.648] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Lilian Cook (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:16:17.650] runtime error: type mismatch: Lilian Cook (/mob/living/carbon/human) += Braxton Hirleman (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:16:18.645] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Lilian Cook (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:16:18.647] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Lilian Cook (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:16:18.649] runtime error: type mismatch: Lilian Cook (/mob/living/carbon/human) += Braxton Hirleman (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:16:19.647] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Lilian Cook (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:16:19.650] runtime error: type mismatch: Lilian Cook (/mob/living/carbon/human) += Braxton Hirleman (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:16:20.646] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Lilian Cook (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:16:20.648] runtime error: type mismatch: Lilian Cook (/mob/living/carbon/human) += Braxton Hirleman (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:16:21.648] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Lilian Cook (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:27:24.850] runtime error: type mismatch: Floyd Tin (/mob/living/carbon/human) += Braxton Hirleman (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:27:25.853] runtime error: type mismatch: Floyd Tin (/mob/living/carbon/human) += Braxton Hirleman (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:27:25.857] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Floyd Tin (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:27:25.858] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Floyd Tin (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:27:26.851] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Floyd Tin (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:27:27.851] runtime error: type mismatch: Floyd Tin (/mob/living/carbon/human) += Braxton Hirleman (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:27:27.853] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Floyd Tin (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:27:28.850] runtime error: type mismatch: Floyd Tin (/mob/living/carbon/human) += Braxton Hirleman (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:27:28.852] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Floyd Tin (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:27:29.851] runtime error: type mismatch: Floyd Tin (/mob/living/carbon/human) += Braxton Hirleman (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:27:30.849] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Floyd Tin (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:27:30.851] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Floyd Tin (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:27:32.851] runtime error: type mismatch: Floyd Tin (/mob/living/carbon/human) += Braxton Hirleman (/mob/living/carbon/human)
+ - proc name: process (/datum/component/radioactive/process)
+ -   source file: radioactive.dm,47
+ - 
+[2020-08-28 02:27:33.848] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Floyd Tin (/mob/living/carbon/human)
+ - Warning: further proc crash messages are being suppressed to prevent overload...
+ - 
+[2020-08-28 02:27:34.851] runtime error: type mismatch: Floyd Tin (/mob/living/carbon/human) += Braxton Hirleman (/mob/living/carbon/human)
+ - 
+[2020-08-28 02:27:35.854] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Floyd Tin (/mob/living/carbon/human)
+ - 
+[2020-08-28 02:27:35.855] runtime error: type mismatch: Floyd Tin (/mob/living/carbon/human) += Braxton Hirleman (/mob/living/carbon/human)
+ - 
+[2020-08-28 02:27:36.850] runtime error: type mismatch: Floyd Tin (/mob/living/carbon/human) += Braxton Hirleman (/mob/living/carbon/human)
+ - 
+[2020-08-28 02:27:37.849] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Floyd Tin (/mob/living/carbon/human)
+ - 
+[2020-08-28 02:27:37.850] runtime error: type mismatch: Floyd Tin (/mob/living/carbon/human) += Braxton Hirleman (/mob/living/carbon/human)
+ - 
+[2020-08-28 02:27:46.851] runtime error: type mismatch: Floyd Tin (/mob/living/carbon/human) += Braxton Hirleman (/mob/living/carbon/human)
+ - 
+[2020-08-28 02:27:48.853] runtime error: type mismatch: Floyd Tin (/mob/living/carbon/human) += Braxton Hirleman (/mob/living/carbon/human)
+ - 
+[2020-08-28 02:27:49.851] runtime error: type mismatch: Floyd Tin (/mob/living/carbon/human) += Braxton Hirleman (/mob/living/carbon/human)
+ - 
+[2020-08-28 02:27:50.853] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Floyd Tin (/mob/living/carbon/human)
+ - 
+[2020-08-28 02:27:56.855] runtime error: type mismatch: Braxton Hirleman (/mob/living/carbon/human) += Floyd Tin (/mob/living/carbon/human)
+ - 
+[2020-08-28 02:27:56.856] runtime error: type mismatch: Floyd Tin (/mob/living/carbon/human) += Braxton Hirleman (/mob/living/carbon/human)
+ - 
+[2020-08-28 02:27:58.850] runtime error: type mismatch: Floyd Tin (/mob/living/carbon/human) += Braxton Hirleman (/mob/living/carbon/human)
+ - 
+[2020-08-28 02:55:46.226] Ban database connection failure. Key ghostly98 not checked
+[2020-08-28 02:55:50.769] Ban database connection failure. Key guest1271285026 not checked
+[2020-08-28 02:55:50.774] Ban database connection failure. Key ghostly98 not checked
+[2020-08-28 02:55:50.775] Ban database connection failure. Key ghostly98 not checked
+[2020-08-28 02:55:50.776] Ban database connection failure. Key ghostly98 not checked
+[2020-08-28 02:55:59.116] runtime error: bad resource file
+ - 
+[2020-08-28 03:48:21.233] runtime error: Cannot create objects of type null.
+ - 
+[2020-08-28 03:48:21.240] runtime error: Cannot create objects of type null.
+ - 
+[2020-08-28 03:48:21.270] runtime error: Cannot create objects of type null.
+ - 
+[2020-08-28 03:48:21.284] runtime error: Cannot create objects of type null.
+ - 
+[2020-08-28 03:48:21.288] runtime error: Cannot create objects of type null.
+ - 
+[2020-08-28 03:48:21.296] runtime error: Cannot create objects of type null.
+ - 
+[2020-08-28 03:48:21.312] runtime error: Cannot create objects of type null.
+ - 
+[2020-08-28 03:52:27.474] Ban database connection failure. Key sqtay not checked
+[2020-08-28 03:53:23.882] Ban database connection failure. Key sqtay not checked
+[2020-08-28 03:53:23.883] Ban database connection failure. Key sqtay not checked
+[2020-08-28 03:53:45.924] runtime error: bad resource file
+ - 
+[2020-08-28 04:05:43.535] ### VarEdit by Ghostly98/(sentry bot): /mob/living/simple_animal/hostile/handy/sentrybot mob_size=2 => 4
+[2020-08-28 04:06:25.149] ### VarEdit by Ghostly98/(sentry bot): /mob/living/simple_animal/hostile/handy/sentrybot mob_size=4 => 5
+[2020-08-28 04:08:42.671] Ban database connection failure. Key sqtay not checked
+[2020-08-28 04:08:48.723] Ban database connection failure. Key sqtay not checked
+[2020-08-28 04:08:48.727] Ban database connection failure. Key sqtay not checked
+[2020-08-28 04:08:48.728] Ban database connection failure. Key sqtay not checked
+[2020-08-28 04:09:09.415] runtime error: undefined variable /datum/component/mood/var/faction_deaths
+ - 
+[2020-08-28 04:09:29.424] Ban database connection failure. Key sqtay not checked
+[2020-08-28 04:09:36.084] Ban database connection failure. Key sqtay not checked
+[2020-08-28 04:09:36.086] Ban database connection failure. Key sqtay not checked
+[2020-08-28 04:09:36.089] Ban database connection failure. Key sqtay not checked
+[2020-08-28 04:10:05.762] runtime error: bad resource file
+ - 
+[2020-08-28 04:14:08.059] ### VarEdit by Ghostly98/(Mauricio Palmer): /obj/machinery/power/smes/engineering charge=0 => 500000
+[2020-08-28 04:15:40.891] Ban database connection failure. Key sqtay not checked
+[2020-08-28 04:15:47.444] Ban database connection failure. Key sqtay not checked
+[2020-08-28 04:15:47.446] Ban database connection failure. Key sqtay not checked
+[2020-08-28 04:15:47.448] Ban database connection failure. Key sqtay not checked
+[2020-08-28 04:16:17.470] runtime error: bad resource file
+ - 
+[2020-08-28 04:29:13.013] Ban database connection failure. Key foxycode not checked
+[2020-08-28 04:30:16.928] Ban database connection failure. Key foxycode not checked
+[2020-08-28 04:30:16.929] Ban database connection failure. Key foxycode not checked
+[2020-08-28 04:30:16.930] Ban database connection failure. Key foxycode not checked
+[2020-08-28 04:30:16.931] Ban database connection failure. Key foxycode not checked
+[2020-08-28 04:30:16.932] Ban database connection failure. Key foxycode not checked
+[2020-08-28 04:30:28.093] runtime error: bad resource file
+ - 
+[2020-08-28 04:33:39.643] Shutting down Persistence subsystem...
+[2020-08-28 04:33:39.648] Shutting down Pathfinder subsystem...
+[2020-08-28 04:33:39.649] Shutting down Squeak subsystem...
+[2020-08-28 04:33:39.649] Shutting down Shuttle subsystem...
+[2020-08-28 04:33:39.650] Shutting down Lighting subsystem...
+[2020-08-28 04:33:39.651] Shutting down XKeyScore subsystem...
+[2020-08-28 04:33:39.652] Shutting down Sticky Ban subsystem...
+[2020-08-28 04:33:39.652] Shutting down Overlay subsystem...
+[2020-08-28 04:33:39.673] Shutting down Icon Smoothing subsystem...
+[2020-08-28 04:33:39.674] Shutting down Assets subsystem...
+[2020-08-28 04:33:39.675] Shutting down Atmospherics subsystem...
+[2020-08-28 04:33:39.676] Shutting down Wet floors subsystem...
+[2020-08-28 04:33:39.677] Shutting down Weather subsystem...
+[2020-08-28 04:33:39.680] Shutting down Vote subsystem...
+[2020-08-28 04:33:39.680] Shutting down Traumas subsystem...
+[2020-08-28 04:33:39.681] Shutting down Title Screen subsystem...
+[2020-08-28 04:33:39.683] Shutting down Time Tracking subsystem...
+[2020-08-28 04:33:39.684] Shutting down Throwing subsystem...
+[2020-08-28 04:33:39.685] Shutting down tgui subsystem...
+[2020-08-28 04:33:39.686] Shutting down Sun subsystem...
+[2020-08-28 04:33:39.687] Shutting down Space Drift subsystem...
+[2020-08-28 04:33:39.688] Shutting down Religion subsystem...
+[2020-08-28 04:33:39.689] Shutting down Radio subsystem...
+[2020-08-28 04:33:39.691] Shutting down Radiation subsystem...
+[2020-08-28 04:33:39.692] Shutting down Projectiles subsystem...
+[2020-08-28 04:33:39.695] Shutting down Processing subsystem...
+[2020-08-28 04:33:39.696] Shutting down Ping subsystem...
+[2020-08-28 04:33:39.697] Shutting down Parallax subsystem...
+[2020-08-28 04:33:39.698] Shutting down pAI subsystem...
+[2020-08-28 04:33:39.699] Shutting down Orbits subsystem...
+[2020-08-28 04:33:39.700] Shutting down Objects subsystem...
+[2020-08-28 04:33:39.700] Shutting down NPC Pool subsystem...
+[2020-08-28 04:33:39.701] Shutting down Night Shift subsystem...
+[2020-08-28 04:33:39.702] Shutting down Mood subsystem...
+[2020-08-28 04:33:39.703] Shutting down Mobs subsystem...
+[2020-08-28 04:33:39.704] Shutting down Mob Spawners subsystem...
+[2020-08-28 04:33:39.704] Shutting down Medals subsystem...
+[2020-08-28 04:33:39.705] Shutting down Item Spawners subsystem...
+[2020-08-28 04:33:39.706] Shutting down Idling NPC Pool subsystem...
+[2020-08-28 04:33:39.707] Shutting down Flightpack Movement subsystem...
+[2020-08-28 04:33:39.708] Shutting down Fire Burning subsystem...
+[2020-08-28 04:33:39.709] Shutting down Fields subsystem...
+[2020-08-28 04:33:39.709] Shutting down Fast Processing subsystem...
+[2020-08-28 04:33:39.710] Shutting down Disease subsystem...
+[2020-08-28 04:33:39.712] Shutting down Day/Night Cycle subsystem...
+[2020-08-28 04:33:39.713] Shutting down Datum Component System subsystem...
+[2020-08-28 04:33:39.714] Shutting down Communications subsystem...
+[2020-08-28 04:33:39.715] Shutting down Bot Comms subsystem...
+[2020-08-28 04:33:39.715] Shutting down Augury subsystem...
+[2020-08-28 04:33:39.716] Shutting down Acid subsystem...
+[2020-08-28 04:33:39.717] Shutting down Timer subsystem...
+[2020-08-28 04:33:39.718] Shutting down Circuit subsystem...
+[2020-08-28 04:33:39.719] Shutting down Machines subsystem...
+[2020-08-28 04:33:39.721] Shutting down Language subsystem...
+[2020-08-28 04:33:39.723] Shutting down Atoms subsystem...
+[2020-08-28 04:33:39.725] Shutting down Networks subsystem...
+[2020-08-28 04:33:39.726] Shutting down Mapping subsystem...
+[2020-08-28 04:33:39.727] Shutting down Ticker subsystem...
+[2020-08-28 04:33:39.751] Shutting down Quirks subsystem...
+[2020-08-28 04:33:39.754] Shutting down Jobs subsystem...
+[2020-08-28 04:33:39.756] Shutting down Events subsystem...
+[2020-08-28 04:33:39.757] Shutting down Research subsystem...
+[2020-08-28 04:33:39.758] Shutting down Input subsystem...
+[2020-08-28 04:33:39.759] Shutting down Server Tasks subsystem...
+[2020-08-28 04:33:39.760] Shutting down Blackbox subsystem...
+[2020-08-28 04:33:39.761] Shutting down Database subsystem...
+[2020-08-28 04:33:39.763] Shutting down Garbage subsystem...
+[2020-08-28 04:33:39.853] Shutdown complete
+[2020-08-28 04:33:39.854] World rebooted at 00:33:39

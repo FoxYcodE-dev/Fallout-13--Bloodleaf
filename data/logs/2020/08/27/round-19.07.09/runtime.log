@@ -1,0 +1,366 @@
+[2020-08-27 23:07:09.612] Starting up round ID .
+ - -------------------------
+[2020-08-27 23:07:09.615] Running /tg/ revision: 
+ - No commit information
+[2020-08-27 23:07:10.567] Initialized Database subsystem within 0 seconds!
+[2020-08-27 23:07:10.569] Initialized Blackbox subsystem within 0 seconds!
+[2020-08-27 23:07:10.570] Initialized Server Tasks subsystem within 0 seconds!
+[2020-08-27 23:07:10.574] Initialized Input subsystem within 0 seconds!
+[2020-08-27 23:07:10.584] runtime error: WARNING: Design ID clash with ID emitter detected!
+ - proc name: stack trace (/proc/stack_trace)
+ -   source file: unsorted.dm,1241
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - stack trace("WARNING: Design ID clash with ...")
+ - initialize all techweb designs(0)
+ - Research (/datum/controller/subsystem/research): Initialize(832305)
+ - Master (/datum/controller/master): Initialize(10, 0)
+ - 
+[2020-08-27 23:07:10.592] ## WARNING: Invalid research design with ID siege cannon detected in node Industrial Engineering[engineering] removed. in code/modules/research/techweb/__techweb_helpers.dm at line 94 src:  usr: .
+[2020-08-27 23:07:10.594] ## WARNING: Invalid research design with ID health_hud_night detected in node Night Vision Technology[NVGtech] removed. in code/modules/research/techweb/__techweb_helpers.dm at line 94 src:  usr: .
+[2020-08-27 23:07:10.596] ## WARNING: Invalid research design with ID security_hud_night detected in node Night Vision Technology[NVGtech] removed. in code/modules/research/techweb/__techweb_helpers.dm at line 94 src:  usr: .
+[2020-08-27 23:07:10.597] ## WARNING: Invalid research design with ID diagnostic_hud_night detected in node Night Vision Technology[NVGtech] removed. in code/modules/research/techweb/__techweb_helpers.dm at line 94 src:  usr: .
+[2020-08-27 23:07:10.598] ## WARNING: Invalid research design with ID night_visision_goggles detected in node Night Vision Technology[NVGtech] removed. in code/modules/research/techweb/__techweb_helpers.dm at line 94 src:  usr: .
+[2020-08-27 23:07:10.599] ## WARNING: Invalid research design with ID nvgmesons detected in node Night Vision Technology[NVGtech] removed. in code/modules/research/techweb/__techweb_helpers.dm at line 94 src:  usr: .
+[2020-08-27 23:07:10.601] ## WARNING: Invalid research design with ID ci-toolset detected in node Advanced Cybernetic Implants[adv_cyber_implants] removed. in code/modules/research/techweb/__techweb_helpers.dm at line 94 src:  usr: .
+[2020-08-27 23:07:10.601] ## WARNING: Invalid research design with ID ci-surgery detected in node Advanced Cybernetic Implants[adv_cyber_implants] removed. in code/modules/research/techweb/__techweb_helpers.dm at line 94 src:  usr: .
+[2020-08-27 23:07:10.603] ## WARNING: Invalid research design with ID ci-thermals detected in node Combat Cybernetic Implants[combat_cyber_implants] removed. in code/modules/research/techweb/__techweb_helpers.dm at line 94 src:  usr: .
+[2020-08-27 23:07:10.614] Initialized Research subsystem within 0.1 seconds!
+[2020-08-27 23:07:10.618] Initialized Events subsystem within 0 seconds!
+[2020-08-27 23:07:10.623] Initialized Jobs subsystem within 0 seconds!
+[2020-08-27 23:07:10.625] Initialized Quirks subsystem within 0 seconds!
+[2020-08-27 23:07:10.634] Initialized Ticker subsystem within 0 seconds!
+[2020-08-27 23:07:10.636] Loading Pahrump...
+[2020-08-27 23:07:13.095] Ban database connection failure. Key guest1271285026 not checked
+[2020-08-27 23:07:13.098] Ban database connection failure. Key ghostly98 not checked
+[2020-08-27 23:07:13.099] Ban database connection failure. Key ghostly98 not checked
+[2020-08-27 23:07:13.101] Ban database connection failure. Key ghostly98 not checked
+[2020-08-27 23:07:26.499] Loaded Wasteland in 15.8s!
+[2020-08-27 23:07:30.336] Loaded Dungeons in 3.8s!
+[2020-08-27 23:07:30.733] Ruin loader finished with 0 left to spend.
+[2020-08-27 23:07:34.964] Initialized Mapping subsystem within 24.3 seconds!
+[2020-08-27 23:07:34.966] Initialized Networks subsystem within 0 seconds!
+[2020-08-27 23:07:57.314] Initialized Atoms subsystem within 22.4 seconds!
+[2020-08-27 23:07:57.327] Initialized Language subsystem within 0 seconds!
+[2020-08-27 23:07:57.346] Initialized Machines subsystem within 0 seconds!
+[2020-08-27 23:07:57.383] Initialized Circuit subsystem within 0 seconds!
+[2020-08-27 23:07:57.385] Initialized Disease subsystem within 0 seconds!
+[2020-08-27 23:07:57.386] Initialized Item Spawners subsystem within 0 seconds!
+[2020-08-27 23:07:57.387] Initialized Medals subsystem within 0 seconds!
+[2020-08-27 23:07:57.388] Initialized Mob Spawners subsystem within 0 seconds!
+[2020-08-27 23:07:57.388] Initialized Radiation subsystem within 0 seconds!
+[2020-08-27 23:07:57.392] Initialized Day/Night Cycle subsystem within 0 seconds!
+[2020-08-27 23:07:57.394] Initialized Night Shift subsystem within 0 seconds!
+[2020-08-27 23:07:57.396] Initialized Parallax subsystem within 0 seconds!
+[2020-08-27 23:07:59.405] Initialized Bot Comms subsystem within 2.1 seconds!
+[2020-08-27 23:07:59.496] Initialized Traumas subsystem within 0 seconds!
+[2020-08-27 23:07:59.498] Initialized Weather subsystem within 0 seconds!
+[2020-08-27 23:08:03.198] ## WARNING: There are 6 active turfs at roundstart, this is a mapping error caused by a difference of the air between the adjacent turfs. You can see its coordinates using "Mapping -> Show roundstart AT list" verb (debug verbs required)
+[2020-08-27 23:08:03.202] ## WARNING: HEY! LISTEN! 0.1 seconds were wasted processing 6 turf(s) (connected to 14 other turfs) with atmos differences at round start.
+[2020-08-27 23:08:03.207] ## WARNING: build_pipeline(): /obj/machinery/atmospherics/pipe/simple/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (128, 85, 1)
+[2020-08-27 23:08:03.208] ## WARNING: build_pipeline(): /obj/machinery/atmospherics/pipe/manifold/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (129, 85, 1)
+[2020-08-27 23:08:03.208] ## WARNING: build_pipeline(): /obj/machinery/atmospherics/pipe/simple/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (127, 85, 1)
+[2020-08-27 23:08:03.209] ## WARNING: build_pipeline(): /obj/machinery/atmospherics/pipe/simple/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (129, 86, 1)
+[2020-08-27 23:08:03.213] ## WARNING: build_pipeline(): /obj/machinery/atmospherics/pipe/simple/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (130, 85, 1)
+[2020-08-27 23:08:03.215] ## WARNING: build_pipeline(): /obj/machinery/atmospherics/pipe/simple/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (126, 85, 1)
+[2020-08-27 23:08:03.216] ## WARNING: build_pipeline(): /obj/machinery/atmospherics/pipe/simple/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (129, 87, 1)
+[2020-08-27 23:08:03.218] ## WARNING: build_pipeline(): /obj/machinery/atmospherics/pipe/simple/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (131, 85, 1)
+[2020-08-27 23:08:03.219] ## WARNING: build_pipeline(): /obj/machinery/atmospherics/pipe/manifold/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (125, 85, 1)
+[2020-08-27 23:08:03.220] ## WARNING: build_pipeline(): /obj/machinery/atmospherics/pipe/simple/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (129, 88, 1)
+[2020-08-27 23:08:03.221] ## WARNING: build_pipeline(): further messages about pipenets will be supressed
+[2020-08-27 23:08:03.223] Initialized Atmospherics subsystem within 3.7 seconds!
+[2020-08-27 23:08:06.586] runtime error: duplicate sprite "emitter" in sheet design (/datum/asset/spritesheet/research_designs)
+ - proc name: Insert (/datum/asset/spritesheet/proc/Insert)
+ -   source file: asset_cache.dm,295
+ -   usr: null
+ -   src: design (/datum/asset/spritesheet/research_designs)
+ -   call stack:
+ - design (/datum/asset/spritesheet/research_designs): Insert("emitter", /icon (/icon), "", 2, 1, 0)
+ - design (/datum/asset/spritesheet/research_designs): register()
+ - design (/datum/asset/spritesheet/research_designs): New()
+ - get asset datum(/datum/asset/spritesheet/resea... (/datum/asset/spritesheet/research_designs))
+ - Assets (/datum/controller/subsystem/assets): Initialize(832832)
+ - Master (/datum/controller/master): Initialize(10, 0)
+ - 
+[2020-08-27 23:08:07.383] Initialized Assets subsystem within 4.1 seconds!
+[2020-08-27 23:08:07.419] runtime error: No valid destination passed into forceMove
+ - proc name: forceMove (/atom/movable/proc/forceMove)
+ -   source file: atoms_movable.dm,354
+ -   usr: null
+ -   src: the match (/obj/item/match)
+ -   src.loc: the matchbox (/obj/item/storage/box/matches)
+ -   call stack:
+ - the match (/obj/item/match): forceMove(null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete):  insert physical item(the match (/obj/item/match), 0)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): handle item insertion(the match (/obj/item/match), 1, null, null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): signal fill type(/obj/item/match (/obj/item/match), 10, 0)
+ - /datum/callback (/datum/callback): InvokeAsync(/obj/item/match (/obj/item/match))
+ - 
+[2020-08-27 23:08:07.429] runtime error: No valid destination passed into forceMove
+ - proc name: forceMove (/atom/movable/proc/forceMove)
+ -   source file: atoms_movable.dm,354
+ -   usr: null
+ -   src: the match (/obj/item/match)
+ -   src.loc: the matchbox (/obj/item/storage/box/matches)
+ -   call stack:
+ - the match (/obj/item/match): forceMove(null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete):  insert physical item(the match (/obj/item/match), 0)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): handle item insertion(the match (/obj/item/match), 1, null, null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): signal fill type(/obj/item/match (/obj/item/match), 10, 0)
+ - /datum/callback (/datum/callback): InvokeAsync(/obj/item/match (/obj/item/match))
+ - 
+[2020-08-27 23:08:07.441] runtime error: No valid destination passed into forceMove
+ - proc name: forceMove (/atom/movable/proc/forceMove)
+ -   source file: atoms_movable.dm,354
+ -   usr: null
+ -   src: the match (/obj/item/match)
+ -   src.loc: the matchbox (/obj/item/storage/box/matches)
+ -   call stack:
+ - the match (/obj/item/match): forceMove(null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete):  insert physical item(the match (/obj/item/match), 0)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): handle item insertion(the match (/obj/item/match), 1, null, null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): signal fill type(/obj/item/match (/obj/item/match), 10, 0)
+ - /datum/callback (/datum/callback): InvokeAsync(/obj/item/match (/obj/item/match))
+ - 
+[2020-08-27 23:08:07.457] runtime error: No valid destination passed into forceMove
+ - proc name: forceMove (/atom/movable/proc/forceMove)
+ -   source file: atoms_movable.dm,354
+ -   usr: null
+ -   src: the match (/obj/item/match)
+ -   src.loc: the matchbox (/obj/item/storage/box/matches)
+ -   call stack:
+ - the match (/obj/item/match): forceMove(null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete):  insert physical item(the match (/obj/item/match), 0)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): handle item insertion(the match (/obj/item/match), 1, null, null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): signal fill type(/obj/item/match (/obj/item/match), 10, 0)
+ - /datum/callback (/datum/callback): InvokeAsync(/obj/item/match (/obj/item/match))
+ - 
+[2020-08-27 23:08:07.468] runtime error: No valid destination passed into forceMove
+ - proc name: forceMove (/atom/movable/proc/forceMove)
+ -   source file: atoms_movable.dm,354
+ -   usr: null
+ -   src: the match (/obj/item/match)
+ -   src.loc: the matchbox (/obj/item/storage/box/matches)
+ -   call stack:
+ - the match (/obj/item/match): forceMove(null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete):  insert physical item(the match (/obj/item/match), 0)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): handle item insertion(the match (/obj/item/match), 1, null, null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): signal fill type(/obj/item/match (/obj/item/match), 10, 0)
+ - /datum/callback (/datum/callback): InvokeAsync(/obj/item/match (/obj/item/match))
+ - 
+[2020-08-27 23:08:07.480] runtime error: No valid destination passed into forceMove
+ - proc name: forceMove (/atom/movable/proc/forceMove)
+ -   source file: atoms_movable.dm,354
+ -   usr: null
+ -   src: the match (/obj/item/match)
+ -   src.loc: the matchbox (/obj/item/storage/box/matches)
+ -   call stack:
+ - the match (/obj/item/match): forceMove(null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete):  insert physical item(the match (/obj/item/match), 0)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): handle item insertion(the match (/obj/item/match), 1, null, null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): signal fill type(/obj/item/match (/obj/item/match), 10, 0)
+ - /datum/callback (/datum/callback): InvokeAsync(/obj/item/match (/obj/item/match))
+ - 
+[2020-08-27 23:08:07.497] runtime error: No valid destination passed into forceMove
+ - proc name: forceMove (/atom/movable/proc/forceMove)
+ -   source file: atoms_movable.dm,354
+ -   usr: null
+ -   src: the match (/obj/item/match)
+ -   src.loc: the matchbox (/obj/item/storage/box/matches)
+ -   call stack:
+ - the match (/obj/item/match): forceMove(null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete):  insert physical item(the match (/obj/item/match), 0)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): handle item insertion(the match (/obj/item/match), 1, null, null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): signal fill type(/obj/item/match (/obj/item/match), 10, 0)
+ - /datum/callback (/datum/callback): InvokeAsync(/obj/item/match (/obj/item/match))
+ - 
+[2020-08-27 23:08:07.510] runtime error: No valid destination passed into forceMove
+ - proc name: forceMove (/atom/movable/proc/forceMove)
+ -   source file: atoms_movable.dm,354
+ -   usr: null
+ -   src: the match (/obj/item/match)
+ -   src.loc: the matchbox (/obj/item/storage/box/matches)
+ -   call stack:
+ - the match (/obj/item/match): forceMove(null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete):  insert physical item(the match (/obj/item/match), 0)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): handle item insertion(the match (/obj/item/match), 1, null, null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): signal fill type(/obj/item/match (/obj/item/match), 10, 0)
+ - /datum/callback (/datum/callback): InvokeAsync(/obj/item/match (/obj/item/match))
+ - 
+[2020-08-27 23:08:07.521] runtime error: No valid destination passed into forceMove
+ - proc name: forceMove (/atom/movable/proc/forceMove)
+ -   source file: atoms_movable.dm,354
+ -   usr: null
+ -   src: the match (/obj/item/match)
+ -   src.loc: the matchbox (/obj/item/storage/box/matches)
+ -   call stack:
+ - the match (/obj/item/match): forceMove(null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete):  insert physical item(the match (/obj/item/match), 0)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): handle item insertion(the match (/obj/item/match), 1, null, null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): signal fill type(/obj/item/match (/obj/item/match), 10, 0)
+ - /datum/callback (/datum/callback): InvokeAsync(/obj/item/match (/obj/item/match))
+ - 
+[2020-08-27 23:08:12.839] Initialized Icon Smoothing subsystem within 5.3 seconds!
+[2020-08-27 23:08:13.836] Initialized Overlay subsystem within 1 second!
+[2020-08-27 23:08:13.840] Initialized XKeyScore subsystem within 0 seconds!
+[2020-08-27 23:08:13.845] Initialized Sticky Ban subsystem within 0 seconds!
+[2020-08-27 23:08:21.500] Initialized Lighting subsystem within 7.7 seconds!
+[2020-08-27 23:08:22.508] Initialized Shuttle subsystem within 1 second!
+[2020-08-27 23:08:22.509] Initialized Squeak subsystem within 0 seconds!
+[2020-08-27 23:08:22.512] Initialized Pathfinder subsystem within 0 seconds!
+[2020-08-27 23:08:22.542] Loaded 1 engraved messages on map Pahrump
+[2020-08-27 23:08:22.544] Initialized Persistence subsystem within 0 seconds!
+[2020-08-27 23:08:22.545] Initializations complete within 72 seconds!
+[2020-08-27 23:08:30.684] runtime error: bad resource file
+ - proc name: send asset (/proc/send_asset)
+ -   source file: asset_cache.dm,53
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - send asset(Ghostly98 (/client), "objitem.png", 0, null)
+ - getFilesSlow(Ghostly98 (/client), /list (/list), 0)
+ - /datum/callback (/datum/callback): InvokeAsync()
+ - 
+[2020-08-27 23:10:33.218] Game start took 0.1s
+[2020-08-27 23:11:04.047] runtime error: The grille taking damage after deletion
+ - proc name: stack trace (/datum/proc/stack_trace)
+ -   source file: unsorted.dm,1244
+ -   usr: null
+ -   src: the grille (/obj/structure/grille)
+ -   src.loc: null
+ -   call stack:
+ - the grille (/obj/structure/grille): stack trace("The grille taking damage after...")
+ - the grille (/obj/structure/grille): take damage(6, "brute", "melee", 1, null, 0)
+ - the grille (/obj/structure/grille): take damage(6, "brute", "melee", 1, null)
+ - the grille (/obj/structure/grille): attack animal(the giant radscorpion (/mob/living/simple_animal/hostile/radscorpion))
+ - the giant radscorpion (/mob/living/simple_animal/hostile/radscorpion): DestroyObjectsInDirection(1)
+ - the giant radscorpion (/mob/living/simple_animal/hostile/radscorpion): DestroyPathToTarget()
+ - the giant radscorpion (/mob/living/simple_animal/hostile/radscorpion): handle automated action()
+ - NPC Pool (/datum/controller/subsystem/npcpool): fire(0)
+ - NPC Pool (/datum/controller/subsystem/npcpool): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-08-27 23:19:42.303] ### VarEdit by Ghostly98/(protectron): /mob/living/simple_animal/hostile/handy/protectron/playable client= => Ghostly98
+[2020-08-27 23:28:15.931] ### VarEdit by Ghostly98/(mr. handy): /mob/living/simple_animal/hostile/handy/playable client= => Ghostly98
+[2020-08-27 23:28:20.979] runtime error: Division by zero
+ - proc name: swap hand (/mob/living/simple_animal/swap_hand)
+ -   source file: simple_animal.dm,504
+ -   usr: (src)
+ -   src: the mr. handy (/mob/living/simple_animal/hostile/handy/playable)
+ -   src.loc: the desert (72,167,2) (/turf/open/indestructible/ground/outside/desert)
+ -   call stack:
+ - the mr. handy (/mob/living/simple_animal/hostile/handy/playable): swap hand(null)
+ - the swap hand (/obj/screen/swap_hand): Click(null, "mapwindow.map", "icon-x=16;icon-y=5;left=1;scre...")
+ - Ghostly98 (/client): Click(the swap hand (/obj/screen/swap_hand), null, "mapwindow.map", "icon-x=16;icon-y=5;left=1;scre...")
+ - 
+[2020-08-27 23:28:21.392] runtime error: Division by zero
+ - proc name: swap hand (/mob/living/simple_animal/swap_hand)
+ -   source file: simple_animal.dm,504
+ -   usr: (src)
+ -   src: the mr. handy (/mob/living/simple_animal/hostile/handy/playable)
+ -   src.loc: the desert (72,167,2) (/turf/open/indestructible/ground/outside/desert)
+ -   call stack:
+ - the mr. handy (/mob/living/simple_animal/hostile/handy/playable): swap hand(null)
+ - the swap hand (/obj/screen/swap_hand): Click(null, "mapwindow.map", "icon-x=16;icon-y=5;left=1;scre...")
+ - Ghostly98 (/client): Click(the swap hand (/obj/screen/swap_hand), null, "mapwindow.map", "icon-x=16;icon-y=5;left=1;scre...")
+ - 
+[2020-08-27 23:28:21.569] runtime error: Division by zero
+ - proc name: swap hand (/mob/living/simple_animal/swap_hand)
+ -   source file: simple_animal.dm,504
+ -   usr: (src)
+ -   src: the mr. handy (/mob/living/simple_animal/hostile/handy/playable)
+ -   src.loc: the desert (72,167,2) (/turf/open/indestructible/ground/outside/desert)
+ -   call stack:
+ - the mr. handy (/mob/living/simple_animal/hostile/handy/playable): swap hand(null)
+ - the swap hand (/obj/screen/swap_hand): Click(null, "mapwindow.map", "icon-x=16;icon-y=5;left=1;scre...")
+ - Ghostly98 (/client): Click(the swap hand (/obj/screen/swap_hand), null, "mapwindow.map", "icon-x=16;icon-y=5;left=1;scre...")
+ - 
+[2020-08-27 23:36:00.628] Ban database connection failure. Key ghostly98 not checked
+[2020-08-27 23:36:42.265] Ban database connection failure. Key guest1271285026 not checked
+[2020-08-27 23:36:42.267] Ban database connection failure. Key ghostly98 not checked
+[2020-08-27 23:36:42.268] Ban database connection failure. Key ghostly98 not checked
+[2020-08-27 23:36:42.269] Ban database connection failure. Key ghostly98 not checked
+[2020-08-27 23:36:48.569] runtime error: bad resource file
+ - proc name: send asset (/proc/send_asset)
+ -   source file: asset_cache.dm,53
+ -   usr: the mr. handy (/mob/living/simple_animal/hostile/handy/playable)
+ -   src: null
+ -   usr.loc: sidewalk (58,181,2) (/turf/open/indestructible/ground/outside/sidewalk)
+ -   call stack:
+ - send asset(Ghostly98 (/client), "objitem.png", 0, null)
+ - getFilesSlow(Ghostly98 (/client), /list (/list), 0)
+ - Ghostly98 (/client): send resources()
+ - 
+[2020-08-27 23:38:23.859] Saved 1 engraved messages on map Pahrump
+[2020-08-27 23:39:28.839] Shutting down Persistence subsystem...
+[2020-08-27 23:39:28.841] Shutting down Pathfinder subsystem...
+[2020-08-27 23:39:28.843] Shutting down Squeak subsystem...
+[2020-08-27 23:39:28.844] Shutting down Shuttle subsystem...
+[2020-08-27 23:39:28.847] Shutting down Lighting subsystem...
+[2020-08-27 23:39:28.847] Shutting down XKeyScore subsystem...
+[2020-08-27 23:39:28.849] Shutting down Sticky Ban subsystem...
+[2020-08-27 23:39:28.850] Shutting down Overlay subsystem...
+[2020-08-27 23:39:28.864] Shutting down Icon Smoothing subsystem...
+[2020-08-27 23:39:28.865] Shutting down Assets subsystem...
+[2020-08-27 23:39:28.866] Shutting down Atmospherics subsystem...
+[2020-08-27 23:39:28.867] Shutting down Wet floors subsystem...
+[2020-08-27 23:39:28.868] Shutting down Weather subsystem...
+[2020-08-27 23:39:28.868] Shutting down Vote subsystem...
+[2020-08-27 23:39:28.870] Shutting down Traumas subsystem...
+[2020-08-27 23:39:28.871] Shutting down Title Screen subsystem...
+[2020-08-27 23:39:28.874] Shutting down Time Tracking subsystem...
+[2020-08-27 23:39:28.875] Shutting down Throwing subsystem...
+[2020-08-27 23:39:28.877] Shutting down tgui subsystem...
+[2020-08-27 23:39:28.878] Shutting down Sun subsystem...
+[2020-08-27 23:39:28.879] Shutting down Space Drift subsystem...
+[2020-08-27 23:39:28.879] Shutting down Religion subsystem...
+[2020-08-27 23:39:28.880] Shutting down Radio subsystem...
+[2020-08-27 23:39:28.881] Shutting down Radiation subsystem...
+[2020-08-27 23:39:28.882] Shutting down Projectiles subsystem...
+[2020-08-27 23:39:28.882] Shutting down Processing subsystem...
+[2020-08-27 23:39:28.883] Shutting down Ping subsystem...
+[2020-08-27 23:39:28.884] Shutting down Parallax subsystem...
+[2020-08-27 23:39:28.885] Shutting down pAI subsystem...
+[2020-08-27 23:39:28.885] Shutting down Orbits subsystem...
+[2020-08-27 23:39:28.886] Shutting down Objects subsystem...
+[2020-08-27 23:39:28.887] Shutting down NPC Pool subsystem...
+[2020-08-27 23:39:28.888] Shutting down Night Shift subsystem...
+[2020-08-27 23:39:28.889] Shutting down Mood subsystem...
+[2020-08-27 23:39:28.890] Shutting down Mobs subsystem...
+[2020-08-27 23:39:28.891] Shutting down Mob Spawners subsystem...
+[2020-08-27 23:39:28.892] Shutting down Medals subsystem...
+[2020-08-27 23:39:28.892] Shutting down Item Spawners subsystem...
+[2020-08-27 23:39:28.893] Shutting down Idling NPC Pool subsystem...
+[2020-08-27 23:39:28.894] Shutting down Flightpack Movement subsystem...
+[2020-08-27 23:39:28.895] Shutting down Fire Burning subsystem...
+[2020-08-27 23:39:28.895] Shutting down Fields subsystem...
+[2020-08-27 23:39:28.896] Shutting down Fast Processing subsystem...
+[2020-08-27 23:39:28.897] Shutting down Disease subsystem...
+[2020-08-27 23:39:28.897] Shutting down Day/Night Cycle subsystem...
+[2020-08-27 23:39:28.898] Shutting down Datum Component System subsystem...
+[2020-08-27 23:39:28.899] Shutting down Communications subsystem...
+[2020-08-27 23:39:28.901] Shutting down Bot Comms subsystem...
+[2020-08-27 23:39:28.901] Shutting down Augury subsystem...
+[2020-08-27 23:39:28.902] Shutting down Acid subsystem...
+[2020-08-27 23:39:28.903] Shutting down Timer subsystem...
+[2020-08-27 23:39:28.904] Shutting down Circuit subsystem...
+[2020-08-27 23:39:28.906] Shutting down Machines subsystem...
+[2020-08-27 23:39:28.907] Shutting down Language subsystem...
+[2020-08-27 23:39:28.908] Shutting down Atoms subsystem...
+[2020-08-27 23:39:28.909] Shutting down Networks subsystem...
+[2020-08-27 23:39:28.910] Shutting down Mapping subsystem...
+[2020-08-27 23:39:28.911] Shutting down Ticker subsystem...
+[2020-08-27 23:39:28.924] Shutting down Quirks subsystem...
+[2020-08-27 23:39:28.926] Shutting down Jobs subsystem...
+[2020-08-27 23:39:28.928] Shutting down Events subsystem...
+[2020-08-27 23:39:28.929] Shutting down Research subsystem...
+[2020-08-27 23:39:28.931] Shutting down Input subsystem...
+[2020-08-27 23:39:28.933] Shutting down Server Tasks subsystem...
+[2020-08-27 23:39:28.934] Shutting down Blackbox subsystem...
+[2020-08-27 23:39:28.937] Shutting down Database subsystem...
+[2020-08-27 23:39:28.940] Shutting down Garbage subsystem...
+[2020-08-27 23:39:29.019] Shutdown complete
+[2020-08-27 23:39:29.020] World rebooted at 19:39:29

@@ -1,0 +1,5 @@
+Path : /mob/dview 
+- Didn't call atom/Initialize()
+Path : /obj/item/lock_construct 
+- Didn't return an Initialize hint
+

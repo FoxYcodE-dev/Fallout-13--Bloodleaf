@@ -1,0 +1,27 @@
+[2020-08-28 16:45:02.223] Starting up round ID .
+ - -------------------------
+[2020-08-28 16:46:51.818] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=chat&proc=doneLoading
+[2020-08-28 16:46:51.883] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"ghostly98","ip":"127.0.0.1","compid":"1271285026"},{"ckey":"ghostly98","ip":"75.163.21.179","compid":"1271285026"},{"ckey":"ghostly98","ip":"24.62.253.225","compid":"1271285026"},{"ckey":"guest1271285026","ip":"127.0.0.1","compid":"1271285026"}]}
+[2020-08-28 16:52:31.476] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : Ghostly98 src=[mob_780];ready=2
+[2020-08-28 17:09:00.544] HREF: MegaTrax (usr:MegaTrax[(180,247,1)]) : _src_=chat&proc=doneLoading
+[2020-08-28 17:09:00.810] HREF: MegaTrax (usr:MegaTrax[(180,247,1)]) : _src_=chat&proc=analyzeClientData&param[cookie]=none
+[2020-08-28 17:53:07.797] HREF: Fetching2Ghost (usr:Fetching2Ghost[(180,247,1)]) : _src_=chat&proc=doneLoading
+[2020-08-28 17:53:07.985] HREF: Fetching2Ghost (usr:Fetching2Ghost[(180,247,1)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"fetching2ghost","ip":"37.248.139.0","compid":"889598256"},{"ckey":"fetching2ghost","ip":"31.0.23.229","compid":"889598256"},{"ckey":"fetching2ghost","ip":"31.0.23.231","compid":"889598256"},{"ckey":"fetching2ghost","ip":"31.0.21.146","compid":"889598256"},{"ckey":"fetching2ghost","ip":"31.0.21.148","compid":"2764345587"}]}
+[2020-08-28 17:53:11.937] HREF: Fetching2Ghost (usr:Fetching2Ghost[(180,247,1)]) : Fetching2Ghost src=[mob_917];manifest=1
+[2020-08-28 18:40:11.268] HREF: Ghostly98 (usr:Floyd Tin[(56,35,2)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"ghostly98","ip":"127.0.0.1","compid":"1271285026"},{"ckey":"ghostly98","ip":"75.163.21.179","compid":"1271285026"},{"ckey":"ghostly98","ip":"24.62.253.225","compid":"1271285026"},{"ckey":"guest1271285026","ip":"127.0.0.1","compid":"1271285026"}]}
+[2020-08-28 18:43:11.423] HREF: Ghostly98 (usr:the new player[(180,247,1)]) : The new player src=[mob_919];late_join=1
+[2020-08-28 18:43:29.593] HREF: Ghostly98 (usr:the new player[(180,247,1)]) : The new player src=[mob_919];SelectedJob=Mayor
+[2020-08-28 18:44:53.937] HREF: Ghostly98 (usr:Floyd Tin[(46,50,2)]) : The jukebox src=[0x2004aab];action=toggle
+[2020-08-28 18:45:06.144] HREF: Ghostly98 (usr:Floyd Tin[(46,50,2)]) : The jukebox src=[0x2004aab];action=toggle
+[2020-08-28 18:45:14.054] HREF: Ghostly98 (usr:Floyd Tin[(41,49,2)]) : /datum/tgui src=%5B0x2101c7e4%5D&action=tgui%3Ainitialize
+[2020-08-28 18:45:14.124] HREF: Ghostly98 (usr:Floyd Tin[(41,49,2)]) : 
+[2020-08-28 18:47:26.056] HREF: Ghostly98 (usr:Floyd Tin[(41,70,2)]) : Wasteland Camp-O-Vend src=[0x2004745];purchase=[0x21001091]
+[2020-08-28 18:47:27.636] HREF: Ghostly98 (usr:Floyd Tin[(41,70,2)]) : Wasteland Camp-O-Vend src=[0x2004745];choice=eject
+[2020-08-28 18:47:58.200] HREF: Ghostly98 (usr:Floyd Tin[(56,56,2)]) : _src_=holder;admin_token=981942446106566079903641401879741;revive=[mob_920]
+[2020-08-28 18:54:29.027] HREF: Ghostly98 (usr:Floyd Tin[(58,32,2)]) : ghostly98's admin datum (Host) src=[0x21000c94];admin_token=981942446106566079903641401879741;create_object=1
+[2020-08-28 18:55:06.244] HREF: Ghostly98 (usr:Floyd Tin[(58,32,2)]) : ghostly98's admin datum (Host) src=%5B0x21000c94%5D%3Badmin_token%3D981942446106566079903641401879741&admin_token=981942446106566079903641401879741&filter=cap&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fobj%2Fitem%2Fstack%2Ff13Cash%2Frandom%2Fbottle_cap%2Fbanker
+[2020-08-28 18:55:16.192] HREF: Ghostly98 (usr:Floyd Tin[(56,32,2)]) : ghostly98's admin datum (Host) src=%5B0x21000c94%5D%3Badmin_token%3D981942446106566079903641401879741&admin_token=981942446106566079903641401879741&filter=cap&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fobj%2Fitem%2Fstack%2Ff13Cash%2Frandom%2Fbottle_cap%2Fbanker
+[2020-08-28 18:55:17.160] HREF: Ghostly98 (usr:Floyd Tin[(56,32,2)]) : ghostly98's admin datum (Host) src=%5B0x21000c94%5D%3Badmin_token%3D981942446106566079903641401879741&admin_token=981942446106566079903641401879741&filter=cap&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fobj%2Fitem%2Fstack%2Ff13Cash%2Frandom%2Fbottle_cap%2Fbanker
+[2020-08-28 19:00:41.213] HREF: Ghostly98 (usr:Floyd Tin[(83,53,2)]) : Unknown src=[mob_924];item=11
+[2020-08-28 19:02:40.225] HREF: Storybro_2 (usr:Storybro_2[(180,247,1)]) : _src_=chat&proc=doneLoading
+[2020-08-28 19:02:40.354] HREF: Storybro_2 (usr:Storybro_2[(180,247,1)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"storybro2","ip":"108.194.95.112","compid":"1689633001"}]}

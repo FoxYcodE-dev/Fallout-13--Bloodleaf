@@ -1,0 +1,282 @@
+[2020-08-28 04:33:59.581] Starting up round ID .
+ - -------------------------
+[2020-08-28 04:34:04.957] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"ghostly98","ip":"127.0.0.1","compid":"1271285026"},{"ckey":"ghostly98","ip":"75.163.21.179","compid":"1271285026"},{"ckey":"ghostly98","ip":"24.62.253.225","compid":"1271285026"},{"ckey":"guest1271285026","ip":"127.0.0.1","compid":"1271285026"}]}
+[2020-08-28 04:34:05.470] HREF: Quakkerz (usr:Quakkerz[(180,247,1)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"quakkerz","ip":"190.172.177.216","compid":"3742387958"},{"ckey":"quakkerz","ip":"190.172.177.216","compid":"780038453"},{"ckey":"quakkerz","ip":"190.172.203.6","compid":"780038453"},{"ckey":"quakkerz","ip":"190.172.164.112","compid":"780038453"},{"ckey":"quakkerz","ip":"190.172.248.157","compid":"780038453"}]}
+[2020-08-28 04:34:07.526] HREF: Sqtay (usr:Sqtay[(180,247,1)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"sqtay","ip":"181.44.119.80","compid":"3465061488"},{"ckey":"sqtay","ip":"181.44.119.87","compid":"3465061488"},{"ckey":"sqtay","ip":"181.46.69.87","compid":"3465061488"}]}
+[2020-08-28 04:34:07.531] HREF: Quakkerz (usr:Quakkerz[(180,247,1)]) : Quakkerz src=[mob_10];ready=1
+[2020-08-28 04:34:08.796] HREF: FoxyCode (usr:FoxyCode[(180,247,1)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"foxycode","ip":"50.127.184.198","compid":"2692157586"},{"ckey":"foxycode","ip":"74.194.189.57","compid":"2692157586"},{"ckey":"foxycode","ip":"166.182.251.224","compid":"2692157586"},{"ckey":"foxycode","ip":"166.182.250.3","compid":"2692157586"},{"ckey":"foxycode","ip":"166.234.12.147","compid":"2692157586"}]}
+[2020-08-28 04:34:09.054] HREF: Sqtay (usr:Sqtay[(180,247,1)]) : Sqtay src=[mob_12];ready=1
+[2020-08-28 04:34:12.849] HREF: Sqtay (usr:Sqtay[(180,247,1)]) : Sqtay src=[mob_12];show_preferences=1
+[2020-08-28 04:34:20.510] HREF: Sqtay (usr:Sqtay[(180,247,1)]) : _src_=prefs;preference=name;task=random
+[2020-08-28 04:34:22.326] HREF: FoxyCode (usr:FoxyCode[(180,247,1)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"foxycode","ip":"50.127.184.198","compid":"2692157586"},{"ckey":"foxycode","ip":"74.194.189.57","compid":"2692157586"},{"ckey":"foxycode","ip":"166.182.251.224","compid":"2692157586"},{"ckey":"foxycode","ip":"166.182.250.3","compid":"2692157586"},{"ckey":"foxycode","ip":"166.234.12.147","compid":"2692157586"}]}
+[2020-08-28 04:34:23.350] HREF: Sqtay (usr:Sqtay[(180,247,1)]) : _src_=prefs;preference=save
+[2020-08-28 04:34:25.138] HREF: Sqtay (usr:Sqtay[(180,247,1)]) : _src_=prefs;preference=changeslot;num=2;
+[2020-08-28 04:34:26.431] HREF: Sqtay (usr:Sqtay[(180,247,1)]) : _src_=prefs;preference=changeslot;num=12;
+[2020-08-28 04:34:28.764] HREF: Sqtay (usr:Sqtay[(180,247,1)]) : _src_=prefs;preference=changeslot;num=22;
+[2020-08-28 04:34:30.884] HREF: Sqtay (usr:Sqtay[(180,247,1)]) : _src_=prefs;preference=changeslot;num=21;
+[2020-08-28 04:34:33.474] HREF: Sqtay (usr:Sqtay[(180,247,1)]) : _src_=prefs;preference=changeslot;num=10;
+[2020-08-28 04:34:34.788] HREF: Sqtay (usr:Sqtay[(180,247,1)]) : _src_=prefs;preference=changeslot;num=16;
+[2020-08-28 04:34:35.869] HREF: Sqtay (usr:Sqtay[(180,247,1)]) : _src_=prefs;preference=changeslot;num=21;
+[2020-08-28 04:34:40.472] HREF: Sqtay (usr:Sqtay[(180,247,1)]) : _src_=prefs;preference=tab;tab=0
+[2020-08-28 04:34:44.507] HREF: Sqtay (usr:Sqtay[(180,247,1)]) : /datum/preferences close=1
+[2020-08-28 04:34:51.822] HREF: FoxyCode (usr:FoxyCode[(180,247,1)]) : FoxyCode src=[mob_125];show_preferences=1
+[2020-08-28 04:35:31.845] HREF: Sqtay (usr:Sqtay[(180,247,1)]) : Sqtay src=[mob_12];ready=0
+[2020-08-28 04:35:33.382] HREF: Sqtay (usr:Sqtay[(180,247,1)]) : Sqtay src=[mob_12];ready=0
+[2020-08-28 04:35:39.805] HREF: Sqtay (usr:Sqtay[(180,247,1)]) : Sqtay src=[mob_12];ready=1
+[2020-08-28 04:35:46.170] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : Ghostly98 src=[mob_6];show_preferences=1
+[2020-08-28 04:35:47.885] HREF: FoxyCode (usr:FoxyCode[(180,247,1)]) : _src_=prefs;preference=age;task=input
+[2020-08-28 04:35:48.812] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=changeslot;num=1;
+[2020-08-28 04:35:50.318] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=job;task=menu
+[2020-08-28 04:35:54.661] HREF: FoxyCode (usr:FoxyCode[(180,247,1)]) : _src_=prefs;preference=hair_style;task=input
+[2020-08-28 04:35:58.452] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=3;text=Sentinel
+[2020-08-28 04:35:59.224] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=2;text=Sentinel
+[2020-08-28 04:35:59.818] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=1;text=Sentinel
+[2020-08-28 04:36:01.119] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=job;task=close
+[2020-08-28 04:36:05.599] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=save
+[2020-08-28 04:36:06.387] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : /datum/preferences close=1
+[2020-08-28 04:36:08.027] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : Ghostly98 src=[mob_6];ready=1
+[2020-08-28 04:36:08.123] HREF: FoxyCode (usr:FoxyCode[(180,247,1)]) : _src_=prefs;preference=hair;task=input
+[2020-08-28 04:36:22.260] HREF: FoxyCode (usr:FoxyCode[(180,247,1)]) : _src_=prefs;preference=eyes;task=input
+[2020-08-28 04:36:31.944] HREF: FoxyCode (usr:FoxyCode[(180,247,1)]) : _src_=prefs;preference=undershirt;task=input
+[2020-08-28 04:37:34.910] HREF: FoxyCode (usr:FoxyCode[(180,247,1)]) : _src_=prefs;preference=underwear;task=input
+[2020-08-28 04:37:38.437] HREF: Sqtay (usr:Sqtay[(180,247,1)]) : Sqtay src=[mob_12];late_join=1
+[2020-08-28 04:37:44.833] HREF: FoxyCode (usr:FoxyCode[(180,247,1)]) : _src_=prefs;preference=socks;task=input
+[2020-08-28 04:37:50.660] HREF: Ghostly98 (usr:Floyd Tin[(231,221,3)]) : /datum/tgui src=%5B0x2102404a%5D&action=tgui%3Ainitialize
+[2020-08-28 04:37:50.789] HREF: Ghostly98 (usr:Floyd Tin[(231,221,3)]) : 
+[2020-08-28 04:37:51.164] HREF: FoxyCode (usr:FoxyCode[(180,247,1)]) : _src_=prefs;preference=socks_color;task=input
+[2020-08-28 04:37:56.201] HREF: Ghostly98 (usr:Floyd Tin[(231,221,3)]) : /datum/tgui src=%5B0x2102404a%5D&action=loadout_select&name=Heavy%20Sentinel
+[2020-08-28 04:37:56.695] HREF: FoxyCode (usr:FoxyCode[(180,247,1)]) : _src_=prefs;preference=save
+[2020-08-28 04:37:59.270] HREF: Ghostly98 (usr:Floyd Tin[(231,221,3)]) : /datum/tgui src=%5B0x2102404a%5D&action=loadout_confirm
+[2020-08-28 04:38:23.403] HREF: FoxyCode (usr:FoxyCode[(180,247,1)]) : _src_=prefs;preference=tab;tab=1
+[2020-08-28 04:38:30.084] HREF: FoxyCode (usr:FoxyCode[(180,247,1)]) : _src_=prefs;preference=tab;tab=2
+[2020-08-28 04:38:33.383] HREF: FoxyCode (usr:FoxyCode[(180,247,1)]) : _src_=prefs;preference=verb_consent
+[2020-08-28 04:38:34.658] HREF: FoxyCode (usr:FoxyCode[(180,247,1)]) : _src_=prefs;preference=save
+[2020-08-28 04:38:36.080] HREF: FoxyCode (usr:FoxyCode[(180,247,1)]) : _src_=prefs;preference=save
+[2020-08-28 04:38:40.684] HREF: FoxyCode (usr:FoxyCode[(180,247,1)]) : _src_=prefs;preference=tab;tab=0
+[2020-08-28 04:38:45.150] HREF: FoxyCode (usr:FoxyCode[(180,247,1)]) : /datum/preferences close=1
+[2020-08-28 04:38:52.378] HREF: FoxyCode (usr:FoxyCode[(180,247,1)]) : FoxyCode src=[mob_125];late_join=1
+[2020-08-28 04:38:59.579] HREF: FoxyCode (usr:FoxyCode[(180,247,1)]) : FoxyCode src=[mob_125];SelectedJob=NCR%20Corporal
+[2020-08-28 04:39:05.515] HREF: FoxyCode (usr:Skylar Judge[(31,219,2)]) : /datum/tgui src=%5B0x2106d15a%5D&action=tgui%3Ainitialize
+[2020-08-28 04:39:06.046] HREF: FoxyCode (usr:Skylar Judge[(31,219,2)]) : 
+[2020-08-28 04:39:07.573] HREF: FoxyCode (usr:Skylar Judge[(31,219,2)]) : /datum/tgui src=%5B0x2106d15a%5D&action=loadout_select&name=Field%20Medic
+[2020-08-28 04:39:08.176] HREF: Quakkerz (usr:Quakkerz[(180,247,1)]) : Quakkerz src=[mob_10];late_join=1
+[2020-08-28 04:39:10.226] HREF: FoxyCode (usr:Skylar Judge[(31,219,2)]) : /datum/tgui src=%5B0x2106d15a%5D&action=loadout_select&name=Field%20Medic
+[2020-08-28 04:39:12.140] HREF: FoxyCode (usr:Skylar Judge[(31,219,2)]) : /datum/tgui src=%5B0x2106d15a%5D&action=loadout_confirm
+[2020-08-28 04:40:07.117] HREF: Sqtay (usr:Sqtay[(180,247,1)]) : Sqtay src=[mob_12];SelectedJob=NCR%20Veteran%20Ranger
+[2020-08-28 04:40:12.025] HREF: Quakkerz (usr:Quakkerz[(180,247,1)]) : Quakkerz src=[mob_10];SelectedJob=NCR%20Veteran%20Ranger
+[2020-08-28 04:40:23.644] HREF: Sqtay (usr:Marco Mccullough[(105,59,2)]) : /datum/tgui src=%5B0x2106fa8b%5D&action=tgui%3Ainitialize
+[2020-08-28 04:40:23.755] HREF: Sqtay (usr:Marco Mccullough[(105,59,2)]) : 
+[2020-08-28 04:40:24.176] HREF: Quakkerz (usr:Quakkerz[(180,247,1)]) : Quakkerz src=[mob_10];SelectedJob=NCR%20Patrol%20Ranger
+[2020-08-28 04:40:37.519] HREF: Sqtay (usr:Marco Mccullough[(105,59,2)]) : /datum/tgui src=%5B0x2106fa8b%5D&action=loadout_select&name=Classic%20Veteran%20Ranger
+[2020-08-28 04:40:42.174] HREF: Sqtay (usr:Marco Mccullough[(105,59,2)]) : /datum/tgui src=%5B0x2106fa8b%5D&action=loadout_select&name=Light%20Veteran%20Ranger
+[2020-08-28 04:40:46.469] HREF: Sqtay (usr:Marco Mccullough[(105,59,2)]) : /datum/tgui src=%5B0x2106fa8b%5D&action=loadout_select&name=Brush%20Veteran%20Ranger
+[2020-08-28 04:40:51.522] HREF: Sqtay (usr:Marco Mccullough[(105,59,2)]) : /datum/tgui src=%5B0x2106fa8b%5D&action=loadout_select&name=Light%20Veteran%20Ranger
+[2020-08-28 04:40:54.687] HREF: Sqtay (usr:Marco Mccullough[(105,59,2)]) : /datum/tgui src=%5B0x2106fa8b%5D&action=loadout_confirm
+[2020-08-28 04:41:08.665] HREF: Ghostly98 (usr:Floyd Tin[(241,239,3)]) : ghostly98's admin datum (Host) src=[0x21000c95];admin_token=2810133071069851661746360498268377;create_object=1
+[2020-08-28 04:41:20.461] HREF: Ghostly98 (usr:Floyd Tin[(241,239,3)]) : ghostly98's admin datum (Host) src=%5B0x21000c95%5D%3Badmin_token%3D2810133071069851661746360498268377&admin_token=2810133071069851661746360498268377&filter=tool&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fobj%2Fitem%2Fstorage%2Ftoolbox%2Fmechanical%2Fold
+[2020-08-28 04:41:54.995] HREF: Ghostly98 (usr:Floyd Tin[(229,218,3)]) : The �S.U.P.E.R.P.A.C.M.A.N.-type portable generator src=[0x20063d2];action=enable
+[2020-08-28 04:43:36.171] HREF: Ghostly98 (usr:Floyd Tin[(212,224,3)]) : ghostly98's admin datum (Host) src=[0x21000c95];admin_token=2810133071069851661746360498268377;create_object=1
+[2020-08-28 04:43:46.456] HREF: Ghostly98 (usr:Floyd Tin[(212,224,3)]) : ghostly98's admin datum (Host) src=%5B0x21000c95%5D%3Badmin_token%3D2810133071069851661746360498268377&admin_token=2810133071069851661746360498268377&filter=stimpack&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fobj%2Fitem%2Freagent_containers%2Fhypospray%2Fmedipen%2Fstimpack
+[2020-08-28 04:43:54.100] HREF: Ghostly98 (usr:Floyd Tin[(213,224,3)]) : ghostly98's admin datum (Host) src=%5B0x21000c95%5D%3Badmin_token%3D2810133071069851661746360498268377&admin_token=2810133071069851661746360498268377&filter=stimpack&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fobj%2Fitem%2Freagent_containers%2Fhypospray%2Fmedipen%2Fstimpack%2Ftraitor
+[2020-08-28 04:44:43.686] HREF: Ghostly98 (usr:Floyd Tin[(213,224,3)]) : ghostly98's admin datum (Host) src=%5B0x21000c95%5D%3Badmin_token%3D2810133071069851661746360498268377&admin_token=2810133071069851661746360498268377&filter=medical&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fobj%2Feffect%2Fspawner%2Flootdrop%2Ff13%2Fmedical%2Fvault
+[2020-08-28 04:44:54.044] HREF: Ghostly98 (usr:Floyd Tin[(213,224,3)]) : ghostly98's admin datum (Host) src=%5B0x21000c95%5D%3Badmin_token%3D2810133071069851661746360498268377&admin_token=2810133071069851661746360498268377&filter=medical&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fobj%2Feffect%2Fspawner%2Flootdrop%2Ff13%2Fmedical%2Fvault
+[2020-08-28 04:44:56.484] HREF: Ghostly98 (usr:Floyd Tin[(212,224,3)]) : ghostly98's admin datum (Host) src=%5B0x21000c95%5D%3Badmin_token%3D2810133071069851661746360498268377&admin_token=2810133071069851661746360498268377&filter=medical&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fobj%2Feffect%2Fspawner%2Flootdrop%2Ff13%2Fmedical%2Fsurgical
+[2020-08-28 04:44:58.227] HREF: Ghostly98 (usr:Floyd Tin[(212,224,3)]) : ghostly98's admin datum (Host) src=%5B0x21000c95%5D%3Badmin_token%3D2810133071069851661746360498268377&admin_token=2810133071069851661746360498268377&filter=medical&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fobj%2Feffect%2Fspawner%2Flootdrop%2Ff13%2Fmedical%2Fsurgical
+[2020-08-28 04:45:00.771] HREF: Ghostly98 (usr:Floyd Tin[(212,224,3)]) : ghostly98's admin datum (Host) src=%5B0x21000c95%5D%3Badmin_token%3D2810133071069851661746360498268377&admin_token=2810133071069851661746360498268377&filter=medical&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fobj%2Feffect%2Fspawner%2Flootdrop%2Ff13%2Fmedical%2Fvault%2Fequipment
+[2020-08-28 04:45:06.604] HREF: Ghostly98 (usr:Floyd Tin[(213,224,3)]) : ghostly98's admin datum (Host) src=%5B0x21000c95%5D%3Badmin_token%3D2810133071069851661746360498268377&admin_token=2810133071069851661746360498268377&filter=medical&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fobj%2Feffect%2Fspawner%2Flootdrop%2Ff13%2Fmedical%2Fvault%2Fequipment
+[2020-08-28 04:45:09.214] HREF: Ghostly98 (usr:Floyd Tin[(214,224,3)]) : ghostly98's admin datum (Host) src=%5B0x21000c95%5D%3Badmin_token%3D2810133071069851661746360498268377&admin_token=2810133071069851661746360498268377&filter=medical&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fobj%2Feffect%2Fspawner%2Flootdrop%2Ff13%2Fmedical%2Fvault%2Fequipment
+[2020-08-28 04:45:13.522] HREF: Ghostly98 (usr:Floyd Tin[(213,224,3)]) : ghostly98's admin datum (Host) src=%5B0x21000c95%5D%3Badmin_token%3D2810133071069851661746360498268377&admin_token=2810133071069851661746360498268377&filter=medical&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fobj%2Feffect%2Fspawner%2Flootdrop%2Ff13%2Fmedical%2Fvault%2Fequipment
+[2020-08-28 04:45:17.827] HREF: Ghostly98 (usr:Floyd Tin[(211,224,3)]) : ghostly98's admin datum (Host) src=%5B0x21000c95%5D%3Badmin_token%3D2810133071069851661746360498268377&admin_token=2810133071069851661746360498268377&filter=medical&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fobj%2Feffect%2Fspawner%2Flootdrop%2Ff13%2Fmedical%2Fvault%2Fequipment
+[2020-08-28 04:45:24.004] HREF: Ghostly98 (usr:Floyd Tin[(210,224,3)]) : ghostly98's admin datum (Host) src=%5B0x21000c95%5D%3Badmin_token%3D2810133071069851661746360498268377&admin_token=2810133071069851661746360498268377&filter=medical&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fobj%2Feffect%2Fspawner%2Flootdrop%2Ff13%2Fmedical%2Fsurgical%2Fblood
+[2020-08-28 04:45:27.085] HREF: Ghostly98 (usr:Floyd Tin[(211,224,3)]) : ghostly98's admin datum (Host) src=%5B0x21000c95%5D%3Badmin_token%3D2810133071069851661746360498268377&admin_token=2810133071069851661746360498268377&filter=medical&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fobj%2Feffect%2Fspawner%2Flootdrop%2Ff13%2Fmedical%2Fsurgical
+[2020-08-28 04:45:32.477] HREF: Ghostly98 (usr:Floyd Tin[(212,224,3)]) : ghostly98's admin datum (Host) src=%5B0x21000c95%5D%3Badmin_token%3D2810133071069851661746360498268377&admin_token=2810133071069851661746360498268377&filter=medical&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fobj%2Feffect%2Fspawner%2Flootdrop%2Ff13%2Fmedical
+[2020-08-28 04:45:36.389] HREF: Ghostly98 (usr:Floyd Tin[(212,225,3)]) : ghostly98's admin datum (Host) src=%5B0x21000c95%5D%3Badmin_token%3D2810133071069851661746360498268377&admin_token=2810133071069851661746360498268377&filter=medical&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fobj%2Feffect%2Fspawner%2Flootdrop%2Ff13%2Fmedical
+[2020-08-28 04:45:39.412] HREF: Ghostly98 (usr:Floyd Tin[(213,225,3)]) : ghostly98's admin datum (Host) src=%5B0x21000c95%5D%3Badmin_token%3D2810133071069851661746360498268377&admin_token=2810133071069851661746360498268377&filter=medical&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fobj%2Feffect%2Fspawner%2Flootdrop%2Ff13%2Fmedical
+[2020-08-28 04:45:45.710] HREF: Ghostly98 (usr:Floyd Tin[(213,225,3)]) : ghostly98's admin datum (Host) src=%5B0x21000c95%5D%3Badmin_token%3D2810133071069851661746360498268377&admin_token=2810133071069851661746360498268377&filter=medical&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fobj%2Feffect%2Fspawner%2Flootdrop%2Ftechstorage%2Fmedical
+[2020-08-28 04:45:52.010] HREF: Quakkerz (usr:Braxton Hirleman[(104,64,2)]) : The paper src=[0x204e398];write=end
+[2020-08-28 04:46:36.993] HREF: Quakkerz (usr:Braxton Hirleman[(105,60,2)]) : The cardboard src=[0x2001e92];sublist=;make=7;multiplier=1
+[2020-08-28 04:47:23.251] HREF: Ghostly98 (usr:Floyd Tin[(9,4,1)]) : Brotherhood Base Lockdown override. src=[0x204b6c9];move=Bos7
+[2020-08-28 04:52:50.763] HREF: Sqtay (usr:Marco Mccullough[(107,70,2)]) : The microwave oven src=[0x20047a0];action=cook
+[2020-08-28 04:53:21.522] HREF: Sqtay (usr:Marco Mccullough[(107,70,2)]) : The microwave oven src=[0x20047a0];action=cook
+[2020-08-28 04:54:23.683] HREF: Alchololicblya (usr:Alchololicblya[(180,247,1)]) : _src_=chat&proc=setMusicVolume&param[volume]=41
+[2020-08-28 04:54:23.692] HREF: Alchololicblya (usr:Alchololicblya[(180,247,1)]) : _src_=chat&proc=doneLoading
+[2020-08-28 04:54:24.085] HREF: Alchololicblya (usr:Alchololicblya[(180,247,1)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"alchololicblya","ip":"37.29.88.99","compid":"2019527538"},{"ckey":"alchololicblya","ip":"37.29.88.225","compid":"2019527538"},{"ckey":"alchololicblya","ip":"85.26.241.240","compid":"2019527538"},{"ckey":"alchololicblya","ip":"37.29.88.57","compid":"2019527538"},{"ckey":"alchololicblya","ip":"37.29.88.52","compid":"2019527538"}]}
+[2020-08-28 04:54:24.090] HREF: Alchololicblya (usr:Alchololicblya[(180,247,1)]) : _src_=chat&proc=setMusicVolume&param[volume]=41
+[2020-08-28 04:54:37.929] HREF: Alchololicblya (usr:Alchololicblya[(180,247,1)]) : Alchololicblya src=[mob_936];show_preferences=1
+[2020-08-28 04:54:46.767] HREF: Alchololicblya (usr:Alchololicblya[(180,247,1)]) : _src_=prefs;preference=trait;task=menu
+[2020-08-28 04:55:22.807] HREF: Alchololicblya (usr:Alchololicblya[(180,247,1)]) : _src_=prefs;preference=trait;task=update;trait=Nyctophobia
+[2020-08-28 04:55:28.007] HREF: Alchololicblya (usr:Alchololicblya[(180,247,1)]) : _src_=prefs;preference=trait;task=update;trait=Social%20Anxiety
+[2020-08-28 04:55:35.419] HREF: Alchololicblya (usr:Alchololicblya[(180,247,1)]) : _src_=prefs;preference=trait;task=update;trait=Lifegiver
+[2020-08-28 04:55:46.805] HREF: Alchololicblya (usr:Alchololicblya[(180,247,1)]) : _src_=prefs;preference=trait;task=update;trait=Jolly
+[2020-08-28 04:55:49.724] HREF: Alchololicblya (usr:Alchololicblya[(180,247,1)]) : _src_=prefs;preference=trait;task=close
+[2020-08-28 04:55:52.317] HREF: Alchololicblya (usr:Alchololicblya[(180,247,1)]) : _src_=prefs;preference=age;task=input
+[2020-08-28 04:55:57.289] HREF: Alchololicblya (usr:Alchololicblya[(180,247,1)]) : _src_=prefs;preference=special;task=menu
+[2020-08-28 04:56:00.566] HREF: Alchololicblya (usr:Alchololicblya[(180,247,1)]) : _src_=prefs;preference=special_s;task=input
+[2020-08-28 04:56:08.324] HREF: Alchololicblya (usr:Alchololicblya[(180,247,1)]) : _src_=prefs;preference=special_l;task=input
+[2020-08-28 04:56:11.005] HREF: Alchololicblya (usr:Alchololicblya[(180,247,1)]) : _src_=prefs;preference=special_a;task=input
+[2020-08-28 04:56:20.164] HREF: Alchololicblya (usr:Alchololicblya[(180,247,1)]) : _src_=prefs;preference=special;task=close
+[2020-08-28 04:56:25.902] HREF: Alchololicblya (usr:Alchololicblya[(180,247,1)]) : _src_=prefs;preference=save
+[2020-08-28 04:56:28.262] HREF: Alchololicblya (usr:Alchololicblya[(180,247,1)]) : /datum/preferences close=1
+[2020-08-28 04:56:29.383] HREF: Alchololicblya (usr:Alchololicblya[(180,247,1)]) : Alchololicblya src=[mob_936];late_join=1
+[2020-08-28 04:56:48.893] HREF: Alchololicblya (usr:Alchololicblya[(180,247,1)]) : Alchololicblya src=[mob_936];SelectedJob=Wastelander
+[2020-08-28 04:56:55.061] HREF: Alchololicblya (usr:Morgan Rathen[(232,254,2)]) : /datum/tgui src=%5B0x2107ac80%5D&action=tgui%3Ainitialize
+[2020-08-28 04:56:55.275] HREF: Alchololicblya (usr:Morgan Rathen[(232,254,2)]) : 
+[2020-08-28 04:56:56.883] HREF: Alchololicblya (usr:Morgan Rathen[(232,254,2)]) : /datum/tgui src=%5B0x2107ac80%5D&action=loadout_select&name=Vaultie
+[2020-08-28 04:56:58.157] HREF: Alchololicblya (usr:Morgan Rathen[(232,254,2)]) : /datum/tgui src=%5B0x2107ac80%5D&action=loadout_select&name=Petro
+[2020-08-28 04:56:58.494] HREF: Alchololicblya (usr:Morgan Rathen[(232,254,2)]) : /datum/tgui src=%5B0x2107ac80%5D&action=loadout_select&name=Petro
+[2020-08-28 04:56:58.805] HREF: Alchololicblya (usr:Morgan Rathen[(232,254,2)]) : /datum/tgui src=%5B0x2107ac80%5D&action=loadout_select&name=Petro
+[2020-08-28 04:56:59.045] HREF: Alchololicblya (usr:Morgan Rathen[(232,254,2)]) : /datum/tgui src=%5B0x2107ac80%5D&action=loadout_select&name=Petro
+[2020-08-28 04:56:59.299] HREF: Alchololicblya (usr:Morgan Rathen[(232,254,2)]) : /datum/tgui src=%5B0x2107ac80%5D&action=loadout_select&name=Petro
+[2020-08-28 04:56:59.972] HREF: Alchololicblya (usr:Morgan Rathen[(232,254,2)]) : /datum/tgui src=%5B0x2107ac80%5D&action=loadout_select&name=Roving%20Trader
+[2020-08-28 04:57:00.603] HREF: Alchololicblya (usr:Morgan Rathen[(232,254,2)]) : /datum/tgui src=%5B0x2107ac80%5D&action=loadout_select&name=NCR%20Citizen
+[2020-08-28 04:57:00.796] HREF: Alchololicblya (usr:Morgan Rathen[(232,254,2)]) : /datum/tgui src=%5B0x2107ac80%5D&action=loadout_select&name=NCR%20Citizen
+[2020-08-28 04:57:11.690] HREF: Alchololicblya (usr:Morgan Rathen[(232,254,2)]) : /datum/tgui src=%5B0x2107ac80%5D&action=loadout_select&name=Roving%20Trader
+[2020-08-28 04:57:11.885] HREF: Alchololicblya (usr:Morgan Rathen[(232,254,2)]) : /datum/tgui src=%5B0x2107ac80%5D&action=loadout_select&name=Roving%20Trader
+[2020-08-28 04:57:12.116] HREF: Alchololicblya (usr:Morgan Rathen[(232,254,2)]) : /datum/tgui src=%5B0x2107ac80%5D&action=loadout_select&name=Roving%20Trader
+[2020-08-28 04:57:12.644] HREF: Alchololicblya (usr:Morgan Rathen[(232,254,2)]) : /datum/tgui src=%5B0x2107ac80%5D&action=loadout_select&name=Roving%20Trader
+[2020-08-28 04:57:13.007] HREF: Alchololicblya (usr:Morgan Rathen[(232,254,2)]) : /datum/tgui src=%5B0x2107ac80%5D&action=loadout_select&name=Roving%20Trader
+[2020-08-28 04:57:17.163] HREF: Alchololicblya (usr:Morgan Rathen[(232,254,2)]) : /datum/tgui src=%5B0x2107ac80%5D&action=loadout_confirm
+[2020-08-28 04:57:57.841] HREF: Alchololicblya (usr:Morgan Rathen[(233,251,2)]) : _src_=chat&proc=setMusicVolume&param[volume]=41
+[2020-08-28 04:57:57.844] HREF: Alchololicblya (usr:Morgan Rathen[(233,251,2)]) : _src_=chat&proc=doneLoading
+[2020-08-28 04:57:58.255] HREF: Alchololicblya (usr:Morgan Rathen[(233,249,2)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"alchololicblya","ip":"37.29.88.99","compid":"2019527538"},{"ckey":"alchololicblya","ip":"37.29.88.225","compid":"2019527538"},{"ckey":"alchololicblya","ip":"85.26.241.240","compid":"2019527538"},{"ckey":"alchololicblya","ip":"37.29.88.57","compid":"2019527538"},{"ckey":"alchololicblya","ip":"37.29.88.52","compid":"2019527538"}]}
+[2020-08-28 04:57:58.261] HREF: Alchololicblya (usr:Morgan Rathen[(233,249,2)]) : _src_=chat&proc=setMusicVolume&param[volume]=41
+[2020-08-28 04:59:45.441] HREF: KermitTheFroger (usr:KermitTheFroger[(180,247,1)]) : _src_=chat&proc=setMusicVolume&param[volume]=54
+[2020-08-28 04:59:45.450] HREF: KermitTheFroger (usr:KermitTheFroger[(180,247,1)]) : _src_=chat&proc=doneLoading
+[2020-08-28 04:59:45.576] HREF: KermitTheFroger (usr:KermitTheFroger[(180,247,1)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"kermitthefroger","ip":"23.121.249.124","compid":"1657603583"}]}
+[2020-08-28 04:59:45.578] HREF: KermitTheFroger (usr:KermitTheFroger[(180,247,1)]) : _src_=chat&proc=setMusicVolume&param[volume]=54
+[2020-08-28 04:59:46.843] HREF: KermitTheFroger (usr:KermitTheFroger[(180,247,1)]) : KermitTheFroger src=[mob_947];show_preferences=1
+[2020-08-28 04:59:52.804] HREF: KermitTheFroger (usr:KermitTheFroger[(180,247,1)]) : _src_=prefs;preference=cycle_bg;task=input
+[2020-08-28 04:59:54.916] HREF: KermitTheFroger (usr:KermitTheFroger[(180,247,1)]) : _src_=prefs;preference=cycle_bg;task=input
+[2020-08-28 04:59:56.854] HREF: KermitTheFroger (usr:KermitTheFroger[(180,247,1)]) : _src_=prefs;preference=cycle_bg;task=input
+[2020-08-28 04:59:58.831] HREF: KermitTheFroger (usr:KermitTheFroger[(180,247,1)]) : _src_=prefs;preference=cycle_bg;task=input
+[2020-08-28 05:00:08.282] HREF: KermitTheFroger (usr:KermitTheFroger[(180,247,1)]) : _src_=prefs;preference=sec_dept;task=input
+[2020-08-28 05:00:17.386] HREF: KermitTheFroger (usr:KermitTheFroger[(180,247,1)]) : _src_=prefs;preference=has_penis
+[2020-08-28 05:00:28.152] HREF: KermitTheFroger (usr:KermitTheFroger[(180,247,1)]) : _src_=prefs;preference=hair_style;task=input
+[2020-08-28 05:00:36.431] HREF: KermitTheFroger (usr:KermitTheFroger[(180,247,1)]) : _src_=prefs;preference=hair;task=input
+[2020-08-28 05:00:42.649] HREF: KermitTheFroger (usr:KermitTheFroger[(180,247,1)]) : _src_=prefs;preference=facial;task=input
+[2020-08-28 05:00:43.475] HREF: Sqtay (usr:Marco Mccullough[(86,46,2)]) : Untitled src=[0x21010c43];newsong=1
+[2020-08-28 05:00:47.048] HREF: Dathouse (usr:Dathouse[(180,247,1)]) : _src_=chat&proc=doneLoading
+[2020-08-28 05:00:47.282] HREF: Dathouse (usr:Dathouse[(180,247,1)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"dathouse","ip":"134.41.237.49","compid":"214298761"},{"ckey":"dathouse","ip":"134.41.237.49","compid":"2735978809"}]}
+[2020-08-28 05:00:53.391] HREF: KermitTheFroger (usr:KermitTheFroger[(180,247,1)]) : _src_=prefs;preference=uplink_loc;task=input
+[2020-08-28 05:00:56.621] HREF: KermitTheFroger (usr:KermitTheFroger[(180,247,1)]) : _src_=prefs;preference=save
+[2020-08-28 05:00:59.650] HREF: KermitTheFroger (usr:KermitTheFroger[(180,247,1)]) : _src_=prefs;preference=special;task=menu
+[2020-08-28 05:01:04.662] HREF: KermitTheFroger (usr:KermitTheFroger[(180,247,1)]) : _src_=prefs;preference=special_s;task=input
+[2020-08-28 05:01:06.958] HREF: KermitTheFroger (usr:KermitTheFroger[(180,247,1)]) : _src_=prefs;preference=special_i;task=input
+[2020-08-28 05:01:22.810] HREF: KermitTheFroger (usr:KermitTheFroger[(180,247,1)]) : _src_=prefs;preference=special_p;task=input
+[2020-08-28 05:01:27.521] HREF: KermitTheFroger (usr:KermitTheFroger[(180,247,1)]) : _src_=prefs;preference=special_c;task=input
+[2020-08-28 05:01:30.800] HREF: KermitTheFroger (usr:KermitTheFroger[(180,247,1)]) : _src_=prefs;preference=special_s;task=input
+[2020-08-28 05:01:36.878] HREF: KermitTheFroger (usr:KermitTheFroger[(180,247,1)]) : _src_=prefs;preference=special_e;task=input
+[2020-08-28 05:01:40.849] HREF: KermitTheFroger (usr:KermitTheFroger[(180,247,1)]) : _src_=prefs;preference=special_c;task=input
+[2020-08-28 05:01:46.809] HREF: KermitTheFroger (usr:KermitTheFroger[(180,247,1)]) : _src_=prefs;preference=special_l;task=input
+[2020-08-28 05:01:48.633] HREF: KermitTheFroger (usr:KermitTheFroger[(180,247,1)]) : _src_=prefs;preference=special_a;task=input
+[2020-08-28 05:01:52.942] HREF: KermitTheFroger (usr:KermitTheFroger[(180,247,1)]) : _src_=prefs;preference=special;task=close
+[2020-08-28 05:01:57.266] HREF: Dathouse (usr:Dathouse[(180,247,1)]) : Dathouse src=[mob_952];manifest=1
+[2020-08-28 05:01:58.933] HREF: KermitTheFroger (usr:KermitTheFroger[(180,247,1)]) : _src_=prefs;preference=trait;task=menu
+[2020-08-28 05:02:05.131] HREF: Dathouse (usr:Dathouse[(180,247,1)]) : _src_=prefs;preference=tab;tab=2
+[2020-08-28 05:02:06.050] HREF: KermitTheFroger (usr:KermitTheFroger[(180,247,1)]) : _src_=prefs;preference=trait;task=update;trait=Social%20Anxiety
+[2020-08-28 05:02:07.030] HREF: Dathouse (usr:Dathouse[(180,247,1)]) : _src_=prefs;preference=verb_consent
+[2020-08-28 05:02:08.273] HREF: Dathouse (usr:Dathouse[(180,247,1)]) : _src_=prefs;preference=save
+[2020-08-28 05:02:09.550] HREF: Dathouse (usr:Dathouse[(180,247,1)]) : /datum/preferences close=1
+[2020-08-28 05:02:11.001] HREF: Dathouse (usr:Dathouse[(180,247,1)]) : Dathouse src=[mob_952];ready=2
+[2020-08-28 05:02:32.419] HREF: KermitTheFroger (usr:KermitTheFroger[(180,247,1)]) : _src_=prefs;preference=trait;task=update;trait=Freerunning
+[2020-08-28 05:02:33.936] HREF: KermitTheFroger (usr:KermitTheFroger[(180,247,1)]) : _src_=prefs;preference=trait;task=close
+[2020-08-28 05:02:36.471] HREF: KermitTheFroger (usr:KermitTheFroger[(180,247,1)]) : _src_=prefs;preference=save
+[2020-08-28 05:02:37.941] HREF: KermitTheFroger (usr:KermitTheFroger[(180,247,1)]) : /datum/preferences close=1
+[2020-08-28 05:02:40.349] HREF: KermitTheFroger (usr:KermitTheFroger[(180,247,1)]) : KermitTheFroger src=[mob_947];late_join=1
+[2020-08-28 05:03:10.551] HREF: KermitTheFroger (usr:KermitTheFroger[(180,247,1)]) : KermitTheFroger src=[mob_947];SelectedJob=Cyborg
+[2020-08-28 05:04:33.328] HREF: KermitTheFroger (usr:Default Cyborg Name[(70,186,4)]) : /datum/tgui src=%5B0x2107b3d0%5D&action=tgui%3Ainitialize
+[2020-08-28 05:04:33.408] HREF: KermitTheFroger (usr:Default Cyborg Name[(70,186,4)]) : 
+[2020-08-28 05:04:37.761] HREF: KermitTheFroger (usr:Default Cyborg Name[(70,186,4)]) : /datum/tgui src=%5B0x2107b3d0%5D&action=PC_runprogram&name=compconfig
+[2020-08-28 05:04:38.077] HREF: KermitTheFroger (usr:Default Cyborg Name[(70,186,4)]) : /datum/tgui src=%5B0x2107b410%5D&action=tgui%3Ainitialize
+[2020-08-28 05:04:38.122] HREF: KermitTheFroger (usr:Default Cyborg Name[(70,186,4)]) : 
+[2020-08-28 05:04:44.105] HREF: KermitTheFroger (usr:Default Cyborg Name[(70,186,4)]) : /datum/tgui src=%5B0x2107b410%5D&action=PC_exit
+[2020-08-28 05:04:44.327] HREF: Sqtay (usr:Marco Mccullough[(47,45,2)]) : The slot machine src=[0x2004d5a];spin=1
+[2020-08-28 05:04:44.580] HREF: KermitTheFroger (usr:Default Cyborg Name[(70,186,4)]) : /datum/tgui src=%5B0x2107ad72%5D&action=tgui%3Ainitialize
+[2020-08-28 05:04:44.619] HREF: KermitTheFroger (usr:Default Cyborg Name[(70,186,4)]) : 
+[2020-08-28 05:04:50.605] HREF: KermitTheFroger (usr:Default Cyborg Name[(70,186,4)]) : /datum/tgui src=%5B0x2107ad72%5D&action=PC_runprogram&name=ntndownloader
+[2020-08-28 05:04:50.976] HREF: KermitTheFroger (usr:Default Cyborg Name[(70,186,4)]) : /datum/tgui src=%5B0x2107b41f%5D&action=tgui%3Ainitialize
+[2020-08-28 05:04:51.002] HREF: KermitTheFroger (usr:Default Cyborg Name[(70,186,4)]) : 
+[2020-08-28 05:04:51.517] HREF: Sqtay (usr:Marco Mccullough[(47,45,2)]) : The slot machine src=[0x2004d5a];refund=1
+[2020-08-28 05:04:54.280] HREF: Sqtay (usr:Marco Mccullough[(47,45,2)]) : The slot machine src=[0x2004d5a];spin=1
+[2020-08-28 05:04:56.207] HREF: KermitTheFroger (usr:Default Cyborg Name[(70,186,4)]) : /datum/tgui src=%5B0x2107b41f%5D&action=PRG_downloadfile&filename=cardmod
+[2020-08-28 05:05:09.903] HREF: KermitTheFroger (usr:Default Cyborg Name[(70,186,4)]) : /datum/tgui src=%5B0x2107b41f%5D&action=PC_shutdown
+[2020-08-28 05:05:10.233] HREF: KermitTheFroger (usr:Default Cyborg Name[(70,186,4)]) : src=%5B0x2107b447%5D&action=tgui%3Ainitialize
+[2020-08-28 05:05:10.252] HREF: KermitTheFroger (usr:Default Cyborg Name[(70,186,4)]) : 
+[2020-08-28 05:05:45.626] HREF: KermitTheFroger (usr:Default Cyborg Name[(20,182,4)]) : /datum/tgui src=%5B0x2101bf15%5D&action=tgui%3Ainitialize
+[2020-08-28 05:05:45.706] HREF: KermitTheFroger (usr:Default Cyborg Name[(20,182,4)]) : 
+[2020-08-28 05:06:51.996] HREF: KermitTheFroger (usr:Default Cyborg Name[(45,154,4)]) : /datum/tgui src=%5B0x210168f7%5D&action=tgui%3Ainitialize
+[2020-08-28 05:06:52.023] HREF: KermitTheFroger (usr:Default Cyborg Name[(45,154,4)]) : 
+[2020-08-28 05:06:54.007] HREF: KermitTheFroger (usr:Default Cyborg Name[(45,154,4)]) : /datum/tgui src=%5B0x210168f7%5D&action=broadcast
+[2020-08-28 05:07:21.677] HREF: Quakkerz (usr:Braxton Hirleman[(77,35,2)]) : The �Nuka-Cola vending machine src=[0x2005146];vend=[0x210118e6]
+[2020-08-28 05:07:37.126] HREF: KermitTheFroger (usr:Default Cyborg Name[(50,158,4)]) : /datum/tgui src=%5B0x210161f4%5D&action=tgui%3Ainitialize
+[2020-08-28 05:07:37.155] HREF: KermitTheFroger (usr:Default Cyborg Name[(50,158,4)]) : 
+[2020-08-28 05:07:37.803] HREF: KermitTheFroger (usr:Default Cyborg Name[(50,158,4)]) : /datum/tgui src=%5B0x21016af6%5D&action=tgui%3Ainitialize
+[2020-08-28 05:07:37.839] HREF: KermitTheFroger (usr:Default Cyborg Name[(50,158,4)]) : 
+[2020-08-28 05:07:42.836] HREF: KermitTheFroger (usr:Default Cyborg Name[(50,158,4)]) : /datum/tgui src=%5B0x210161f4%5D&action=bolt-drop
+[2020-08-28 05:07:44.819] HREF: KermitTheFroger (usr:Default Cyborg Name[(50,158,4)]) : /datum/tgui src=%5B0x210161f4%5D&action=bolt-raise
+[2020-08-28 05:07:49.957] HREF: KermitTheFroger (usr:Default Cyborg Name[(50,158,4)]) : /datum/tgui src=%5B0x210161f4%5D&action=shock-temp
+[2020-08-28 05:07:52.625] HREF: KermitTheFroger (usr:Default Cyborg Name[(50,158,4)]) : /datum/tgui src=%5B0x210161f4%5D&action=shock-perm
+[2020-08-28 05:07:53.607] HREF: KermitTheFroger (usr:Default Cyborg Name[(50,158,4)]) : /datum/tgui src=%5B0x210161f4%5D&action=disrupt-backup
+[2020-08-28 05:07:54.501] HREF: KermitTheFroger (usr:Default Cyborg Name[(50,158,4)]) : /datum/tgui src=%5B0x210161f4%5D&action=disrupt-main
+[2020-08-28 05:08:09.347] HREF: KermitTheFroger (usr:Default Cyborg Name[(63,161,4)]) : The desktop terminal src=[0x20083f1];choice=1
+[2020-08-28 05:08:14.643] HREF: KermitTheFroger (usr:Default Cyborg Name[(63,161,4)]) : The desktop terminal src=[0x20083f1];choice=Edit
+[2020-08-28 05:08:24.716] HREF: KermitTheFroger (usr:Default Cyborg Name[(63,161,4)]) : The desktop terminal src=[0x20083f1];choice=Return
+[2020-08-28 05:08:25.762] HREF: KermitTheFroger (usr:Default Cyborg Name[(63,161,4)]) : The desktop terminal src=[0x20083f1];choice=doc_1
+[2020-08-28 05:08:26.909] HREF: KermitTheFroger (usr:Default Cyborg Name[(63,161,4)]) : The desktop terminal src=[0x20083f1];choice=Return
+[2020-08-28 05:08:29.544] HREF: KermitTheFroger (usr:Default Cyborg Name[(63,160,4)]) : /datum/tgui src=%5B0x2107b1a0%5D&action=tgui%3Ainitialize
+[2020-08-28 05:08:29.571] HREF: KermitTheFroger (usr:Default Cyborg Name[(63,160,4)]) : 
+[2020-08-28 05:10:38.041] HREF: KermitTheFroger (usr:Default Cyborg Name[(62,177,4)]) : /datum/tgui src=%5B0x21015c89%5D&action=tgui%3Ainitialize
+[2020-08-28 05:10:38.068] HREF: KermitTheFroger (usr:Default Cyborg Name[(62,177,4)]) : 
+[2020-08-28 05:11:26.254] HREF: KermitTheFroger (usr:Default Cyborg Name[(79,179,4)]) : /datum/tgui src=%5B0x2101471e%5D&action=tgui%3Ainitialize
+[2020-08-28 05:11:26.280] HREF: KermitTheFroger (usr:Default Cyborg Name[(79,179,4)]) : 
+[2020-08-28 05:11:52.214] HREF: KermitTheFroger (usr:Default Cyborg Name[(72,191,4)]) : Nuclear Fission Reactor Control Unit src=[0x2007e6d];togglestatus=1
+[2020-08-28 05:11:57.596] HREF: KermitTheFroger (usr:Default Cyborg Name[(72,191,4)]) : Nuclear Fission Reactor Control Unit src=[0x2007e6d];refreshstability=1
+[2020-08-28 05:11:58.496] HREF: KermitTheFroger (usr:Default Cyborg Name[(72,191,4)]) : Nuclear Fission Reactor Control Unit src=[0x2007e6d];refreshstability=1
+[2020-08-28 05:11:59.825] HREF: KermitTheFroger (usr:Default Cyborg Name[(72,191,4)]) : Nuclear Fission Reactor Control Unit src=[0x2007e6d];refreshicons=1
+[2020-08-28 05:12:00.856] HREF: KermitTheFroger (usr:Default Cyborg Name[(72,191,4)]) : Nuclear Fission Reactor Control Unit src=[0x2007e6d];togglestatus=1
+[2020-08-28 05:12:12.454] HREF: KermitTheFroger (usr:Default Cyborg Name[(73,190,4)]) : /datum/tgui src=%5B0x21014863%5D&action=tgui%3Ainitialize
+[2020-08-28 05:12:12.485] HREF: KermitTheFroger (usr:Default Cyborg Name[(73,190,4)]) : 
+[2020-08-28 05:12:16.669] HREF: KermitTheFroger (usr:Default Cyborg Name[(71,190,4)]) : /datum/tgui src=%5B0x21015c77%5D&action=tgui%3Ainitialize
+[2020-08-28 05:12:16.699] HREF: KermitTheFroger (usr:Default Cyborg Name[(71,190,4)]) : 
+[2020-08-28 05:13:05.015] HREF: Dathouse (usr:Diamond Mathews[(67,31,2)]) : _src_=prefs;preference=tab;tab=0
+[2020-08-28 05:13:08.154] HREF: Dathouse (usr:Diamond Mathews[(67,31,2)]) : _src_=prefs;preference=special;task=menu
+[2020-08-28 05:13:13.289] HREF: Dathouse (usr:Diamond Mathews[(67,31,2)]) : _src_=prefs;preference=special_i;task=input
+[2020-08-28 05:13:17.134] HREF: Dathouse (usr:Diamond Mathews[(67,31,2)]) : _src_=prefs;preference=special_c;task=input
+[2020-08-28 05:13:20.558] HREF: Dathouse (usr:Diamond Mathews[(67,31,2)]) : _src_=prefs;preference=special_e;task=input
+[2020-08-28 05:13:23.788] HREF: Dathouse (usr:Diamond Mathews[(67,31,2)]) : _src_=prefs;preference=special_p;task=input
+[2020-08-28 05:13:26.577] HREF: Dathouse (usr:Diamond Mathews[(67,31,2)]) : _src_=prefs;preference=special_s;task=input
+[2020-08-28 05:13:29.639] HREF: Dathouse (usr:Diamond Mathews[(67,31,2)]) : _src_=prefs;preference=special_a;task=input
+[2020-08-28 05:13:31.702] HREF: Dathouse (usr:Diamond Mathews[(67,31,2)]) : _src_=prefs;preference=special_l;task=input
+[2020-08-28 05:13:36.842] HREF: Dathouse (usr:Diamond Mathews[(67,31,2)]) : _src_=prefs;preference=special_i;task=input
+[2020-08-28 05:13:40.994] HREF: Dathouse (usr:Diamond Mathews[(67,31,2)]) : _src_=prefs;preference=special_l;task=input
+[2020-08-28 05:13:41.558] HREF: KermitTheFroger (usr:Default Cyborg Name[(45,184,4)]) : /datum/tgui src=%5B0x2107b4e8%5D&action=tgui%3Ainitialize
+[2020-08-28 05:13:41.605] HREF: KermitTheFroger (usr:Default Cyborg Name[(45,184,4)]) : 
+[2020-08-28 05:13:43.232] HREF: Dathouse (usr:Diamond Mathews[(67,31,2)]) : _src_=prefs;preference=special;task=close
+[2020-08-28 05:13:47.621] HREF: Dathouse (usr:Diamond Mathews[(67,31,2)]) : _src_=prefs;preference=age;task=input
+[2020-08-28 05:13:50.265] HREF: Dathouse (usr:Diamond Mathews[(67,31,2)]) : _src_=prefs;preference=name;task=input
+[2020-08-28 05:13:59.661] HREF: Dathouse (usr:Diamond Mathews[(67,31,2)]) : _src_=prefs;preference=has_vagina
+[2020-08-28 05:14:01.733] HREF: Dathouse (usr:Diamond Mathews[(67,31,2)]) : _src_=prefs;preference=has_breasts
+[2020-08-28 05:14:03.290] HREF: Dathouse (usr:Diamond Mathews[(67,31,2)]) : _src_=prefs;preference=underwear;task=input
+[2020-08-28 05:14:06.171] HREF: Dathouse (usr:Diamond Mathews[(67,31,2)]) : _src_=prefs;preference=undershirt;task=input
+[2020-08-28 05:14:39.099] HREF: Dathouse (usr:Diamond Mathews[(67,31,2)]) : _src_=prefs;preference=eyes;task=input
+[2020-08-28 05:14:43.038] HREF: Dathouse (usr:Diamond Mathews[(67,31,2)]) : _src_=prefs;preference=s_tone;task=input
+[2020-08-28 05:14:45.900] HREF: Dathouse (usr:Diamond Mathews[(67,31,2)]) : _src_=prefs;preference=hair_style;task=input
+[2020-08-28 05:14:50.786] HREF: Dathouse (usr:Diamond Mathews[(67,31,2)]) : _src_=prefs;preference=hair;task=input
+[2020-08-28 05:15:01.301] HREF: Dathouse (usr:Diamond Mathews[(67,31,2)]) : _src_=prefs;preference=trait;task=menu
+[2020-08-28 05:15:11.809] HREF: Dathouse (usr:Diamond Mathews[(67,31,2)]) : _src_=prefs;preference=trait;task=close
+[2020-08-28 05:15:13.175] HREF: Dathouse (usr:Diamond Mathews[(67,31,2)]) : _src_=prefs;preference=job;task=menu
+[2020-08-28 05:15:42.001] HREF: Dathouse (usr:Diamond Mathews[(67,31,2)]) : _src_=prefs;preference=job;task=setJobLevel;level=3;text=Lead%20Practitioner
+[2020-08-28 05:15:42.599] HREF: Dathouse (usr:Diamond Mathews[(67,31,2)]) : _src_=prefs;preference=job;task=setJobLevel;level=2;text=Lead%20Practitioner
+[2020-08-28 05:15:43.452] HREF: Dathouse (usr:Diamond Mathews[(67,31,2)]) : _src_=prefs;preference=job;task=setJobLevel;level=1;text=Lead%20Practitioner
+[2020-08-28 05:16:25.265] HREF: Dathouse (usr:Diamond Mathews[(67,31,2)]) : _src_=prefs;preference=job;task=close
+[2020-08-28 05:16:27.285] HREF: Dathouse (usr:Diamond Mathews[(67,31,2)]) : _src_=prefs;preference=job;task=menu
+[2020-08-28 05:16:41.995] HREF: Dathouse (usr:Diamond Mathews[(67,31,2)]) : _src_=prefs;preference=job;task=close
+[2020-08-28 05:17:06.098] HREF: Dathouse (usr:Diamond Mathews[(67,31,2)]) : _src_=prefs;preference=save
+[2020-08-28 05:17:07.096] HREF: Dathouse (usr:Diamond Mathews[(67,31,2)]) : /datum/preferences close=1
+[2020-08-28 05:21:04.863] HREF: Quakkerz (usr:Braxton Hirleman[(46,47,2)]) : /datum/tgui src=%5B0x2107b780%5D&action=tgui%3Ainitialize
+[2020-08-28 05:21:05.046] HREF: Quakkerz (usr:Braxton Hirleman[(46,47,2)]) : 
+[2020-08-28 05:23:28.555] HREF: Quakkerz (usr:Braxton Hirleman[(45,47,2)]) : /datum/tgui src=%5B0x2107b7ee%5D&action=tgui%3Ainitialize
+[2020-08-28 05:23:29.639] HREF: Quakkerz (usr:Braxton Hirleman[(45,47,2)]) : 
+[2020-08-28 05:28:26.548] HREF: Alchololicblya (usr:Unknown[(160,42,2)]) : The �Med-Tek Health-Station src=[0x2004eb6];vend=[0x210111fa]
+[2020-08-28 07:15:50.013] HREF: Ghostly98 (usr:Floyd Tin[(126,46,3)]) : _src_=chat&proc=doneLoading
+[2020-08-28 07:15:50.072] HREF: Ghostly98 (usr:Floyd Tin[(126,46,3)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"ghostly98","ip":"127.0.0.1","compid":"1271285026"},{"ckey":"ghostly98","ip":"75.163.21.179","compid":"1271285026"},{"ckey":"ghostly98","ip":"24.62.253.225","compid":"1271285026"},{"ckey":"guest1271285026","ip":"127.0.0.1","compid":"1271285026"}]}

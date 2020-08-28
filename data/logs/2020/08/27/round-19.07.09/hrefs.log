@@ -1,0 +1,51 @@
+[2020-08-27 23:07:09.610] Starting up round ID .
+ - -------------------------
+[2020-08-27 23:07:13.095] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"ghostly98","ip":"127.0.0.1","compid":"1271285026"},{"ckey":"ghostly98","ip":"75.163.21.179","compid":"1271285026"},{"ckey":"ghostly98","ip":"24.62.253.225","compid":"1271285026"},{"ckey":"guest1271285026","ip":"127.0.0.1","compid":"1271285026"}]}
+[2020-08-27 23:07:45.696] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : Ghostly98 src=[mob_6];show_preferences=1
+[2020-08-27 23:07:47.288] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=job;task=menu
+[2020-08-27 23:07:51.746] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=4;text=Overseer
+[2020-08-27 23:07:52.822] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=1;text=Cyborg
+[2020-08-27 23:07:54.176] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=job;task=close
+[2020-08-27 23:08:00.422] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=save
+[2020-08-27 23:08:02.237] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=job;task=menu
+[2020-08-27 23:08:07.384] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=job;task=close
+[2020-08-27 23:08:09.579] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : /datum/preferences close=1
+[2020-08-27 23:08:10.594] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : Ghostly98 src=[mob_6];ready=1
+[2020-08-27 23:13:35.242] HREF: Ghostly98 (usr:Default Cyborg Name[(43,155,4)]) : /datum/tgui src=%5B0x2106f122%5D&action=tgui%3Ainitialize
+[2020-08-27 23:13:35.301] HREF: Ghostly98 (usr:Default Cyborg Name[(43,155,4)]) : 
+[2020-08-27 23:13:36.666] HREF: Ghostly98 (usr:Default Cyborg Name[(43,155,4)]) : /datum/tgui src=%5B0x2106f122%5D&action=open-close
+[2020-08-27 23:13:41.360] HREF: Ghostly98 (usr:Default Cyborg Name[(45,154,4)]) : /datum/tgui src=%5B0x2106f4f3%5D&action=tgui%3Ainitialize
+[2020-08-27 23:13:41.426] HREF: Ghostly98 (usr:Default Cyborg Name[(45,154,4)]) : 
+[2020-08-27 23:15:12.340] HREF: Ghostly98 (usr:the new player[(180,247,1)]) : The new player src=[mob_927];late_join=1
+[2020-08-27 23:15:21.305] HREF: Ghostly98 (usr:the new player[(180,247,1)]) : The new player src=[mob_927];SelectedJob=Mayor
+[2020-08-27 23:16:20.160] HREF: Ghostly98 (usr:Floyd Tin[(65,46,3)]) : The jukebox src=[0x200700c];action=select
+[2020-08-27 23:16:25.023] HREF: Ghostly98 (usr:Floyd Tin[(65,46,3)]) : The jukebox src=[0x200700c];action=toggle
+[2020-08-27 23:16:45.360] HREF: Ghostly98 (usr:Floyd Tin[(65,46,3)]) : The jukebox src=[0x200700c];action=toggle
+[2020-08-27 23:18:05.115] HREF: Ghostly98 (usr:Floyd Tin[(46,50,2)]) : The jukebox src=[0x2004ab9];action=select
+[2020-08-27 23:18:09.700] HREF: Ghostly98 (usr:Floyd Tin[(46,50,2)]) : The jukebox src=[0x2004ab9];action=toggle
+[2020-08-27 23:19:08.408] HREF: Ghostly98 (usr:Floyd Tin[(95,204,2)]) : ghostly98's admin datum (Host) src=[0x21000c94];admin_token=1838617820273668110100399810101074765;create_mob=1
+[2020-08-27 23:19:25.225] HREF: Ghostly98 (usr:Floyd Tin[(95,204,2)]) : ghostly98's admin datum (Host) src=%5B0x21000c94%5D%3Badmin_token%3D1838617820273668110100399810101074765&admin_token=1838617820273668110100399810101074765&filter=playable&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fmob%2Fliving%2Fsimple_animal%2Fhostile%2Fhandy%2Fprotectron%2Fplayable
+[2020-08-27 23:19:38.176] HREF: Ghostly98 (usr:Floyd Tin[(94,204,2)]) : _src_=vars;admin_token=1838617820273668110100399810101074765;datumedit=[mob_932];varnameedit=client
+[2020-08-27 23:19:45.783] HREF: Ghostly98 (usr:the protectron[(95,204,2)]) : _src_=vars;admin_token=1838617820273668110100399810101074765;datumrefresh=[mob_932]
+[2020-08-27 23:20:40.208] HREF: Ghostly98 (usr:the protectron[(94,63,2)]) : ghostly98's admin datum (Host) src=[0x21000c94];admin_token=1838617820273668110100399810101074765;create_mob=1
+[2020-08-27 23:20:57.864] HREF: Ghostly98 (usr:the protectron[(94,63,2)]) : ghostly98's admin datum (Host) src=%5B0x21000c94%5D%3Badmin_token%3D1838617820273668110100399810101074765&admin_token=1838617820273668110100399810101074765&filter=playable&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fmob%2Fliving%2Fsimple_animal%2Fpet%2Fdog%2Feyebot%2Fplayable
+[2020-08-27 23:21:13.782] HREF: Ghostly98 (usr:the protectron[(92,63,2)]) : _src_=vars;admin_token=1838617820273668110100399810101074765;direct_control=[mob_935]
+[2020-08-27 23:21:20.216] HREF: Ghostly98 (usr:the propaganda eyebot[(94,63,2)]) : _src_=vars;admin_token=1838617820273668110100399810101074765;godmode=[mob_935]
+[2020-08-27 23:22:14.368] HREF: Ghostly98 (usr:the propaganda eyebot[(120,85,2)]) : ghostly98's admin datum (Host) src=[0x21000c94];admin_token=1838617820273668110100399810101074765;create_object=1
+[2020-08-27 23:22:45.729] HREF: Ghostly98 (usr:the propaganda eyebot[(120,85,2)]) : ghostly98's admin datum (Host) src=%5B0x21000c94%5D%3Badmin_token%3D1838617820273668110100399810101074765&admin_token=1838617820273668110100399810101074765&filter=control&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fobj%2Fmachinery%2Fcomputer%2Fsat_control
+[2020-08-27 23:22:51.302] HREF: Ghostly98 (usr:the propaganda eyebot[(119,85,2)]) : /datum/tgui src=%5B0x21079ad5%5D&action=tgui%3Ainitialize
+[2020-08-27 23:22:51.319] HREF: Ghostly98 (usr:the propaganda eyebot[(119,85,2)]) : 
+[2020-08-27 23:23:00.144] HREF: Ghostly98 (usr:the propaganda eyebot[(119,85,2)]) : ghostly98's admin datum (Host) src=[0x21000c94];admin_token=1838617820273668110100399810101074765;create_object=1
+[2020-08-27 23:23:05.488] HREF: Ghostly98 (usr:the propaganda eyebot[(119,85,2)]) : ghostly98's admin datum (Host) src=%5B0x21000c94%5D%3Badmin_token%3D1838617820273668110100399810101074765&admin_token=1838617820273668110100399810101074765&filter=control&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor
+[2020-08-27 23:23:20.551] HREF: Ghostly98 (usr:the propaganda eyebot[(119,85,2)]) : ghostly98's admin datum (Host) src=%5B0x21000c94%5D%3Badmin_token%3D1838617820273668110100399810101074765&admin_token=1838617820273668110100399810101074765&filter=control&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fobj%2Fmachinery%2Fcomputer%2Fbsa_control
+[2020-08-27 23:23:24.751] HREF: Ghostly98 (usr:the propaganda eyebot[(119,84,2)]) : /datum/tgui src=%5B0x21079ae7%5D&action=tgui%3Ainitialize
+[2020-08-27 23:23:24.780] HREF: Ghostly98 (usr:the propaganda eyebot[(119,84,2)]) : 
+[2020-08-27 23:24:51.816] HREF: Ghostly98 (usr:the propaganda eyebot[(104,145,2)]) : The desktop terminal src=[0x2003528];choice=1
+[2020-08-27 23:25:18.063] HREF: Ghostly98 (usr:the propaganda eyebot[(101,232,2)]) : The elevator controls src=[0x204b41e];move=North_Level_1
+[2020-08-27 23:26:48.632] HREF: Ghostly98 (usr:the propaganda eyebot[(44,233,4)]) : The elevator controls src=[0x204b41e];move=North_Ground
+[2020-08-27 23:27:47.256] HREF: Ghostly98 (usr:the propaganda eyebot[(67,164,2)]) : ghostly98's admin datum (Host) src=[0x21000c94];admin_token=1838617820273668110100399810101074765;create_mob=1
+[2020-08-27 23:28:05.385] HREF: Ghostly98 (usr:the propaganda eyebot[(67,164,2)]) : ghostly98's admin datum (Host) src=%5B0x21000c94%5D%3Badmin_token%3D1838617820273668110100399810101074765&admin_token=1838617820273668110100399810101074765&filter=playable&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fmob%2Fliving%2Fsimple_animal%2Fhostile%2Fhandy%2Fplayable
+[2020-08-27 23:28:13.592] HREF: Ghostly98 (usr:the propaganda eyebot[(65,164,2)]) : _src_=vars;admin_token=1838617820273668110100399810101074765;datumedit=[mob_938];varnameedit=client
+[2020-08-27 23:36:42.217] HREF: Ghostly98 (usr:the mr. handy[(58,181,2)]) : _src_=chat&proc=doneLoading
+[2020-08-27 23:36:42.265] HREF: Ghostly98 (usr:the mr. handy[(58,181,2)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"ghostly98","ip":"127.0.0.1","compid":"1271285026"},{"ckey":"ghostly98","ip":"75.163.21.179","compid":"1271285026"},{"ckey":"ghostly98","ip":"24.62.253.225","compid":"1271285026"},{"ckey":"guest1271285026","ip":"127.0.0.1","compid":"1271285026"}]}
+[2020-08-27 23:39:20.056] HREF: Ghostly98 (usr:the mr. handy[(45,235,2)]) : The �Pure Patriot Treats src=[0x200217c];vend=[0x2100a59d]

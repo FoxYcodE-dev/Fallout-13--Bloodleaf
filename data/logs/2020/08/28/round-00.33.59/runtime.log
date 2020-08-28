@@ -1,0 +1,694 @@
+[2020-08-28 04:33:59.584] Starting up round ID .
+ - -------------------------
+[2020-08-28 04:33:59.586] Running /tg/ revision: 
+ - No commit information
+[2020-08-28 04:33:59.938] Ban database connection failure. Key sqtay not checked
+[2020-08-28 04:34:00.191] Ban database connection failure. Key ghostly98 not checked
+[2020-08-28 04:34:00.196] Ban database connection failure. Key foxycode not checked
+[2020-08-28 04:34:00.561] Initialized Database subsystem within 0 seconds!
+[2020-08-28 04:34:00.562] Initialized Blackbox subsystem within 0 seconds!
+[2020-08-28 04:34:00.564] Initialized Server Tasks subsystem within 0 seconds!
+[2020-08-28 04:34:00.565] Initialized Input subsystem within 0 seconds!
+[2020-08-28 04:34:00.575] runtime error: WARNING: Design ID clash with ID emitter detected!
+ - proc name: stack trace (/proc/stack_trace)
+ -   source file: unsorted.dm,1241
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - stack trace("WARNING: Design ID clash with ...")
+ - initialize all techweb designs(0)
+ - Research (/datum/controller/subsystem/research): Initialize(164405)
+ - Master (/datum/controller/master): Initialize(10, 0)
+ - 
+[2020-08-28 04:34:00.580] ## WARNING: Invalid research design with ID siege cannon detected in node Industrial Engineering[engineering] removed. in code/modules/research/techweb/__techweb_helpers.dm at line 94 src:  usr: .
+[2020-08-28 04:34:00.581] ## WARNING: Invalid research design with ID health_hud_night detected in node Night Vision Technology[NVGtech] removed. in code/modules/research/techweb/__techweb_helpers.dm at line 94 src:  usr: .
+[2020-08-28 04:34:00.582] ## WARNING: Invalid research design with ID security_hud_night detected in node Night Vision Technology[NVGtech] removed. in code/modules/research/techweb/__techweb_helpers.dm at line 94 src:  usr: .
+[2020-08-28 04:34:00.584] ## WARNING: Invalid research design with ID diagnostic_hud_night detected in node Night Vision Technology[NVGtech] removed. in code/modules/research/techweb/__techweb_helpers.dm at line 94 src:  usr: .
+[2020-08-28 04:34:00.585] ## WARNING: Invalid research design with ID night_visision_goggles detected in node Night Vision Technology[NVGtech] removed. in code/modules/research/techweb/__techweb_helpers.dm at line 94 src:  usr: .
+[2020-08-28 04:34:00.586] ## WARNING: Invalid research design with ID nvgmesons detected in node Night Vision Technology[NVGtech] removed. in code/modules/research/techweb/__techweb_helpers.dm at line 94 src:  usr: .
+[2020-08-28 04:34:00.587] ## WARNING: Invalid research design with ID ci-toolset detected in node Advanced Cybernetic Implants[adv_cyber_implants] removed. in code/modules/research/techweb/__techweb_helpers.dm at line 94 src:  usr: .
+[2020-08-28 04:34:00.588] ## WARNING: Invalid research design with ID ci-surgery detected in node Advanced Cybernetic Implants[adv_cyber_implants] removed. in code/modules/research/techweb/__techweb_helpers.dm at line 94 src:  usr: .
+[2020-08-28 04:34:00.589] ## WARNING: Invalid research design with ID ci-thermals detected in node Combat Cybernetic Implants[combat_cyber_implants] removed. in code/modules/research/techweb/__techweb_helpers.dm at line 94 src:  usr: .
+[2020-08-28 04:34:00.600] Initialized Research subsystem within 0.1 seconds!
+[2020-08-28 04:34:00.604] Initialized Events subsystem within 0 seconds!
+[2020-08-28 04:34:00.608] Initialized Jobs subsystem within 0 seconds!
+[2020-08-28 04:34:00.610] Initialized Quirks subsystem within 0 seconds!
+[2020-08-28 04:34:00.621] Initialized Ticker subsystem within 0 seconds!
+[2020-08-28 04:34:00.622] Loading Pahrump...
+[2020-08-28 04:34:01.081] Ban database connection failure. Key sqtay not checked
+[2020-08-28 04:34:01.591] Ban database connection failure. Key quakkerz not checked
+[2020-08-28 04:34:04.957] Ban database connection failure. Key guest1271285026 not checked
+[2020-08-28 04:34:04.960] Ban database connection failure. Key ghostly98 not checked
+[2020-08-28 04:34:04.961] Ban database connection failure. Key ghostly98 not checked
+[2020-08-28 04:34:04.963] Ban database connection failure. Key ghostly98 not checked
+[2020-08-28 04:34:05.471] Ban database connection failure. Key quakkerz not checked
+[2020-08-28 04:34:05.473] Ban database connection failure. Key quakkerz not checked
+[2020-08-28 04:34:05.475] Ban database connection failure. Key quakkerz not checked
+[2020-08-28 04:34:05.476] Ban database connection failure. Key quakkerz not checked
+[2020-08-28 04:34:05.478] Ban database connection failure. Key quakkerz not checked
+[2020-08-28 04:34:07.526] Ban database connection failure. Key sqtay not checked
+[2020-08-28 04:34:07.527] Ban database connection failure. Key sqtay not checked
+[2020-08-28 04:34:07.528] Ban database connection failure. Key sqtay not checked
+[2020-08-28 04:34:08.796] Ban database connection failure. Key foxycode not checked
+[2020-08-28 04:34:08.798] Ban database connection failure. Key foxycode not checked
+[2020-08-28 04:34:08.799] Ban database connection failure. Key foxycode not checked
+[2020-08-28 04:34:08.800] Ban database connection failure. Key foxycode not checked
+[2020-08-28 04:34:08.800] Ban database connection failure. Key foxycode not checked
+[2020-08-28 04:34:12.847] Ban database connection failure. Key foxycode not checked
+[2020-08-28 04:34:17.445] Loaded Wasteland in 16.8s!
+[2020-08-28 04:34:21.433] Loaded Dungeons in 4s!
+[2020-08-28 04:34:21.822] Ruin loader finished with 0 left to spend.
+[2020-08-28 04:34:22.326] Ban database connection failure. Key foxycode not checked
+[2020-08-28 04:34:22.329] Ban database connection failure. Key foxycode not checked
+[2020-08-28 04:34:22.330] Ban database connection failure. Key foxycode not checked
+[2020-08-28 04:34:22.332] Ban database connection failure. Key foxycode not checked
+[2020-08-28 04:34:22.332] Ban database connection failure. Key foxycode not checked
+[2020-08-28 04:34:27.592] Initialized Mapping subsystem within 26.9 seconds!
+[2020-08-28 04:34:27.594] Initialized Networks subsystem within 0 seconds!
+[2020-08-28 04:34:56.481] Initialized Atoms subsystem within 28.9 seconds!
+[2020-08-28 04:34:56.495] Initialized Language subsystem within 0 seconds!
+[2020-08-28 04:34:56.516] Initialized Machines subsystem within 0.1 seconds!
+[2020-08-28 04:34:56.554] Initialized Circuit subsystem within 0 seconds!
+[2020-08-28 04:34:56.556] Initialized Disease subsystem within 0 seconds!
+[2020-08-28 04:34:56.557] Initialized Item Spawners subsystem within 0 seconds!
+[2020-08-28 04:34:56.559] Initialized Medals subsystem within 0 seconds!
+[2020-08-28 04:34:56.561] Initialized Mob Spawners subsystem within 0 seconds!
+[2020-08-28 04:34:56.562] Initialized Radiation subsystem within 0 seconds!
+[2020-08-28 04:34:56.563] Initialized Day/Night Cycle subsystem within 0 seconds!
+[2020-08-28 04:34:56.564] Initialized Night Shift subsystem within 0 seconds!
+[2020-08-28 04:34:56.565] Initialized Parallax subsystem within 0 seconds!
+[2020-08-28 04:34:58.572] Initialized Bot Comms subsystem within 2 seconds!
+[2020-08-28 04:34:58.669] Initialized Traumas subsystem within 0.1 seconds!
+[2020-08-28 04:34:58.671] Initialized Weather subsystem within 0 seconds!
+[2020-08-28 04:35:02.491] ## WARNING: There are 6 active turfs at roundstart, this is a mapping error caused by a difference of the air between the adjacent turfs. You can see its coordinates using "Mapping -> Show roundstart AT list" verb (debug verbs required)
+[2020-08-28 04:35:02.495] ## WARNING: HEY! LISTEN! 0 seconds were wasted processing 6 turf(s) (connected to 14 other turfs) with atmos differences at round start.
+[2020-08-28 04:35:02.501] ## WARNING: build_pipeline(): /obj/machinery/atmospherics/pipe/simple/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (128, 85, 1)
+[2020-08-28 04:35:02.502] ## WARNING: build_pipeline(): /obj/machinery/atmospherics/pipe/manifold/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (129, 85, 1)
+[2020-08-28 04:35:02.504] ## WARNING: build_pipeline(): /obj/machinery/atmospherics/pipe/simple/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (127, 85, 1)
+[2020-08-28 04:35:02.505] ## WARNING: build_pipeline(): /obj/machinery/atmospherics/pipe/simple/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (129, 86, 1)
+[2020-08-28 04:35:02.506] ## WARNING: build_pipeline(): /obj/machinery/atmospherics/pipe/simple/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (130, 85, 1)
+[2020-08-28 04:35:02.507] ## WARNING: build_pipeline(): /obj/machinery/atmospherics/pipe/simple/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (126, 85, 1)
+[2020-08-28 04:35:02.508] ## WARNING: build_pipeline(): /obj/machinery/atmospherics/pipe/simple/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (129, 87, 1)
+[2020-08-28 04:35:02.509] ## WARNING: build_pipeline(): /obj/machinery/atmospherics/pipe/simple/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (131, 85, 1)
+[2020-08-28 04:35:02.511] ## WARNING: build_pipeline(): /obj/machinery/atmospherics/pipe/manifold/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (125, 85, 1)
+[2020-08-28 04:35:02.511] ## WARNING: build_pipeline(): /obj/machinery/atmospherics/pipe/simple/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (129, 88, 1)
+[2020-08-28 04:35:02.513] ## WARNING: build_pipeline(): further messages about pipenets will be supressed
+[2020-08-28 04:35:02.516] Initialized Atmospherics subsystem within 3.9 seconds!
+[2020-08-28 04:35:05.882] runtime error: duplicate sprite "emitter" in sheet design (/datum/asset/spritesheet/research_designs)
+ - proc name: Insert (/datum/asset/spritesheet/proc/Insert)
+ -   source file: asset_cache.dm,295
+ -   usr: null
+ -   src: design (/datum/asset/spritesheet/research_designs)
+ -   call stack:
+ - design (/datum/asset/spritesheet/research_designs): Insert("emitter", /icon (/icon), "", 2, 1, 0)
+ - design (/datum/asset/spritesheet/research_designs): register()
+ - design (/datum/asset/spritesheet/research_designs): New()
+ - get asset datum(/datum/asset/spritesheet/resea... (/datum/asset/spritesheet/research_designs))
+ - Assets (/datum/controller/subsystem/assets): Initialize(165025)
+ - Master (/datum/controller/master): Initialize(10, 0)
+ - 
+[2020-08-28 04:35:06.715] Initialized Assets subsystem within 4.2 seconds!
+[2020-08-28 04:35:06.735] runtime error: No valid destination passed into forceMove
+ - proc name: forceMove (/atom/movable/proc/forceMove)
+ -   source file: atoms_movable.dm,354
+ -   usr: null
+ -   src: the match (/obj/item/match)
+ -   src.loc: the matchbox (/obj/item/storage/box/matches)
+ -   call stack:
+ - the match (/obj/item/match): forceMove(null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete):  insert physical item(the match (/obj/item/match), 0)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): handle item insertion(the match (/obj/item/match), 1, null, null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): signal fill type(/obj/item/match (/obj/item/match), 10, 0)
+ - /datum/callback (/datum/callback): InvokeAsync(/obj/item/match (/obj/item/match))
+ - 
+[2020-08-28 04:35:06.746] runtime error: No valid destination passed into forceMove
+ - proc name: forceMove (/atom/movable/proc/forceMove)
+ -   source file: atoms_movable.dm,354
+ -   usr: null
+ -   src: the match (/obj/item/match)
+ -   src.loc: the matchbox (/obj/item/storage/box/matches)
+ -   call stack:
+ - the match (/obj/item/match): forceMove(null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete):  insert physical item(the match (/obj/item/match), 0)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): handle item insertion(the match (/obj/item/match), 1, null, null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): signal fill type(/obj/item/match (/obj/item/match), 10, 0)
+ - /datum/callback (/datum/callback): InvokeAsync(/obj/item/match (/obj/item/match))
+ - 
+[2020-08-28 04:35:06.758] runtime error: No valid destination passed into forceMove
+ - proc name: forceMove (/atom/movable/proc/forceMove)
+ -   source file: atoms_movable.dm,354
+ -   usr: null
+ -   src: the match (/obj/item/match)
+ -   src.loc: the matchbox (/obj/item/storage/box/matches)
+ -   call stack:
+ - the match (/obj/item/match): forceMove(null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete):  insert physical item(the match (/obj/item/match), 0)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): handle item insertion(the match (/obj/item/match), 1, null, null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): signal fill type(/obj/item/match (/obj/item/match), 10, 0)
+ - /datum/callback (/datum/callback): InvokeAsync(/obj/item/match (/obj/item/match))
+ - 
+[2020-08-28 04:35:06.777] runtime error: No valid destination passed into forceMove
+ - proc name: forceMove (/atom/movable/proc/forceMove)
+ -   source file: atoms_movable.dm,354
+ -   usr: null
+ -   src: the match (/obj/item/match)
+ -   src.loc: the matchbox (/obj/item/storage/box/matches)
+ -   call stack:
+ - the match (/obj/item/match): forceMove(null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete):  insert physical item(the match (/obj/item/match), 0)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): handle item insertion(the match (/obj/item/match), 1, null, null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): signal fill type(/obj/item/match (/obj/item/match), 10, 0)
+ - /datum/callback (/datum/callback): InvokeAsync(/obj/item/match (/obj/item/match))
+ - 
+[2020-08-28 04:35:06.787] runtime error: No valid destination passed into forceMove
+ - proc name: forceMove (/atom/movable/proc/forceMove)
+ -   source file: atoms_movable.dm,354
+ -   usr: null
+ -   src: the match (/obj/item/match)
+ -   src.loc: the matchbox (/obj/item/storage/box/matches)
+ -   call stack:
+ - the match (/obj/item/match): forceMove(null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete):  insert physical item(the match (/obj/item/match), 0)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): handle item insertion(the match (/obj/item/match), 1, null, null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): signal fill type(/obj/item/match (/obj/item/match), 10, 0)
+ - /datum/callback (/datum/callback): InvokeAsync(/obj/item/match (/obj/item/match))
+ - 
+[2020-08-28 04:35:06.801] runtime error: No valid destination passed into forceMove
+ - proc name: forceMove (/atom/movable/proc/forceMove)
+ -   source file: atoms_movable.dm,354
+ -   usr: null
+ -   src: the match (/obj/item/match)
+ -   src.loc: the matchbox (/obj/item/storage/box/matches)
+ -   call stack:
+ - the match (/obj/item/match): forceMove(null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete):  insert physical item(the match (/obj/item/match), 0)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): handle item insertion(the match (/obj/item/match), 1, null, null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): signal fill type(/obj/item/match (/obj/item/match), 10, 0)
+ - /datum/callback (/datum/callback): InvokeAsync(/obj/item/match (/obj/item/match))
+ - 
+[2020-08-28 04:35:06.811] runtime error: No valid destination passed into forceMove
+ - proc name: forceMove (/atom/movable/proc/forceMove)
+ -   source file: atoms_movable.dm,354
+ -   usr: null
+ -   src: the match (/obj/item/match)
+ -   src.loc: the matchbox (/obj/item/storage/box/matches)
+ -   call stack:
+ - the match (/obj/item/match): forceMove(null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete):  insert physical item(the match (/obj/item/match), 0)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): handle item insertion(the match (/obj/item/match), 1, null, null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): signal fill type(/obj/item/match (/obj/item/match), 10, 0)
+ - /datum/callback (/datum/callback): InvokeAsync(/obj/item/match (/obj/item/match))
+ - 
+[2020-08-28 04:35:06.824] runtime error: No valid destination passed into forceMove
+ - proc name: forceMove (/atom/movable/proc/forceMove)
+ -   source file: atoms_movable.dm,354
+ -   usr: null
+ -   src: the match (/obj/item/match)
+ -   src.loc: the matchbox (/obj/item/storage/box/matches)
+ -   call stack:
+ - the match (/obj/item/match): forceMove(null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete):  insert physical item(the match (/obj/item/match), 0)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): handle item insertion(the match (/obj/item/match), 1, null, null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): signal fill type(/obj/item/match (/obj/item/match), 10, 0)
+ - /datum/callback (/datum/callback): InvokeAsync(/obj/item/match (/obj/item/match))
+ - 
+[2020-08-28 04:35:06.837] runtime error: No valid destination passed into forceMove
+ - proc name: forceMove (/atom/movable/proc/forceMove)
+ -   source file: atoms_movable.dm,354
+ -   usr: null
+ -   src: the match (/obj/item/match)
+ -   src.loc: the matchbox (/obj/item/storage/box/matches)
+ -   call stack:
+ - the match (/obj/item/match): forceMove(null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete):  insert physical item(the match (/obj/item/match), 0)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): handle item insertion(the match (/obj/item/match), 1, null, null)
+ - /datum/component/storage/concr... (/datum/component/storage/concrete): signal fill type(/obj/item/match (/obj/item/match), 10, 0)
+ - /datum/callback (/datum/callback): InvokeAsync(/obj/item/match (/obj/item/match))
+ - 
+[2020-08-28 04:35:12.286] Initialized Icon Smoothing subsystem within 5.4 seconds!
+[2020-08-28 04:35:13.226] Initialized Overlay subsystem within 1 second!
+[2020-08-28 04:35:13.227] Initialized XKeyScore subsystem within 0 seconds!
+[2020-08-28 04:35:13.229] Initialized Sticky Ban subsystem within 0 seconds!
+[2020-08-28 04:35:22.094] Initialized Lighting subsystem within 8.8 seconds!
+[2020-08-28 04:35:23.235] Initialized Shuttle subsystem within 1.2 seconds!
+[2020-08-28 04:35:23.238] Initialized Squeak subsystem within 0 seconds!
+[2020-08-28 04:35:23.241] Initialized Pathfinder subsystem within 0 seconds!
+[2020-08-28 04:35:23.278] Loaded 1 engraved messages on map Pahrump
+[2020-08-28 04:35:23.280] Initialized Persistence subsystem within 0 seconds!
+[2020-08-28 04:35:23.281] Initializations complete within 82.7 seconds!
+[2020-08-28 04:35:33.343] runtime error: bad resource file
+ - proc name: send asset (/proc/send_asset)
+ -   source file: asset_cache.dm,53
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - send asset(Ghostly98 (/client), "objitem.png", 0, null)
+ - getFilesSlow(Ghostly98 (/client), /list (/list), 0)
+ - /datum/callback (/datum/callback): InvokeAsync()
+ - 
+[2020-08-28 04:35:44.244] runtime error: bad resource file
+ - proc name: send asset (/proc/send_asset)
+ -   source file: asset_cache.dm,53
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - send asset(FoxyCode (/client), "objitem.png", 0, null)
+ - getFilesSlow(FoxyCode (/client), /list (/list), 0)
+ - /datum/callback (/datum/callback): InvokeAsync()
+ - 
+[2020-08-28 04:35:51.142] runtime error: bad resource file
+ - proc name: send asset (/proc/send_asset)
+ -   source file: asset_cache.dm,53
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - send asset(Quakkerz (/client), "objitem.png", 0, null)
+ - getFilesSlow(Quakkerz (/client), /list (/list), 0)
+ - /datum/callback (/datum/callback): InvokeAsync()
+ - 
+[2020-08-28 04:35:51.148] runtime error: bad resource file
+ - proc name: send asset (/proc/send_asset)
+ -   source file: asset_cache.dm,53
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - send asset(Sqtay (/client), "objitem.png", 0, null)
+ - getFilesSlow(Sqtay (/client), /list (/list), 0)
+ - /datum/callback (/datum/callback): InvokeAsync()
+ - 
+[2020-08-28 04:37:30.356] Game start took 0.7s
+[2020-08-28 04:38:02.317] runtime error: The grille taking damage after deletion
+ - proc name: stack trace (/datum/proc/stack_trace)
+ -   source file: unsorted.dm,1244
+ -   usr: null
+ -   src: the grille (/obj/structure/grille)
+ -   src.loc: null
+ -   call stack:
+ - the grille (/obj/structure/grille): stack trace("The grille taking damage after...")
+ - the grille (/obj/structure/grille): take damage(6, "brute", "melee", 1, null, 0)
+ - the grille (/obj/structure/grille): take damage(6, "brute", "melee", 1, null)
+ - the grille (/obj/structure/grille): attack animal(the giant radscorpion (/mob/living/simple_animal/hostile/radscorpion))
+ - the giant radscorpion (/mob/living/simple_animal/hostile/radscorpion): DestroyObjectsInDirection(1)
+ - the giant radscorpion (/mob/living/simple_animal/hostile/radscorpion): DestroyPathToTarget()
+ - the giant radscorpion (/mob/living/simple_animal/hostile/radscorpion): handle automated action()
+ - NPC Pool (/datum/controller/subsystem/npcpool): fire(0)
+ - NPC Pool (/datum/controller/subsystem/npcpool): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2020-08-28 04:39:10.242] runtime error: bad index
+ - proc name: ui data (/datum/component/loadout_selector/ui_data)
+ -   source file: loadout_ingame.dm,139
+ -   usr: Skylar Judge (/mob/living/carbon/human)
+ -   src: /datum/component/loadout_selec... (/datum/component/loadout_selector)
+ -   usr.loc: sidewalk (31,219,2) (/turf/open/indestructible/ground/outside/sidewalk)
+ -   call stack:
+ - /datum/component/loadout_selec... (/datum/component/loadout_selector): ui data(Skylar Judge (/mob/living/carbon/human))
+ - tgui (/datum/controller/subsystem/tgui): try update ui(Skylar Judge (/mob/living/carbon/human), /datum/component/loadout_selec... (/datum/component/loadout_selector), "loadout_select", /datum/tgui (/datum/tgui), 0)
+ - /datum/component/loadout_selec... (/datum/component/loadout_selector): ui interact(Skylar Judge (/mob/living/carbon/human), "loadout_select", /datum/tgui (/datum/tgui), 0, null, /datum/ui_state/default (/datum/ui_state/default))
+ - /datum/tgui (/datum/tgui): update(0)
+ - /datum/tgui (/datum/tgui): process(1)
+ - tgui (/datum/controller/subsystem/tgui): update uis(/datum/component/loadout_selec... (/datum/component/loadout_selector))
+ - /datum/tgui (/datum/tgui): Topic("src=%5B0x2106d15a%5D&action=lo...", /list (/list))
+ - FoxyCode (/client): Topic("src=%5B0x2106d15a%5D&action=lo...", /list (/list), /datum/tgui (/datum/tgui))
+ - FoxyCode (/client): Topic("src=%5B0x2106d15a%5D&action=lo...", /list (/list), /datum/tgui (/datum/tgui))
+ - 
+[2020-08-28 04:44:44.771] Ban database connection failure. Key alchololicblya not checked
+[2020-08-28 04:53:04.812] Ban database connection failure. Key dathouse not checked
+[2020-08-28 04:53:31.586] runtime error: Cannot create objects of type null.
+ - proc name: break wall (/turf/closed/wall/proc/break_wall)
+ -   source file: walls.dm,73
+ -   usr: Marco Mccullough (/mob/living/carbon/human)
+ -   src: the wooden wall (105,70,2) (/turf/closed/wall/f13/wood)
+ -   usr.loc: the carpet (110,70,2) (/turf/open/floor/carpet/black)
+ -   call stack:
+ - the wooden wall (105,70,2) (/turf/closed/wall/f13/wood): break wall()
+ - the wooden wall (105,70,2) (/turf/closed/wall/f13/wood): dismantle wall(0, 1)
+ - the wooden wall (105,70,2) (/turf/closed/wall/f13/wood): ex act(3, null)
+ - /datum/explosion (/datum/explosion): New(the plating (106,71,2) (/turf/open/floor/plating), 0, 1, 2, null, 0, 1, 0, 0, 0, 0)
+ - 
+[2020-08-28 04:53:31.597] runtime error: Cannot create objects of type null.
+ - proc name: break wall (/turf/closed/wall/proc/break_wall)
+ -   source file: walls.dm,73
+ -   usr: Marco Mccullough (/mob/living/carbon/human)
+ -   src: the wooden wall (105,71,2) (/turf/closed/wall/f13/wood)
+ -   usr.loc: the carpet (110,70,2) (/turf/open/floor/carpet/black)
+ -   call stack:
+ - the wooden wall (105,71,2) (/turf/closed/wall/f13/wood): break wall()
+ - the wooden wall (105,71,2) (/turf/closed/wall/f13/wood): dismantle wall(0, 1)
+ - the wooden wall (105,71,2) (/turf/closed/wall/f13/wood): ex act(3, null)
+ - /datum/explosion (/datum/explosion): New(the plating (106,71,2) (/turf/open/floor/plating), 0, 1, 2, null, 0, 1, 0, 0, 0, 0)
+ - 
+[2020-08-28 04:54:24.085] Ban database connection failure. Key alchololicblya not checked
+[2020-08-28 04:54:24.086] Ban database connection failure. Key alchololicblya not checked
+[2020-08-28 04:54:24.087] Ban database connection failure. Key alchololicblya not checked
+[2020-08-28 04:54:24.088] Ban database connection failure. Key alchololicblya not checked
+[2020-08-28 04:54:24.089] Ban database connection failure. Key alchololicblya not checked
+[2020-08-28 04:54:47.523] runtime error: bad resource file
+ - proc name: send asset (/proc/send_asset)
+ -   source file: asset_cache.dm,53
+ - 
+[2020-08-28 04:56:58.498] runtime error: bad index
+ - proc name: ui data (/datum/component/loadout_selector/ui_data)
+ -   source file: loadout_ingame.dm,139
+ - 
+[2020-08-28 04:56:58.810] runtime error: bad index
+ - proc name: ui data (/datum/component/loadout_selector/ui_data)
+ -   source file: loadout_ingame.dm,139
+ - 
+[2020-08-28 04:56:59.049] runtime error: bad index
+ - proc name: ui data (/datum/component/loadout_selector/ui_data)
+ -   source file: loadout_ingame.dm,139
+ - 
+[2020-08-28 04:56:59.307] runtime error: bad index
+ - proc name: ui data (/datum/component/loadout_selector/ui_data)
+ -   source file: loadout_ingame.dm,139
+ - 
+[2020-08-28 04:57:00.799] runtime error: bad index
+ - proc name: ui data (/datum/component/loadout_selector/ui_data)
+ -   source file: loadout_ingame.dm,139
+ - 
+[2020-08-28 04:57:11.892] runtime error: bad index
+ - proc name: ui data (/datum/component/loadout_selector/ui_data)
+ -   source file: loadout_ingame.dm,139
+ - 
+[2020-08-28 04:57:12.120] runtime error: bad index
+ - proc name: ui data (/datum/component/loadout_selector/ui_data)
+ -   source file: loadout_ingame.dm,139
+ - 
+[2020-08-28 04:57:12.648] runtime error: bad index
+ - proc name: ui data (/datum/component/loadout_selector/ui_data)
+ -   source file: loadout_ingame.dm,139
+ - 
+[2020-08-28 04:57:13.011] runtime error: bad index
+ - proc name: ui data (/datum/component/loadout_selector/ui_data)
+ -   source file: loadout_ingame.dm,139
+ - 
+[2020-08-28 04:57:35.813] Ban database connection failure. Key kermitthefroger not checked
+[2020-08-28 04:57:41.085] Ban database connection failure. Key alchololicblya not checked
+[2020-08-28 04:57:58.255] Ban database connection failure. Key alchololicblya not checked
+[2020-08-28 04:57:58.256] Ban database connection failure. Key alchololicblya not checked
+[2020-08-28 04:57:58.258] Ban database connection failure. Key alchololicblya not checked
+[2020-08-28 04:57:58.259] Ban database connection failure. Key alchololicblya not checked
+[2020-08-28 04:57:58.260] Ban database connection failure. Key alchololicblya not checked
+[2020-08-28 04:58:29.291] runtime error: bad resource file
+ - proc name: send asset (/proc/send_asset)
+ -   source file: asset_cache.dm,53
+ - 
+[2020-08-28 04:59:45.576] Ban database connection failure. Key kermitthefroger not checked
+[2020-08-28 04:59:48.071] Ban database connection failure. Key dathouse not checked
+[2020-08-28 04:59:56.398] runtime error: bad resource file
+ - proc name: send asset (/proc/send_asset)
+ -   source file: asset_cache.dm,53
+ - 
+[2020-08-28 05:00:47.282] Ban database connection failure. Key dathouse not checked
+[2020-08-28 05:00:47.284] Ban database connection failure. Key dathouse not checked
+[2020-08-28 05:00:59.348] runtime error: bad resource file
+ - proc name: send asset (/proc/send_asset)
+ -   source file: asset_cache.dm,53
+ - 
+[2020-08-28 05:27:04.270] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:27:04.456] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:27:04.666] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:27:06.692] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:27:06.699] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:27:08.731] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:27:13.332] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:27:13.583] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:27:13.770] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:27:15.009] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:27:15.014] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:27:15.748] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:27:17.774] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:27:17.779] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:27:23.573] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:27:24.431] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:27:26.139] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:27:27.466] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:27:28.380] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:27:28.384] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:27:28.939] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:27:30.346] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:27:31.412] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:27:31.416] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:27:32.581] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:27:32.584] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:27:35.953] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:27:35.957] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:27:37.146] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:27:37.150] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:27:46.848] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:27:46.852] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:27:49.224] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:27:51.308] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:27:51.311] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:27:51.893] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:28:09.389] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:28:09.622] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:28:10.981] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:28:12.054] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:28:12.060] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:28:16.125] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:28:21.429] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:28:21.631] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:28:21.944] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:28:26.552] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:28:39.612] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:28:39.851] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:28:40.259] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:28:43.941] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:28:43.949] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 05:28:49.587] runtime error: undefined variable /obj/item/melee/unarmed/sappers/var/transfer_prints
+ - proc name: add fingerprint (/datum/component/forensics/proc/add_fingerprint)
+ -   source file: forensics.dm,68
+ - 
+[2020-08-28 07:15:08.256] Ban database connection failure. Key ghostly98 not checked
+[2020-08-28 07:15:50.072] Ban database connection failure. Key guest1271285026 not checked
+[2020-08-28 07:15:50.073] Ban database connection failure. Key ghostly98 not checked
+[2020-08-28 07:15:50.075] Ban database connection failure. Key ghostly98 not checked
+[2020-08-28 07:15:50.076] Ban database connection failure. Key ghostly98 not checked
+[2020-08-28 07:15:56.446] runtime error: bad resource file
+ - 
+[2020-08-28 07:21:07.934] Shutting down Persistence subsystem...
+[2020-08-28 07:21:07.935] Shutting down Pathfinder subsystem...
+[2020-08-28 07:21:07.935] Shutting down Squeak subsystem...
+[2020-08-28 07:21:07.936] Shutting down Shuttle subsystem...
+[2020-08-28 07:21:07.937] Shutting down Lighting subsystem...
+[2020-08-28 07:21:07.940] Shutting down XKeyScore subsystem...
+[2020-08-28 07:21:07.941] Shutting down Sticky Ban subsystem...
+[2020-08-28 07:21:07.942] Shutting down Overlay subsystem...
+[2020-08-28 07:21:07.960] Shutting down Icon Smoothing subsystem...
+[2020-08-28 07:21:07.961] Shutting down Assets subsystem...
+[2020-08-28 07:21:07.961] Shutting down Atmospherics subsystem...
+[2020-08-28 07:21:07.962] Shutting down Wet floors subsystem...
+[2020-08-28 07:21:07.963] Shutting down Weather subsystem...
+[2020-08-28 07:21:07.964] Shutting down Vote subsystem...
+[2020-08-28 07:21:07.964] Shutting down Traumas subsystem...
+[2020-08-28 07:21:07.965] Shutting down Title Screen subsystem...
+[2020-08-28 07:21:07.967] Shutting down Time Tracking subsystem...
+[2020-08-28 07:21:07.968] Shutting down Throwing subsystem...
+[2020-08-28 07:21:07.969] Shutting down tgui subsystem...
+[2020-08-28 07:21:07.969] Shutting down Sun subsystem...
+[2020-08-28 07:21:07.976] Shutting down Space Drift subsystem...
+[2020-08-28 07:21:07.978] Shutting down Religion subsystem...
+[2020-08-28 07:21:07.979] Shutting down Radio subsystem...
+[2020-08-28 07:21:07.980] Shutting down Radiation subsystem...
+[2020-08-28 07:21:07.982] Shutting down Projectiles subsystem...
+[2020-08-28 07:21:07.983] Shutting down Processing subsystem...
+[2020-08-28 07:21:07.985] Shutting down Ping subsystem...
+[2020-08-28 07:21:07.985] Shutting down Parallax subsystem...
+[2020-08-28 07:21:07.986] Shutting down pAI subsystem...
+[2020-08-28 07:21:07.987] Shutting down Orbits subsystem...
+[2020-08-28 07:21:07.990] Shutting down Objects subsystem...
+[2020-08-28 07:21:07.992] Shutting down NPC Pool subsystem...
+[2020-08-28 07:21:07.992] Shutting down Night Shift subsystem...
+[2020-08-28 07:21:07.993] Shutting down Mood subsystem...
+[2020-08-28 07:21:07.994] Shutting down Mobs subsystem...
+[2020-08-28 07:21:07.995] Shutting down Mob Spawners subsystem...
+[2020-08-28 07:21:07.995] Shutting down Medals subsystem...
+[2020-08-28 07:21:07.996] Shutting down Item Spawners subsystem...
+[2020-08-28 07:21:07.997] Shutting down Idling NPC Pool subsystem...
+[2020-08-28 07:21:07.998] Shutting down Flightpack Movement subsystem...
+[2020-08-28 07:21:07.999] Shutting down Fire Burning subsystem...
+[2020-08-28 07:21:07.999] Shutting down Fields subsystem...
+[2020-08-28 07:21:08.000] Shutting down Fast Processing subsystem...
+[2020-08-28 07:21:08.001] Shutting down Disease subsystem...
+[2020-08-28 07:21:08.002] Shutting down Day/Night Cycle subsystem...
+[2020-08-28 07:21:08.003] Shutting down Datum Component System subsystem...
+[2020-08-28 07:21:08.004] Shutting down Communications subsystem...
+[2020-08-28 07:21:08.006] Shutting down Bot Comms subsystem...
+[2020-08-28 07:21:08.008] Shutting down Augury subsystem...
+[2020-08-28 07:21:08.009] Shutting down Acid subsystem...
+[2020-08-28 07:21:08.010] Shutting down Timer subsystem...
+[2020-08-28 07:21:08.011] Shutting down Circuit subsystem...
+[2020-08-28 07:21:08.012] Shutting down Machines subsystem...
+[2020-08-28 07:21:08.014] Shutting down Language subsystem...
+[2020-08-28 07:21:08.015] Shutting down Atoms subsystem...
+[2020-08-28 07:21:08.017] Shutting down Networks subsystem...
+[2020-08-28 07:21:08.017] Shutting down Mapping subsystem...
+[2020-08-28 07:21:08.018] Shutting down Ticker subsystem...
+[2020-08-28 07:21:08.036] Shutting down Quirks subsystem...
+[2020-08-28 07:21:08.039] Shutting down Jobs subsystem...
+[2020-08-28 07:21:08.042] Shutting down Events subsystem...
+[2020-08-28 07:21:08.043] Shutting down Research subsystem...
+[2020-08-28 07:21:08.044] Shutting down Input subsystem...
+[2020-08-28 07:21:08.045] Shutting down Server Tasks subsystem...
+[2020-08-28 07:21:08.046] Shutting down Blackbox subsystem...
+[2020-08-28 07:21:08.048] Shutting down Database subsystem...
+[2020-08-28 07:21:08.049] Shutting down Garbage subsystem...
+[2020-08-28 07:21:08.153] Shutdown complete
+[2020-08-28 07:21:08.160] World rebooted at 03:21:08

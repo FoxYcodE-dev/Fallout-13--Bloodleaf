@@ -1,0 +1,65 @@
+[2020-08-28 19:03:03.855] Starting up round ID .
+ - -------------------------
+[2020-08-28 19:03:07.890] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"ghostly98","ip":"127.0.0.1","compid":"1271285026"},{"ckey":"ghostly98","ip":"75.163.21.179","compid":"1271285026"},{"ckey":"ghostly98","ip":"24.62.253.225","compid":"1271285026"},{"ckey":"guest1271285026","ip":"127.0.0.1","compid":"1271285026"}]}
+[2020-08-28 19:03:10.714] HREF: Storybro_2 (usr:Storybro_2[(180,247,1)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"storybro2","ip":"108.194.95.112","compid":"1689633001"}]}
+[2020-08-28 19:03:27.087] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : Ghostly98 src=[mob_6];show_preferences=1
+[2020-08-28 19:03:29.396] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=job;task=menu
+[2020-08-28 19:03:32.232] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=3;text=Mayor
+[2020-08-28 19:03:32.785] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=2;text=Mayor
+[2020-08-28 19:03:33.593] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=job;task=setJobLevel;level=1;text=Mayor
+[2020-08-28 19:03:34.931] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=job;task=close
+[2020-08-28 19:03:41.167] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=save
+[2020-08-28 19:03:51.064] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=cycle_bg;task=input
+[2020-08-28 19:03:55.126] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=tab;tab=2
+[2020-08-28 19:03:57.127] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=tab;tab=1
+[2020-08-28 19:03:59.199] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;task=input;preference=ui
+[2020-08-28 19:04:09.171] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=tgui_lock
+[2020-08-28 19:04:13.743] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=tgui_fancy
+[2020-08-28 19:04:15.290] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=tgui_fancy
+[2020-08-28 19:04:18.103] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=save
+[2020-08-28 19:04:19.416] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : _src_=prefs;preference=tab;tab=0
+[2020-08-28 19:04:20.719] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : /datum/preferences close=1
+[2020-08-28 19:04:22.744] HREF: Ghostly98 (usr:Ghostly98[(180,247,1)]) : Ghostly98 src=[mob_6];ready=1
+[2020-08-28 19:07:05.306] HREF: Storybro_2 (usr:Storybro_2[(180,247,1)]) : Storybro_2 src=[mob_8];late_join=1
+[2020-08-28 19:15:08.761] HREF: Ghostly98 (usr:Floyd Tin[(46,50,2)]) : The jukebox src=[0x2004ac7];action=toggle
+[2020-08-28 19:15:28.293] HREF: Ghostly98 (usr:Floyd Tin[(47,49,2)]) : The �Big Smokes src=[0x2004b03];vend=[0x21010f09]
+[2020-08-28 19:17:15.078] HREF: Ghostly98 (usr:Floyd Tin[(79,23,3)]) : The cap press src=[0x2007539];makeCoins=1
+[2020-08-28 19:19:24.982] HREF: Ghostly98 (usr:Floyd Tin[(65,46,3)]) : The jukebox src=[0x200701a];action=toggle
+[2020-08-28 19:19:32.078] HREF: Ghostly98 (usr:Floyd Tin[(65,46,3)]) : The jukebox src=[0x200701a];action=toggle
+[2020-08-28 19:20:34.854] HREF: Ghostly98 (usr:Floyd Tin[(47,62,2)]) : ghostly98's admin datum (Host) src=[0x21000c95];admin_token=0440645101026831336798621510612310310;create_object=1
+[2020-08-28 19:20:48.193] HREF: Ghostly98 (usr:Floyd Tin[(47,62,2)]) : ghostly98's admin datum (Host) src=%5B0x21000c95%5D%3Badmin_token%3D0440645101026831336798621510612310310&admin_token=0440645101026831336798621510612310310&filter=cap&offset=x%2Cy%2Cz&offset_type=relative&object_count=1&object_dir=&object_name=&object_where=onfloor&object_list=%2Fobj%2Fitem%2Fstack%2Ff13Cash%2Frandom%2Fbottle_cap%2Fbanker
+[2020-08-28 19:21:42.134] HREF: Ghostly98 (usr:Floyd Tin[(41,70,2)]) : Wasteland Camp-O-Vend src=[0x2004761];purchase=[0x210010aa]
+[2020-08-28 19:21:51.540] HREF: Ghostly98 (usr:Floyd Tin[(41,70,2)]) : Wasteland Camp-O-Vend src=[0x2004761];purchase=[0x210010aa]
+[2020-08-28 19:21:55.901] HREF: Ghostly98 (usr:Floyd Tin[(41,70,2)]) : Wasteland Camp-O-Vend src=[0x2004761];choice=eject
+[2020-08-28 19:30:50.021] HREF: Tonyburritos (usr:Tonyburritos[(180,247,1)]) : _src_=chat&proc=doneLoading
+[2020-08-28 19:30:50.178] HREF: Tonyburritos (usr:Tonyburritos[(180,247,1)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"tonyburritos","ip":"99.39.160.208","compid":"2305196357"},{"ckey":"tonyburritos","ip":"99.39.160.208","compid":"290406364"}]}
+[2020-08-28 19:31:35.582] HREF: Ghostly98 (usr:Floyd Tin[(68,36,2)]) : The �Pure Patriot Treats src=[0x2005105];vend=[0x21011be1]
+[2020-08-28 19:32:39.142] HREF: Ghostly98 (usr:Floyd Tin[(79,12,2)]) : The desktop terminal src=[0x2005a73];choice=1
+[2020-08-28 19:32:42.654] HREF: Ghostly98 (usr:Floyd Tin[(79,12,2)]) : The desktop terminal src=[0x2005a73];choice=Edit
+[2020-08-28 19:38:28.417] HREF: Ghostly98 (usr:Floyd Tin[(80,35,3)]) : _src_=chat&proc=doneLoading
+[2020-08-28 19:38:28.487] HREF: Ghostly98 (usr:Floyd Tin[(80,35,3)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"ghostly98","ip":"127.0.0.1","compid":"1271285026"},{"ckey":"ghostly98","ip":"75.163.21.179","compid":"1271285026"},{"ckey":"ghostly98","ip":"24.62.253.225","compid":"1271285026"},{"ckey":"guest1271285026","ip":"127.0.0.1","compid":"1271285026"}]}
+[2020-08-28 19:43:53.980] HREF: Ghostly98 (usr:Floyd Tin[(79,12,2)]) : The desktop terminal src=[0x2005a73];choice=Edit
+[2020-08-28 19:45:25.925] HREF: Tonyburritos (usr:Tonyburritos[(180,247,1)]) : _src_=chat&proc=doneLoading
+[2020-08-28 19:45:26.218] HREF: Tonyburritos (usr:Tonyburritos[(180,247,1)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"tonyburritos","ip":"99.39.160.208","compid":"2305196357"},{"ckey":"tonyburritos","ip":"99.39.160.208","compid":"290406364"}]}
+[2020-08-28 19:51:31.720] HREF: Raksha Dakote (usr:Raksha Dakote[(180,247,1)]) : _src_=chat&proc=doneLoading
+[2020-08-28 19:51:31.940] HREF: Raksha Dakote (usr:Raksha Dakote[(180,247,1)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"rakshadakote","ip":"127.0.0.1","compid":"2193590114"},{"ckey":"rakshadakote","ip":"217.44.14.199","compid":"2193590114"},{"ckey":"rakshadakote","ip":"86.158.157.116","compid":"2193590114"},{"ckey":"rakshadakote","ip":"217.44.12.182","compid":"2193590114"},{"ckey":"rakshadakote","ip":"81.155.40.8","compid":"2193590114"}]}
+[2020-08-28 19:53:08.975] HREF: Raksha Dakote (usr:Raksha Dakote[(180,247,1)]) : Raksha Dakote src=[mob_933];late_join=1
+[2020-08-28 19:53:13.090] HREF: Raksha Dakote (usr:Raksha Dakote[(180,247,1)]) : Raksha Dakote src=[mob_933];manifest=1
+[2020-08-28 19:53:16.818] HREF: Raksha Dakote (usr:Raksha Dakote[(180,247,1)]) : Raksha Dakote src=[mob_933];late_join=1
+[2020-08-28 19:55:13.103] HREF: Raksha Dakote (usr:Raksha Dakote[(180,247,1)]) : Raksha Dakote src=[mob_933];late_join=1
+[2020-08-28 19:55:17.424] HREF: Raksha Dakote (usr:Raksha Dakote[(180,247,1)]) : Raksha Dakote src=[mob_933];manifest=1
+[2020-08-28 19:55:22.023] HREF: Raksha Dakote (usr:Raksha Dakote[(180,247,1)]) : Raksha Dakote src=[mob_933];show_preferences=1
+[2020-08-28 19:55:25.781] HREF: Raksha Dakote (usr:Raksha Dakote[(180,247,1)]) : _src_=prefs;preference=name;task=random
+[2020-08-28 19:55:29.786] HREF: Raksha Dakote (usr:Raksha Dakote[(180,247,1)]) : /datum/preferences close=1
+[2020-08-28 19:59:11.418] HREF: Tonyburritos (usr:Tonyburritos[(180,247,1)]) : Tonyburritos src=[mob_931];late_join=1
+[2020-08-28 20:04:42.952] HREF: Raksha Dakote (usr:Raksha Dakote[(180,247,1)]) : Raksha Dakote src=[mob_933];late_join=1
+[2020-08-28 20:04:49.644] HREF: Raksha Dakote (usr:Raksha Dakote[(180,247,1)]) : Raksha Dakote src=[mob_933];SelectedJob=NCR%20Heavy%20Trooper
+[2020-08-28 20:04:59.851] HREF: Raksha Dakote (usr:Jessica Faust[(33,204,2)]) : /datum/tgui src=%5B0x2101cf8c%5D&action=tgui%3Ainitialize
+[2020-08-28 20:05:00.160] HREF: Raksha Dakote (usr:Jessica Faust[(33,204,2)]) : 
+[2020-08-28 20:05:01.343] HREF: Raksha Dakote (usr:Jessica Faust[(33,204,2)]) : /datum/tgui src=%5B0x2101cf8c%5D&action=loadout_select&name=Heavy%20Sergeant
+[2020-08-28 20:05:03.836] HREF: Raksha Dakote (usr:Jessica Faust[(33,204,2)]) : /datum/tgui src=%5B0x2101cf8c%5D&action=loadout_select&name=Heavy%20Corporal
+[2020-08-28 20:05:06.669] HREF: Raksha Dakote (usr:Jessica Faust[(33,204,2)]) : /datum/tgui src=%5B0x2101cf8c%5D&action=loadout_select&name=Heavy%20Sergeant
+[2020-08-28 20:05:09.878] HREF: Raksha Dakote (usr:Jessica Faust[(33,204,2)]) : /datum/tgui src=%5B0x2101cf8c%5D&action=loadout_confirm
+[2020-08-28 20:33:54.222] HREF: Raksha Dakote (usr:Jessica Faust[(34,131,2)]) : _src_=chat&proc=doneLoading
+[2020-08-28 20:33:54.371] HREF: Raksha Dakote (usr:Jessica Faust[(34,131,2)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"rakshadakote","ip":"127.0.0.1","compid":"2193590114"},{"ckey":"rakshadakote","ip":"217.44.14.199","compid":"2193590114"},{"ckey":"rakshadakote","ip":"86.158.157.116","compid":"2193590114"},{"ckey":"rakshadakote","ip":"217.44.12.182","compid":"2193590114"},{"ckey":"rakshadakote","ip":"81.155.40.8","compid":"2193590114"}]}
+[2020-08-28 21:08:54.670] HREF: Tonyburritos (usr:Tonyburritos[(180,247,1)]) : Tonyburritos src=[mob_931];late_join=1
