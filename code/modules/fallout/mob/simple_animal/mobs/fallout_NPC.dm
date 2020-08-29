@@ -5,7 +5,7 @@
 	icon_living = "vault_dweller"
 	icon_dead = "vault_dweller"
 	icon_gib = "vault_dweller"
-	faction = list("vault")
+	faction = list("Vault")
 	speak_chance = 0
 	turns_per_move = 5
 
@@ -92,7 +92,7 @@
 	icon_living = "vault_dweller_sec"
 	icon_dead = "vault_dweller_sec"
 	icon_gib = "vault_dweller_sec"
-	faction = list("vault")
+	faction = list("Vault")
 	maxHealth = 200
 	health = 200
 	retreat_distance = 5
@@ -127,7 +127,7 @@
 	icon_living = "enclave_scientist"
 	icon_dead = "enclave_scientist"
 	icon_gib = "enclave_scientist"
-	faction = list("encalve")
+	faction = list("Encalve")
 	speak_chance = 0
 	turns_per_move = 5
 	response_help = "pokes"
@@ -146,7 +146,7 @@
 	a_intent = INTENT_HARM
 	atmos_requirements = list("min_oxy" = 5, "max_oxy" = 0, "min_tox" = 0, "max_tox" = 1, "min_co2" = 0, "max_co2" = 5, "min_n2" = 0, "max_n2" = 0)
 	unsuitable_atmos_damage = 15
-	faction = list("enclave")
+	faction = list("Enclave")
 	check_friendly_fire = 1
 	status_flags = CANPUSH
 	del_on_death = 1
@@ -204,7 +204,7 @@
 	icon_living = "eclaverangedelite"
 	icon_dead = "enclave_soldier"
 	icon_gib = "enclave_soldier"
-	faction = list("enclave")
+	faction = list("Enclave")
 	maxHealth = 750
 	health = 750
 	melee_damage_lower = 55
@@ -227,7 +227,7 @@
 	icon_living = "enclaveranged"
 	icon_dead = "enclaveranged"
 	icon_gib = "enclave_soldier"
-	faction = list("encalve")
+	faction = list("Encalve")
 	maxHealth = 275
 	health = 275
 	melee_damage_lower = 40
@@ -250,7 +250,7 @@
 	icon_living = "bs_knight"
 	icon_dead = "bs_knight"
 	icon_gib = "bs_knight"
-	faction = list("bos")
+	faction = list("BOS")
 	speak_chance = 0
 	turns_per_move = 5
 	response_help = "pokes"
@@ -296,7 +296,7 @@
 	icon_living = "bs_knight"
 	icon_dead = "bs_knight"
 	icon_gib = "bs_knight"
-	faction = list("bos")
+	faction = list("BOS")
 	retreat_distance = 5
 	minimum_distance = 5
 	loot = list(/obj/effect/mob_spawn/human/corpse/bs)
@@ -312,7 +312,7 @@
 	icon_living = "bs_paladin"
 	icon_dead = "bs_paladin"
 	icon_gib = "bs_paladin"
-	faction = list("bos")
+	faction = list("BOS")
 	retreat_distance = 5
 	minimum_distance = 5
 	loot = list(/obj/effect/mob_spawn/human/corpse/bs/paladin)
@@ -341,7 +341,7 @@
 	icon_living = "ncr_trooper"
 	icon_dead = "ncr_trooper"
 	icon_gib = "ncr_trooper"
-	faction = list("ncr")
+	faction = list("NCR")
 	speak_chance = 0
 	turns_per_move = 5
 	response_help = "pokes"
@@ -387,7 +387,7 @@
 	icon_living = "ncr_trooper"
 	icon_dead = "ncr_trooper"
 	icon_gib = "ncr_trooper"
-	faction = list("ncr")
+	faction = list("NCR")
 	retreat_distance = 5
 	minimum_distance = 5
 	loot = list(/obj/effect/mob_spawn/human/corpse/ncr)
@@ -404,7 +404,7 @@
 	icon_living = "ncr_sergeant"
 	icon_dead = "ncr_sergeant"
 	icon_gib = "ncr_sergeant"
-	faction = list("ncr")
+	faction = list("NCR")
 	retreat_distance = 5
 	minimum_distance = 5
 	loot = list(/obj/effect/mob_spawn/human/corpse/ncr/sergeant)
@@ -434,7 +434,7 @@
 	icon_living = "legion_prime"
 	icon_dead = "legion_prime"
 	icon_gib = "legion_prime"
-	faction = list("legion")
+	faction = list("Legion")
 	speak_chance = 0
 	turns_per_move = 5
 	response_help = "pokes"
@@ -480,7 +480,7 @@
 	icon_living = "legion_prime"
 	icon_dead = "legion_prime"
 	icon_gib = "legion_prime"
-	faction = list("legion")
+	faction = list("Legion")
 	retreat_distance = 5
 	minimum_distance = 5
 	loot = list(/obj/effect/mob_spawn/human/corpse/legion)
@@ -497,7 +497,7 @@
 	icon_living = "legion_decan"
 	icon_dead = "legion_decan"
 	icon_gib = "legion_decan"
-	faction = list("legion")
+	faction = list("Legion")
 	retreat_distance = 5
 	minimum_distance = 5
 	loot = list(/obj/effect/mob_spawn/human/corpse/legion/decan)

@@ -45,6 +45,10 @@
 	death_sound = 'sound/f13npc/eyebot/robo_death.ogg'
 	speak_emote = list("states")
 
+/mob/living/simple_animal/hostile/eyebot/bos
+	name = "Brotherhood of Steel Eyebot"
+	faction = list("BOS")
+
 /mob/living/simple_animal/hostile/eyebot/New()
 	..()
 	name = "ED-[rand(1,99)]"

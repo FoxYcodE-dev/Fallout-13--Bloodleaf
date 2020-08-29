@@ -42,6 +42,10 @@
 	idlesound = list('sound/f13npc/dog/dog_bark1.ogg', 'sound/f13npc/dog/dog_bark2.ogg', 'sound/f13npc/dog/dog_bark3.ogg')
 	death_sound = 'sound/f13npc/centaur/centaur_death.ogg'
 
+/mob/living/simple_animal/hostile/wolf/legion
+	name = "Legion Attack Dog"
+	faction = list("Legion")
+
 /mob/living/simple_animal/hostile/wolf/playable
 	health = 150
 	maxHealth = 150
