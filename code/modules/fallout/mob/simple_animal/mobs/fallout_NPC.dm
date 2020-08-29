@@ -227,7 +227,7 @@
 	icon_living = "enclaveranged"
 	icon_dead = "enclaveranged"
 	icon_gib = "enclave_soldier"
-	faction = list("Encalve")
+	faction = list("Enclave")
 	maxHealth = 275
 	health = 275
 	melee_damage_lower = 40
