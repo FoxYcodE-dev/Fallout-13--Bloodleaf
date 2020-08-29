@@ -4,3 +4,17 @@
 *.lk
 *.zip
 *.log
+data/logs/2020/08/29/round-01.24.53/cargo.html
+data/logs/2020/08/29/round-01.24.53/gravity.html
+data/player_saves/r/rakshadakote/preferences.sav
+data/server_security_check.lock
+data/spritesheets/chat_16x16.png
+data/spritesheets/design_32x32.png
+data/spritesheets/design_32x64.png
+data/spritesheets/design_64x32.png
+data/spritesheets/paper_121x54.png
+data/spritesheets/pda_16x16.png
+data/spritesheets/pipes_32x32.png
+data/spritesheets/spritesheet_pda.css
+cfg/admin.txt
+config/admins.txt
